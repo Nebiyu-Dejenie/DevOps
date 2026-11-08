@@ -1,0 +1,852 @@
+{
+  "fees": [
+    {
+      "country": "Afghanistan",
+      "fee": "$240"
+    },
+    {
+      "country": "Albania",
+      "fee": "$260"
+    },
+    {
+      "country": "Algeria",
+      "fee": "$255"
+    },
+    {
+      "country": "American Samoa",
+      "fee": "$239"
+    },
+    {
+      "country": "Andorra",
+      "fee": "$250"
+    },
+    {
+      "country": "Angola",
+      "fee": "$255"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "fee": "$220"
+    },
+    {
+      "country": "Argentina",
+      "fee": "$250"
+    },
+    {
+      "country": "Armenia",
+      "fee": "$265"
+    },
+    {
+      "country": "Aruba",
+      "fee": "$230"
+    },
+    {
+      "country": "Australia",
+      "fee": "$293"
+    },
+    {
+      "country": "Austria",
+      "fee": "$306"
+    },
+    {
+      "country": "Azerbaijan",
+      "fee": "$260"
+    },
+    {
+      "country": "Bahamas",
+      "fee": "$240"
+    },
+    {
+      "country": "Bahrain",
+      "fee": "$340"
+    },
+    {
+      "country": "Bangladesh",
+      "fee": "$215"
+    },
+    {
+      "country": "Barbados",
+      "fee": "$230"
+    },
+    {
+      "country": "Belarus",
+      "fee": "$250"
+    },
+    {
+      "country": "Belgium",
+      "fee": "$308"
+    },
+    {
+      "country": "Belize",
+      "fee": "$230"
+    },
+    {
+      "country": "Benin",
+      "fee": "$255"
+    },
+    {
+      "country": "Bermuda",
+      "fee": "$220"
+    },
+    {
+      "country": "Bhutan",
+      "fee": "$200"
+    },
+    {
+      "country": "Bolivia",
+      "fee": "$199"
+    },
+    {
+      "country": "Bosnia ",
+      "fee": "$250"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "fee": "$240"
+    },
+    {
+      "country": "Botswana",
+      "fee": "$255"
+    },
+    {
+      "country": "Brazil",
+      "fee": "$250"
+    },
+    {
+      "country": "British Virgin Islands",
+      "fee": "$230"
+    },
+    {
+      "country": "Brunei Darussalam",
+      "fee": "$270"
+    },
+    {
+      "country": "Bulgaria",
+      "fee": "$300"
+    },
+    {
+      "country": "Burkina Faso",
+      "fee": "$255"
+    },
+    {
+      "country": "Burundi",
+      "fee": "$255"
+    },
+    {
+      "country": "Cambodia",
+      "fee": "$200"
+    },
+    {
+      "country": "Cameroon",
+      "fee": "$255"
+    },
+    {
+      "country": "Canada",
+      "fee": "$249"
+    },
+    {
+      "country": "Cape Verde",
+      "fee": "$255"
+    },
+    {
+      "country": "Cayman Islands",
+      "fee": "$230"
+    },
+    {
+      "country": "Central African Republic",
+      "fee": "$255"
+    },
+    {
+      "country": "Chad",
+      "fee": "$255"
+    },
+    {
+      "country": "Chile",
+      "fee": "$245"
+    },
+    {
+      "country": "China",
+      "fee": "$283.17"
+    },
+    {
+      "country": "Colombia",
+      "fee": "$220"
+    },
+    {
+      "country": "Comoros",
+      "fee": "$255"
+    },
+    {
+      "country": "Congo (Brazzaville)",
+      "fee": "$255"
+    },
+    {
+      "country": "Congo, Democratic Republic of the",
+      "fee": "$255"
+    },
+    {
+      "country": "Costa Rica",
+      "fee": "$230"
+    },
+    {
+      "country": "Cote D'Ivoire",
+      "fee": "$255"
+    },
+    {
+      "country": "Croatia",
+      "fee": "$313"
+    },
+    {
+      "country": "Cuba",
+      "fee": "$240"
+    },
+    {
+      "country": "Curacao",
+      "fee": "$220"
+    },
+    {
+      "country": "Cyprus",
+      "fee": "$298"
+    },
+    {
+      "country": "Czech Republic",
+      "fee": "$303"
+    },
+    {
+      "country": "Denmark",
+      "fee": "$375"
+    },
+    {
+      "country": "Djibouti",
+      "fee": "$225"
+    },
+    {
+      "country": "Dominican Republic",
+      "fee": "$240"
+    },
+    {
+      "country": "Ecuador",
+      "fee": "$235"
+    },
+    {
+      "country": "Egypt",
+      "fee": "$180"
+    },
+    {
+      "country": "El Salvador",
+      "fee": "$260"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "fee": "$255"
+    },
+    {
+      "country": "Eritrea",
+      "fee": "$255"
+    },
+    {
+      "country": "Estonia",
+      "fee": "$310"
+    },
+    {
+      "country": "Ethiopia",
+      "fee": "$185"
+    },
+    {
+      "country": "Faroe Islands",
+      "fee": "$300"
+    },
+    {
+      "country": "Fiji",
+      "fee": "$220"
+    },
+    {
+      "country": "Finland",
+      "fee": "$377"
+    },
+    {
+      "country": "France",
+      "fee": "$294"
+    },
+    {
+      "country": "French Polynesia",
+      "fee": "$220"
+    },
+    {
+      "country": "Gabon",
+      "fee": "$255"
+    },
+    {
+      "country": "Gambia",
+      "fee": "$255"
+    },
+    {
+      "country": "Georgia",
+      "fee": "$260"
+    },
+    {
+      "country": "Germany",
+      "fee": "$293"
+    },
+    {
+      "country": "Ghana",
+      "fee": "$255"
+    },
+    {
+      "country": "Gibraltar",
+      "fee": "$250"
+    },
+    {
+      "country": "Greece",
+      "fee": "$310"
+    },
+    {
+      "country": "Greenland",
+      "fee": "$250"
+    },
+    {
+      "country": "Grenada",
+      "fee": "$230"
+    },
+    {
+      "country": "Guadeloupe",
+      "fee": "$240"
+    },
+    {
+      "country": "Guam",
+      "fee": "$230"
+    },
+    {
+      "country": "Guatemala",
+      "fee": "$250"
+    },
+    {
+      "country": "Guinea",
+      "fee": "$255"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "fee": "$255"
+    },
+    {
+      "country": "Guyana",
+      "fee": "$240"
+    },
+    {
+      "country": "Haiti",
+      "fee": "$220"
+    },
+    {
+      "country": "Honduras",
+      "fee": "$260"
+    },
+    {
+      "country": "Hong Kong, China",
+      "fee": "$320"
+    },
+    {
+      "country": "Hungary",
+      "fee": "$260"
+    },
+    {
+      "country": "Iceland",
+      "fee": "$300"
+    },
+    {
+      "country": "India",
+      "fee": "$164"
+    },
+    {
+      "country": "Indonesia",
+      "fee": "$199"
+    },
+    {
+      "country": "Iran, Islamic Republic of",
+      "fee": "$220"
+    },
+    {
+      "country": "Iraq",
+      "fee": "$255"
+    },
+    {
+      "country": "Ireland",
+      "fee": "$308"
+    },
+    {
+      "country": "Israel",
+      "fee": "$425"
+    },
+    {
+      "country": "Italy",
+      "fee": "$305"
+    },
+    {
+      "country": "Jamaica",
+      "fee": "$240"
+    },
+    {
+      "country": "Japan",
+      "fee": "$195"
+    },
+    {
+      "country": "Jordan",
+      "fee": "$260"
+    },
+    {
+      "country": "Kazakhstan",
+      "fee": "$180"
+    },
+    {
+      "country": "Kenya",
+      "fee": "$225"
+    },
+    {
+      "country": "Kiribati",
+      "fee": "$220"
+    },
+    {
+      "country": "Korea, Republic of",
+      "fee": "$232"
+    },
+    {
+      "country": "Kosovo",
+      "fee": "$250"
+    },
+    {
+      "country": "Kuwait",
+      "fee": "$340"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "fee": "$200"
+    },
+    {
+      "country": "Lao PDR",
+      "fee": "$205"
+    },
+    {
+      "country": "Latvia",
+      "fee": "$299"
+    },
+    {
+      "country": "Lebanon",
+      "fee": "$255"
+    },
+    {
+      "country": "Lesotho",
+      "fee": "$255"
+    },
+    {
+      "country": "Liberia",
+      "fee": "$255"
+    },
+    {
+      "country": "Libya",
+      "fee": "$205"
+    },
+    {
+      "country": "Lithuania",
+      "fee": "$303"
+    },
+    {
+      "country": "Luxembourg",
+      "fee": "$303"
+    },
+    {
+      "country": "Macau, China",
+      "fee": "$320"
+    },
+    {
+      "country": "Macedonia",
+      "fee": "$250"
+    },
+    {
+      "country": "Madagascar",
+      "fee": "$255"
+    },
+    {
+      "country": "Malawi",
+      "fee": "$255"
+    },
+    {
+      "country": "Malaysia",
+      "fee": "$204"
+    },
+    {
+      "country": "Maldives",
+      "fee": "$240"
+    },
+    {
+      "country": "Mali",
+      "fee": "$255"
+    },
+    {
+      "country": "Malta",
+      "fee": "$295"
+    },
+    {
+      "country": "Marshall Islands",
+      "fee": "$220"
+    },
+    {
+      "country": "Martinique",
+      "fee": "$230"
+    },
+    {
+      "country": "Mauritania",
+      "fee": "$255"
+    },
+    {
+      "country": "Mauritius",
+      "fee": "$255"
+    },
+    {
+      "country": "Mexico",
+      "fee": "$265"
+    },
+    {
+      "country": "Micronesia, Federated States of",
+      "fee": "$220"
+    },
+    {
+      "country": "Moldova",
+      "fee": "$260"
+    },
+    {
+      "country": "Monaco",
+      "fee": "$250"
+    },
+    {
+      "country": "Mongolia",
+      "fee": "$230"
+    },
+    {
+      "country": "Montenegro",
+      "fee": "$260"
+    },
+    {
+      "country": "Morocco",
+      "fee": "$260"
+    },
+    {
+      "country": "Mozambique",
+      "fee": "$255"
+    },
+    {
+      "country": "Myanmar",
+      "fee": "$250"
+    },
+    {
+      "country": "Namibia",
+      "fee": "$255"
+    },
+    {
+      "country": "Nauru",
+      "fee": "$220"
+    },
+    {
+      "country": "Nepal",
+      "fee": "$205"
+    },
+    {
+      "country": "Netherlands",
+      "fee": "$304"
+    },
+    {
+      "country": "Netherlands Antilles",
+      "fee": "$240"
+    },
+    {
+      "country": "New Caledonia",
+      "fee": "$245"
+    },
+    {
+      "country": "New Zealand",
+      "fee": "$280"
+    },
+    {
+      "country": "Nicaragua",
+      "fee": "$250"
+    },
+    {
+      "country": "Niger",
+      "fee": "$255"
+    },
+    {
+      "country": "Nigeria",
+      "fee": "$170"
+    },
+    {
+      "country": "North Macedonia, Republic of",
+      "fee": "$230"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "fee": "$220"
+    },
+    {
+      "country": "Norway",
+      "fee": "$375"
+    },
+    {
+      "country": "Oman",
+      "fee": "$340"
+    },
+    {
+      "country": "Pakistan",
+      "fee": "$230"
+    },
+    {
+      "country": "Palestinian Territories, The",
+      "fee": "$205"
+    },
+    {
+      "country": "Panama",
+      "fee": "$250"
+    },
+    {
+      "country": "Papua New Guinea",
+      "fee": "$220"
+    },
+    {
+      "country": "Paraguay",
+      "fee": "$249"
+    },
+    {
+      "country": "Peru",
+      "fee": "$275"
+    },
+    {
+      "country": "Philippines",
+      "fee": "$250"
+    },
+    {
+      "country": "Poland",
+      "fee": "$257"
+    },
+    {
+      "country": "Portugal",
+      "fee": "$308"
+    },
+    {
+      "country": "Puerto Rico",
+      "fee": "$250"
+    },
+    {
+      "country": "Qatar",
+      "fee": "$350"
+    },
+    {
+      "country": "Reunion",
+      "fee": "$255"
+    },
+    {
+      "country": "Romania",
+      "fee": "$303"
+    },
+    {
+      "country": "Russian Federation",
+      "fee": "$325"
+    },
+    {
+      "country": "Rwanda",
+      "fee": "$255"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "fee": "$240"
+    },
+    {
+      "country": "Saint Lucia",
+      "fee": "$230"
+    },
+    {
+      "country": "Samoa",
+      "fee": "$220"
+    },
+    {
+      "country": "Saudi Arabia",
+      "fee": "$345"
+    },
+    {
+      "country": "Senegal",
+      "fee": "$255"
+    },
+    {
+      "country": "Serbia",
+      "fee": "$260"
+    },
+    {
+      "country": "Seychelles",
+      "fee": "$255"
+    },
+    {
+      "country": "Sierra Leone",
+      "fee": "$255"
+    },
+    {
+      "country": "Singapore",
+      "fee": "$275"
+    },
+    {
+      "country": "Slovakia",
+      "fee": "$299"
+    },
+    {
+      "country": "Slovenia",
+      "fee": "$305"
+    },
+    {
+      "country": "Solomon Islands",
+      "fee": "$220"
+    },
+    {
+      "country": "South Africa",
+      "fee": "$255"
+    },
+    {
+      "country": "South Sudan",
+      "fee": "$255"
+    },
+    {
+      "country": "Spain",
+      "fee": "$275"
+    },
+    {
+      "country": "Sri Lanka",
+      "fee": "$210"
+    },
+    {
+      "country": "Sudan",
+      "fee": "$205"
+    },
+    {
+      "country": "Suriname",
+      "fee": "$220"
+    },
+    {
+      "country": "Swaziland",
+      "fee": "$255"
+    },
+    {
+      "country": "Sweden",
+      "fee": "$375"
+    },
+    {
+      "country": "Switzerland",
+      "fee": "$475"
+    },
+    {
+      "country": "Syria",
+      "fee": "$205"
+    },
+    {
+      "country": "Tahiti",
+      "fee": "$220"
+    },
+    {
+      "country": "Taiwan, China",
+      "fee": "$272"
+    },
+    {
+      "country": "Tajikistan",
+      "fee": "$204"
+    },
+    {
+      "country": "Tanzania, United Republic of",
+      "fee": "$255"
+    },
+    {
+      "country": "Thailand",
+      "fee": "$230"
+    },
+    {
+      "country": "Timor-Leste",
+      "fee": "$210"
+    },
+    {
+      "country": "Togo",
+      "fee": "$255"
+    },
+    {
+      "country": "Tonga",
+      "fee": "$220"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "fee": "$300"
+    },
+    {
+      "country": "Tunisia",
+      "fee": "$255"
+    },
+    {
+      "country": "Turkey",
+      "fee": "$185"
+    },
+    {
+      "country": "Turkmenistan",
+      "fee": "$195"
+    },
+    {
+      "country": "Uganda",
+      "fee": "$255"
+    },
+    {
+      "country": "Ukraine",
+      "fee": "$170"
+    },
+    {
+      "country": "United Arab Emirates",
+      "fee": "$345"
+    },
+    {
+      "country": "United Kingdom",
+      "fee": "$270"
+    },
+    {
+      "country": "United States",
+      "fee": "$280"
+    },
+    {
+      "country": "Uruguay",
+      "fee": "$250"
+    },
+    {
+      "country": "Uzbekistan",
+      "fee": "$200"
+    },
+    {
+      "country": "Vanuatu",
+      "fee": "$220"
+    },
+    {
+      "country": "Venezuela",
+      "fee": "$265"
+    },
+    {
+      "country": "Viet Nam",
+      "fee": "$182"
+    },
+    {
+      "country": "Virgin Islands (British)",
+      "fee": "$220"
+    },
+    {
+      "country": "Virgin Islands, US",
+      "fee": "$240"
+    },
+    {
+      "country": "Yemen",
+      "fee": "$205"
+    },
+    {
+      "country": "Zambia",
+      "fee": "$255"
+    },
+    {
+      "country": "Zimbabwe",
+      "fee": "$255"
+    }
+  ]
+}

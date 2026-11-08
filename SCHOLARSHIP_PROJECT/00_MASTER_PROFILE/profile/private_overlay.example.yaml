@@ -1,0 +1,9 @@
+# Copy to private_overlay.yaml (git-ignored) and fill in. Never commit the real file.
+# Used only with: python3 generate.py build <doc> --private   (outputs go to output_private/, also git-ignored)
+identity:
+  display_name: {v: "Givenname Fathername Grandfathername (exactly as in the passport)", ev: E0}
+contact:
+  email: "you@example.com"
+  phone: "+251 ..."
+  linkedin: "https://www.linkedin.com/in/..."
+  github: "https://github.com/..."

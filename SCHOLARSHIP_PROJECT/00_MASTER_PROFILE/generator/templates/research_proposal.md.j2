@@ -1,0 +1,16 @@
+---
+title: "Study Plan / Research Proposal: {{ prog.name }}"
+subtitle: "{{ prog.university }}. Generated draft; expand per university."
+---
+
+**Topic:** {{ profile.research_interests[prog.interest_key] | f }}.
+
+**Background.** {{ profile.experience[0].employer | f }} provides {{ profile.experience[0].sector | f }}. My role: {{ profile.experience[0].titles_and_dates | f }}. Failures are often noticed late, after users complain, although warning signs exist in metrics and logs.
+
+**Preparation.** {{ profile.education.degree | f }}, {{ profile.education.institution | f }}; final-year GPA {{ profile.education.final_year_gpa | f }}; relevant courses: {% for c in profile.education.relevant_courses %}{% if c is usable %}{{ c | f }}{% if not loop.last %}, {% endif %}{% endif %}{% endfor %}.
+
+**Questions.** (1) Which metric and log features predict degradation early? (2) Can detection run on modest hardware? (3) How should alerts be designed to avoid alarm fatigue?
+
+**Method.** Year 1: core courses in {{ prog.focus }}. Year 2: a replica of a small payment service built from open-source components (no proprietary data), fault injection, and comparison of detection methods by lead time, false-alarm rate and cost.
+
+**After graduation.** I aim to {{ profile.career_goal.long | f }}.

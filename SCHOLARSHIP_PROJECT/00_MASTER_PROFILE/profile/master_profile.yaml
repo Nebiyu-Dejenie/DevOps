@@ -1,0 +1,111 @@
+# MASTER PROFILE (single source of truth for the document generator)
+# Rules:
+#  - Each fact: {v: value, ev: E0|E1|E2|E3|E4|E5|Pending, note: optional}
+#  - E5 facts are NEVER rendered. Pending facts render as "[⏳ note]".
+#  - No passport number, date of birth, student ID, phone or e-mail here.
+#    Private fields live in private_overlay.yaml (git-ignored; see the .example file).
+#  - Edit a value -> run `python3 generate.py status` to see which documents need updating.
+meta:
+  updated: 2026-11-08
+  owner_note: "Facts verified against the official DTU transcript (E0) and official sites (E1)."
+
+identity:
+  display_name: {v: "[PASSPORT NAME]", ev: Pending, note: "passport name, kept in private_overlay.yaml"}
+  city: {v: "Addis Ababa, Ethiopia", ev: E4}
+  nationality: {v: "Ethiopian", ev: E4}
+
+education:
+  degree: {v: "BSc Computer Science", ev: E0}
+  institution: {v: "Debre Tabor University, Faculty of Technology", ev: E0}
+  programme_mode: {v: "Extension programme", ev: E0}
+  period: {v: "academic years 2017/18 – 2021/22", ev: E0}
+  awarded: {v: "14 July 2022", ev: E0}
+  cgpa: {v: "2.62 / 4.00", ev: E0}
+  final_year_gpa: {v: "3.20", ev: E0, note: "own calculation from the official transcript; use only in essays, labelled"}
+  final_year_semesters: {v: "3.05 and 3.35", ev: E0}
+  last_two_years_gpa: {v: "2.98", ev: E0}
+  language_of_instruction: {v: "English", ev: E0}
+  final_project_title: {v: null, ev: Pending, note: "final-year project title (DR-17)"}
+  final_project_grades: {v: "A− (Final Project I) and A− (Final Project II)", ev: E0}
+  strong_courses:
+    - {v: "Advanced Programming (A−)", ev: E0}
+    - {v: "Compiler Design (A−)", ev: E0}
+    - {v: "Complexity Theory (A−)", ev: E0}
+    - {v: "Selected Topics in Computer Science (A)", ev: E0}
+    - {v: "Wireless Communication and Mobile Computing (B+)", ev: E0}
+    - {v: "Human-Computer Interaction (B+)", ev: E0}
+  relevant_courses:
+    - {v: "Computer Security (B)", ev: E0}
+    - {v: "Introduction to Distributed Systems (B−)", ev: E0}
+    - {v: "Network and System Administration (B−)", ev: E0}
+    - {v: "Introduction to Artificial Intelligence (B)", ev: E0}
+  grading_scale: {v: "A+/A = 4.00, A− = 3.75 (Excellent); B+ = 3.50, B = 3.00 (Very Good); B− = 2.75, C+ = 2.50 (Good); C = 2.00 (Satisfactory); C− = 1.75 (Unsatisfactory); D = 1.00 (Very Poor); Fx/F = 0 (Fail)", ev: E0}
+  weaker_areas: {v: "mathematics (two first-attempt fails, both later passed) and core algorithms/data structures", ev: E0}
+
+experience:
+  - employer: {v: "SantimPay Financial Solution S.C.", ev: E0}
+    sector: {v: "digital payments (POS, QR, school payments, payment gateway, loyalty) with partner banks", ev: E0}
+    titles_and_dates: {v: null, ev: Pending, note: "titles and dates exactly as in the HR letter (DR-06)"}
+    hours_per_week: {v: null, ev: Pending, note: "weekly hours from HR"}
+    duties:
+      - {v: "Operate Linux-based production infrastructure for payment services", ev: E4, note: "confirm scope"}
+      - {v: "Maintain CI/CD pipelines", ev: E4, note: "tool and period"}
+      - {v: "Automate server configuration with Ansible", ev: E4}
+      - {v: "Monitor service health and respond to incidents", ev: E4, note: "tools"}
+    results:
+      - {v: null, ev: Pending, note: "one measurable result you can defend"}
+  - employer: {v: "Kifiya Financial Technology PLC", ev: E0}
+    sector: {v: "financial technology services", ev: E0}
+    titles_and_dates: {v: null, ev: Pending, note: "title, dates and contract type (DR-07)"}
+    hours_per_week: {v: null, ev: Pending, note: "weekly hours"}
+    duties:
+      - {v: null, ev: Pending, note: "security tooling you configured yourself"}
+    results: []
+  - employer: {v: "Plan International Ethiopia", ev: E5, note: "excluded: duplicated text (DR-08)"}
+    sector: {v: "-", ev: E5}
+    titles_and_dates: {v: "-", ev: E5}
+    hours_per_week: {v: "-", ev: E5}
+    duties: []
+    results: []
+
+skills:
+  systems: {v: "Linux administration, Bash, Python scripting", ev: E4, note: "keep only what you can demonstrate"}
+  automation: {v: "Ansible, Git, Docker, Kubernetes operations, CI/CD", ev: E4}
+  observability: {v: null, ev: Pending, note: "Prometheus / Grafana / Splunk: which ones"}
+  security: {v: "IAM/MFA, WAF/WAAP, PAM/DAM, firewall rules", ev: E4, note: "configured yourself vs supported"}
+
+certifications:
+  - {v: "Microsoft Azure Fundamentals (2021)", ev: E4, note: "verification link"}
+  - {v: "Certified Kubernetes Administrator, Linux Foundation (2022–2025, expired)", ev: E4, note: "certificate ID"}
+  - {v: "Fortinet NSE 1–3 (2023, expired 2025)", ev: E4}
+
+languages:
+  - {v: "Amharic (native)", ev: E4}
+  - {v: "English (bachelor's degree taught in English)", ev: E0}
+english_test: {v: null, ev: Pending, note: "IELTS Academic result (planned December 2026)"}
+
+leadership:
+  - {v: null, ev: Pending, note: "a real leadership example (STAR)"}
+giving_back:
+  - {v: "Co-trainer, Dereja (2022): supported trainees on the learning platform and prepared weekly progress reports", ev: E4, note: "dates, numbers, certificate"}
+
+portfolio:
+  - {v: "Final-year project (A−/A−)", ev: E0}
+  - {v: "Payment-infrastructure operations at SantimPay", ev: E4}
+  - {v: "Public demo: CI/CD + configuration automation", ev: Pending, note: "build by 30 Nov"}
+  - {v: "Public demo: monitoring and alerting stack", ev: Pending, note: "build by 30 Nov"}
+
+research_interests:
+  main: {v: "reliable data-intensive systems: using monitoring and log data from distributed services to detect degradation early", ev: E4}
+  ai_social: {v: "designing AI-assisted fraud and anomaly detection in digital payments together with the merchants it affects", ev: E4}
+
+career_goal:
+  short: {v: "infrastructure or security engineer for an Ethiopian fintech or bank, responsible for platform reliability", ev: E4}
+  long: {v: "lead reliability and security engineering for payment platforms in Ethiopia", ev: E4}
+
+programmes:
+  AISS: {name: "AISS: Artificial Intelligence for Sustainable Societies (Erasmus Mundus)", university: "Tallinn University, Lusófona University, Tampere University", focus: "AI, sustainability and participatory design", interest_key: ai_social}
+  EDISS: {name: "EDISS: Engineering of Data-intensive Intelligent Software Systems (Erasmus Mundus)", university: "Åbo Akademi University and partners", focus: "software engineering, data engineering and intelligent systems", interest_key: main}
+  CMU: {name: "MS in Information Technology", university: "Carnegie Mellon University Africa", focus: "applied information technology for African markets", interest_key: main}
+  SI: {name: "[programme chosen after 13 Nov]", university: "[Swedish university]", focus: "resilient, secure computer systems", interest_key: main}
+  CSC: {name: "[English-taught master's in computer science]", university: "[Chinese university]", focus: "large-scale distributed and reliable systems", interest_key: main}

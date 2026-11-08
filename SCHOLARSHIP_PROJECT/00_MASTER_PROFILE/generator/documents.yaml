@@ -1,0 +1,16 @@
+# Registry of generated documents. Add a line to create a new document type.
+documents:
+  - {id: cv_academic, template: cv_academic.md.j2, title: "Academic CV for Europe (AISS, SMACCs, EDISS)", export: "../../APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_Europe_Academic"}
+  - {id: cv_cmu, template: cv_cmu.md.j2, title: "CMU-Africa CV (max 2 pages)", export: "../../APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_CMU-Africa_2pages"}
+  - {id: si_cv_blocks, template: si_cv_blocks.md.j2, title: "Content for the SI CV template", export: "../../APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_content_for_SI_template"}
+  - {id: cv_professional, template: cv_professional.md.j2, title: "Professional technology CV"}
+  - {id: motivation_AISS, template: motivation.md.j2, programme: AISS, title: "Motivation letter: AISS"}
+  - {id: motivation_EDISS, template: motivation.md.j2, programme: EDISS, title: "Motivation letter: EDISS"}
+  - {id: motivation_CMU, template: motivation.md.j2, programme: CMU, title: "Motivation statement: CMU-Africa"}
+  - {id: motivation_SI, template: motivation.md.j2, programme: SI, title: "Motivation: Sweden SI"}
+  - {id: sop_general, template: sop.md.j2, title: "Statement of purpose (general)"}
+  - {id: research_proposal_CSC, template: research_proposal.md.j2, programme: CSC, title: "Study plan / research proposal: CSC"}
+  - {id: recommender_brief_academic, template: recommender_brief.md.j2, kind: academic, title: "Recommender briefing: academic referee"}
+  - {id: recommender_brief_work, template: recommender_brief.md.j2, kind: work, title: "Recommender briefing: work referee"}
+  - {id: interview_prep_AISS, template: interview_prep.md.j2, programme: AISS, title: "Interview preparation: AISS"}
+  - {id: interview_prep_CMU, template: interview_prep.md.j2, programme: CMU, title: "Interview preparation: CMU-Africa"}

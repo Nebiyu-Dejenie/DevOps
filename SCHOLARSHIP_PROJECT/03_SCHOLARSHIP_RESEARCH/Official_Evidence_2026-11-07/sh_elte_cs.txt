@@ -1,0 +1,815 @@
+Skip to content High contrast mode Report accessibility issue
+
+[Stipendium Hungaricum]
+
+United States
+
+Find programmes Browse institutions
+
+Sign in / register My wishlist
+
+0
+
+Application guides
+
+Application Guide for Stipendium Hungaricum 
+
+Application for Stipendium Hungaricum Programme - video guide 
+
+More information
+
+Contact us 
+
+Stipendium Hungaricum Scholarship Programme 
+
+SH - Students at Risk Subprogramme 
+
+Study in Hungary website 
+
+High contrast mode Report accessibility issue
+
+Admin login Advisor login DreamApply student admission software
+
+cancel
+
+Save changes
+
+Stipendium Hungaricum
+
+[Sponsor logo]
+
+My wishlist
+
+0
+
+United States
+
+Sign in / register
+
+[Photo illustrating the study course / programme]
+
+[Logo of Eötvös Loránd University]
+
+MScComputer Science (Budapest)
+
+Eötvös Loránd University
+Hungary, Budapest
+
+Faculty of Informatics
+
+How to apply
+
++-----------------------------------+---------------------------------------------+
+| Study location                    | Hungary, Budapest                           |
++-----------------------------------+---------------------------------------------+
+| Academic field                    | Computer science (ISCED 481)                |
+|                                   |                                             |
+|                                   | Computer Sciences (JACS I000)               |
++-----------------------------------+---------------------------------------------+
+| Type                              | Master of Science, full degree studies      |
++-----------------------------------+---------------------------------------------+
+| Area of study                     | Computer Science and Information Technology |
++-----------------------------------+---------------------------------------------+
+| Nominal duration                  | 4 semesters (120 ECTS)                      |
++-----------------------------------+---------------------------------------------+
+| Study language                    | English                                     |
++-----------------------------------+---------------------------------------------+
+| Awards                            | MSc                                         |
++-----------------------------------+---------------------------------------------+
+| Accreditation                     | FF2532-2, MAB2008/4/VIII/2/1                |
++-----------------------------------+---------------------------------------------+
+
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Entry qualification               | Bachelor diploma (or higher)                                                                                                                                                                          |
+|                                   |                                                                                                                                                                                                       |
+|                                   | Holding a BSc degree in Computer Science or obtaining altogether at least 60 ECTS credits in informatics and mathematical subjects related to computer science during a completed Bachelor’s program. |
+|                                   |                                                                                                                                                                                                       |
+|                                   | The entry qualification documents are accepted in the following languages: English.                                                                                                                   |
+|                                   |                                                                                                                                                                                                       |
+|                                   | In most cases you can request a suitable transcript from your school. If this is not the case, you will need official translations along with verified copies of the original.                        |
+|                                   |                                                                                                                                                                                                       |
+|                                   | You must take the original entry qualification documents along with you when you finally go to the university.                                                                                        |
+|                                   |                                                                                                                                                                                                       |
+|                                   | Take copies along as well.                                                                                                                                                                            |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+  ------------------------ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Territory requirements   Applications are accepted from the following territories (based on citizenship): Albania, Algeria, Angola, Argentina, Armenia, Azerbaijan, Bahrain, Bangladesh, Belize, Bolivia, Bosnia & Herzegovina, Botswana, Brazil, Burkina Faso, Burundi, Cambodia, Cape Verde, Chad, Chile, China, Colombia, Congo - Kinshasa, Costa Rica, Cuba, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Georgia, Ghana, Guinea-Bissau, Honduras, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan, Kenya, Kosovo, Kyrgyzstan, Laos, Lebanon, Liberia, Libya, Madagascar, Malaysia, Maldives, Mali, Marshall Islands, Mauritius, Mexico, Moldova, Mongolia, Montenegro, Morocco, Mozambique, Namibia, Nigeria, Oman, Pakistan, Palestine, Panama, Paraguay, Peru, Philippines, Russia, Rwanda, Serbia, Seychelles, Sierra Leone, Singapore, South Africa, South Korea, Sri Lanka, St Lucia, Sudan, Syria, São Tomé & Príncipe, Taiwan, Tajikistan, Tanzania, Thailand, Tunisia, Turkmenistan, Türkiye, Uganda, Ukraine, United Arab Emirates, Uruguay, Uzbekistan, Venezuela, Vietnam, Yemen.
+  ------------------------ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Language requirements             | English                                                                                                                                                                     |
+|                                   |                                                                                                                                                                             |
+|                                   | Minimum level of language proficiency (oral) (A1-C2): B2                                                                                                                    |
+|                                   | Minimum level of language proficiency (written) (A1-C2): B2                                                                                                                 |
+|                                   | Further comments: At least Intermediate level English language skills is required. English language exams are preferred (but not required) and any certificate is accepted. |
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+  -------------------- --------------------------------------------------------
+  Other requirements   A motivation letter must be added to your application.
+  -------------------- --------------------------------------------------------
+
+  ------------------ ---------------------------------------------
+  More information   inf.elte.hu/..t/why-choose-us.t.1107?m=170 
+  ------------------ ---------------------------------------------
+
+Overview
+
+Program description:
+The objective is to train Software Designers with a professional knowledge based on a solid theoretical background knowledge. They have the skills to take part in program development, in developing information systems and system management in various areas. The Software Designer often acts as a mediator between the customers of information systems and the producers. In this way, the job of a Software Designer synthesises the constructive activity of engineers with the general problem-solving attitude of mathematicians while participating in teams of large-scale projects. The programme provides students with a broad education in Computer Science in combination with specialised work in computer and information processing techniques, programming languages, data structures, information retrieval, operating systems, compiler design etc. Students learn the theory as well as the methodologies and techniques in the development and implementation of computer systems. The more practical programming courses are aided by several courses in pure and applied mathematics and theoretical computer science courses throughout the curriculum.
+
+Entry requirements:
+BSc in Computer Science
+
+Entrance exam:
+Yes
+
+Type of entrance exam:
+online complex
+
+Entrance exam location:
+Electronic
+
+Entrance exam description:
+Decision regarding admission is based on the result of the entrance exam and the academic excellence of previous studies. The latter can be evaluated if the applicant submits his/her Bachelor degree and the trascript of records. The submitted documents shall be examined and evaluated by the Computer Science MSc Admissions Committee. The Commitee needs to be satisfied about the extant knowledge of the applicants, concerning on Informatics and Mathematics. At the same time the applicants have to fulfill an online entry test, solving a programming task and uploading the source code.. Applicants are officially notified by the course coordinator. Admitted students are entitled to start their studies in the subsequent academic semester. In case of failing the repeated exam (that every admitted student has to take) held in Budapest one week before the given semester starts, the student is obliged to take and pass some certain BSc courses in order to acquire knowledge needed for the MSc course
+
+Contact:
+
+Program leader:
+Professor Zoltán Horváth
+
+International coordinator:
+Ms. Katalin Schneider
+katalin.schneider@inf.elte.hu
+
+Preparatory year available:
+Yes – at Budapest – Lágymányosi Campus
+
+Specialisation year available:
+Yes
+
+Specialisations and locations:
+- Software and Service Architectures – Budapest
+- Cybersecurity – Budapest
+- Financial Technology – Budapest
+
+Minimum number of scholarship holders:
+1
+
+Maximum number of scholarship holders:
+200
+
+Link:
+
+www.inf.elte.hu/en/content/why-choose-us.t.1107?m=170
+
+studyinhungary.hu/institution/eotvos-lorand-university-66.html
+
+Programme structure
+
+https://www.inf.elte.hu/en/content/why-choose-us.t.1107?m=170
+
+The aim of the programmes is to give a broad and widespread literacy in the different fields of computer science; giving the opportunity to meet the latest technologies of software development and teaching awareness-raising theoretical subjects, respectively.
+Our programmes are not everybody’ taste. Students who have no strong mathematical background or have no solid knowledge in programming, will find our programs too hard that might lead to failing subjects, and eventually resulting in additional years (and costs) of study to finish the study programme.
+Our programmes offer you an education with a high standard and numerous possibilities for research, including international projects involving other universities with outstanding reputation.
+
+Specialisations and locations:
+
+- Software and Service Architectures – Budapest: www.inf.elte.hu/content/th-tematikak-programtervezo-informatikus-msc-2018-szoftvertechnologia-softvare-architecture-specializacio.t.2388?m=453
+- Cybersecurity – Budapest: www.inf.elte.hu/content/th-tematikak-programtervezo-informatikus-msc-2018-kiberbiztonsag-cybersecurity-specializacio.t.2387?m=452
+- Financial Technology – Budapest: www.inf.elte.hu/content/th-tematikak-programtervezo-informatikus-angol-msc-2020-fintech-penzugyi-informatika-specializacio.t.2411?m=456
+- Digital Factory – !!! Szombathely !!! : www.inf.elte.hu/content/th-tematikak-programtervezo-informatikus-msc-2020-digital-factory-specialization.t.2409?m=455
+
+Career opportunities
+
+Software Designers are welcome in every sector of informatics. Jobs are offered by large international computer companies, outstanding firms, banks, large enterprises, state institutions, software development companies, research institutes and universities where they may be engaged in the preparation of integrated data processing systems, electronic trade transactions and electronic money transfers, solving telecommunication problems (networks, programming mobile phones), performing image recognition, computer-aided design, image processing or preparing multimedia applications.
+
+Cybersecurity is also a burgeoning field for the design and development of new products and services. Graduates will easily find jobs within companies that provide value-added products and services, such as telecom companies, game companies, e-learning, web developers, and the entertainment industry.
+
+Job examples
+Software and services designer
+Software architect
+Information system architect
+Systems designer / engineer
+Data Analyst
+Security Analyst / Information Security Architect / Cyber Security Specialist
+
+Not available for applying at the moment
+
+Save to my wishlist
+
+Share
+
+Not available for applying at the moment
+
+Save to my wishlist
+
+Share
+
+[Sponsor logo]
+
+[Sponsor logo]
+
+Confirm your citizenship
+
+United States
+
+Does this correspond to your citizenship?
+
+Yes, don't ask me again
+
+No
+
+Why do we ask this?
+
+We tried to guess your citizenship based on your current location. In case we are wrong, please correct it, so that you will see deadlines and requirements that apply specifically to you.
+
+We use cookies to give you the best experience on our website - read more. If you continue, we'll assume that you are happy to receive all cookies from this website. You can change your preferences by following the instructions here
+
+Select your citizenship
+
+Please select your citizenship:
+
+United States
+
+Afghanistan
+
+Åland Islands
+
+Albania
+
+Algeria
+
+American Samoa
+
+Andorra
+
+Angola
+
+Anguilla
+
+Antigua & Barbuda
+
+Argentina
+
+Armenia
+
+Aruba
+
+Australia
+
+Austria
+
+Azerbaijan
+
+Bahamas
+
+Bahrain
+
+Bangladesh
+
+Barbados
+
+Belarus
+
+Belgium
+
+Belize
+
+Benin
+
+Bermuda
+
+Bhutan
+
+Bolivia
+
+Bosnia & Herzegovina
+
+Botswana
+
+Bouvet Island
+
+Brazil
+
+British Indian Ocean Territory
+
+British Virgin Islands
+
+Brunei
+
+Bulgaria
+
+Burkina Faso
+
+Burundi
+
+Cambodia
+
+Cameroon
+
+Canada
+
+Cape Verde
+
+Caribbean Netherlands
+
+Cayman Islands
+
+Central African Republic
+
+Chad
+
+Chile
+
+China
+
+Christmas Island
+
+Cocos (Keeling) Islands
+
+Colombia
+
+Comoros
+
+Congo - Brazzaville
+
+Congo - Kinshasa
+
+Cook Islands
+
+Costa Rica
+
+Côte d’Ivoire
+
+Croatia
+
+Cuba
+
+Curaçao
+
+Cyprus
+
+Cyprus (North)
+
+Czechia
+
+Denmark
+
+Djibouti
+
+Dominica
+
+Dominican Republic
+
+Ecuador
+
+Egypt
+
+El Salvador
+
+Equatorial Guinea
+
+Eritrea
+
+Estonia
+
+Eswatini
+
+Ethiopia
+
+Falkland Islands
+
+Faroe Islands
+
+Fiji
+
+Finland
+
+France
+
+French Guiana
+
+French Polynesia
+
+French Southern Territories
+
+Gabon
+
+Gambia
+
+Georgia
+
+Germany
+
+Ghana
+
+Gibraltar
+
+Greece
+
+Greenland
+
+Grenada
+
+Guadeloupe
+
+Guam
+
+Guatemala
+
+Guernsey
+
+Guinea
+
+Guinea-Bissau
+
+Guyana
+
+Haiti
+
+Heard & McDonald Islands
+
+Honduras
+
+Hong Kong SAR China
+
+Hungary
+
+Iceland
+
+India
+
+Indonesia
+
+Iran
+
+Iraq
+
+Ireland
+
+Isle of Man
+
+Israel
+
+Italy
+
+Jamaica
+
+Japan
+
+Jersey
+
+Jordan
+
+Kazakhstan
+
+Kenya
+
+Kiribati
+
+Kosovo
+
+Kuwait
+
+Kyrgyzstan
+
+Laos
+
+Latvia
+
+Lebanon
+
+Lesotho
+
+Liberia
+
+Libya
+
+Liechtenstein
+
+Lithuania
+
+Luxembourg
+
+Macao SAR China
+
+Madagascar
+
+Malawi
+
+Malaysia
+
+Maldives
+
+Mali
+
+Malta
+
+Marshall Islands
+
+Martinique
+
+Mauritania
+
+Mauritius
+
+Mayotte
+
+Mexico
+
+Micronesia
+
+Moldova
+
+Monaco
+
+Mongolia
+
+Montenegro
+
+Montserrat
+
+Morocco
+
+Mozambique
+
+Myanmar (Burma)
+
+Namibia
+
+Nauru
+
+Nepal
+
+Netherlands
+
+New Caledonia
+
+New Zealand
+
+Nicaragua
+
+Niger
+
+Nigeria
+
+Niue
+
+Norfolk Island
+
+North Korea
+
+North Macedonia
+
+Northern Mariana Islands
+
+Norway
+
+Oman
+
+Pakistan
+
+Palau
+
+Palestine
+
+Panama
+
+Papua New Guinea
+
+Paraguay
+
+Peru
+
+Philippines
+
+Pitcairn Islands
+
+Poland
+
+Portugal
+
+Puerto Rico
+
+Qatar
+
+Réunion
+
+Romania
+
+Russia
+
+Rwanda
+
+Samoa
+
+San Marino
+
+São Tomé & Príncipe
+
+Saudi Arabia
+
+Senegal
+
+Serbia
+
+Seychelles
+
+Sierra Leone
+
+Singapore
+
+Sint Maarten
+
+Slovakia
+
+Slovenia
+
+Solomon Islands
+
+Somalia
+
+South Africa
+
+South Georgia & South Sandwich Islands
+
+South Korea
+
+South Sudan
+
+Spain
+
+Sri Lanka
+
+St Barthélemy
+
+St Helena
+
+St Kitts & Nevis
+
+St Lucia
+
+St Martin
+
+St Pierre & Miquelon
+
+St Vincent & the Grenadines
+
+Sudan
+
+Suriname
+
+Svalbard & Jan Mayen
+
+Sweden
+
+Switzerland
+
+Syria
+
+Taiwan
+
+Tajikistan
+
+Tanzania
+
+Thailand
+
+Timor-Leste
+
+Togo
+
+Tokelau
+
+Tonga
+
+Trinidad & Tobago
+
+Tunisia
+
+Türkiye
+
+Turkmenistan
+
+Turks & Caicos Islands
+
+Tuvalu
+
+Uganda
+
+Ukraine
+
+United Arab Emirates
+
+United Kingdom
+
+United States
+
+Uruguay
+
+US Outlying Islands
+
+US Virgin Islands
+
+Uzbekistan
+
+Vanuatu
+
+Vatican City
+
+Venezuela
+
+Vietnam
+
+Wallis & Futuna
+
+Western Sahara
+
+Yemen
+
+Zambia
+
+Zimbabwe
+
+If nothing else matches:
+
+choose
+
+Africa
+
+Americas
+
+Asia
+
+Australasia
+
+Caribbean
+
+Central America
+
+Central Asia
+
+Eastern Africa
+
+Eastern Asia
+
+Eastern Europe
+
+Europe
+
+European Union
+
+Eurozone
+
+Latin America
+
+Melanesia
+
+Micronesian Region
+
+Middle Africa
+
+North America
+
+Northern Africa
+
+Northern America
+
+Northern Europe
+
+Oceania
+
+Polynesia
+
+Schengen Area
+
+South America
+
+Southeast Asia
+
+Southern Africa
+
+Southern Asia
+
+Southern Europe
+
+Sub-Saharan Africa
+
+Western Africa
+
+Western Asia
+
+Western Europe
+
+World
+
+Why do we ask this?
+
+We tried to guess your citizenship based on your current location. In case we are wrong, please correct it, so that you will see deadlines and requirements that apply specifically to you.
+
+My wishlist
+
+Save your wishlist
+
+If you want to keep this list or also access it on your other devices, please sign in / register

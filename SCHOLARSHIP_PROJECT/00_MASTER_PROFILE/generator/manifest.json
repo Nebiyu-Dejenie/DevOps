@@ -1,0 +1,692 @@
+{
+  "cv_academic": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/cv_academic/cv_academic_v1.md",
+        "docx": "output/cv_academic/cv_academic_v1.docx",
+        "built_at": "2026-11-08T06:25Z",
+        "state": "draft",
+        "template": "cv_academic.md.j2",
+        "template_sha": "d8484ee00552c7e5",
+        "deps": {
+          "certifications": "adcc3545f966470e",
+          "certifications[0]": "3f613fcde34c358b",
+          "certifications[1]": "adc5c4fd312dd69f",
+          "certifications[2]": "751fd249a2c5d822",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_project_grades": "a75f685fc2fe8ac9",
+          "education.final_project_title": "792d218e4e21638b",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.final_year_semesters": "5590b75973b788e9",
+          "education.institution": "0a2c1e137e936e15",
+          "education.language_of_instruction": "44265a0337545356",
+          "education.period": "afbcbd91d2d8b565",
+          "education.programme_mode": "7711e11c5c944e1b",
+          "education.relevant_courses": "03b54a18620da0af",
+          "education.relevant_courses[0]": "273d10de086bf226",
+          "education.relevant_courses[1]": "aeec5a6553a02b81",
+          "education.relevant_courses[2]": "4a0c0bfe410b28a6",
+          "education.relevant_courses[3]": "be00a86fc643a9a1",
+          "education.strong_courses": "6acf69dd0f472cf4",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.strong_courses[2]": "14797ec51b5f205a",
+          "education.strong_courses[3]": "24e3f2605e78eaa1",
+          "education.strong_courses[4]": "f8fc645093d0fefc",
+          "education.strong_courses[5]": "8e6c2cbc779c2669",
+          "english_test": "51deac6e94154b5b",
+          "experience": "ac0098706e24422c",
+          "experience[0].duties": "5df97ba3997fceb3",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].duties[2]": "a968e36d77350d8c",
+          "experience[0].duties[3]": "0e43d0f9a8416733",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results": "1934e22ef33ddb2f",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "experience[1].duties": "ba71e11231e188de",
+          "experience[1].duties[0]": "6f7435b225cad937",
+          "experience[1].employer": "670ceea6d984e2ca",
+          "experience[1].results": "4f53cda18c2baa0c",
+          "experience[1].sector": "1b6e0d4101555128",
+          "experience[1].titles_and_dates": "e2c69fbc70234247",
+          "giving_back": "333f126e505990fa",
+          "giving_back[0]": "d4ec68f3fb648a2c",
+          "identity.city": "94fa0c988f03a746",
+          "identity.display_name": "0e54381123c5ccde",
+          "languages": "eb858da975e2e0d5",
+          "languages[0]": "a2e474cc9a8a0f40",
+          "languages[1]": "d6cb6f318f320e71",
+          "portfolio": "45331b4a5a1fd705",
+          "portfolio[0]": "be4907b1f4e01c20",
+          "portfolio[1]": "4bbd835a8d91f42b",
+          "portfolio[2]": "ab3e37920f73c18b",
+          "portfolio[3]": "9090424d31001ebc",
+          "research_interests.ai_social": "fcc6350f8d29cb94",
+          "research_interests.main": "83023e4d89c450e1",
+          "skills.automation": "3c3ff1ef7c243c84",
+          "skills.observability": "0521db76729f422c",
+          "skills.security": "9c4f025659c3d4d1",
+          "skills.systems": "c6f4e5aa0bcf4c6c"
+        },
+        "pending": [
+          "education.final_project_title: final-year project title (DR-17)",
+          "english_test: IELTS Academic result (planned December 2026)",
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "experience[1].duties[0]: security tooling you configured yourself",
+          "experience[1].titles_and_dates: title, dates and contract type (DR-07)",
+          "identity.display_name: passport name, kept in private_overlay.yaml",
+          "portfolio[2]: build by 30 Nov",
+          "portfolio[3]: build by 30 Nov",
+          "skills.observability: Prometheus / Grafana / Splunk: which ones"
+        ],
+        "e4_count": 16,
+        "rebuilds": 3,
+        "exports": {
+          "/home/user/DevOps/SCHOLARSHIP_PROJECT/APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_Europe_Academic.md": "4c640c7108ef7635",
+          "/home/user/DevOps/SCHOLARSHIP_PROJECT/APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_Europe_Academic.docx": "c0eae887dbdbb95d"
+        }
+      }
+    ]
+  },
+  "cv_professional": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/cv_professional/cv_professional_v1.md",
+        "docx": "output/cv_professional/cv_professional_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "cv_professional.md.j2",
+        "template_sha": "6167a28029fcee27",
+        "deps": {
+          "career_goal.short": "d2f89123099d85b0",
+          "certifications": "adcc3545f966470e",
+          "certifications[0]": "3f613fcde34c358b",
+          "certifications[1]": "adc5c4fd312dd69f",
+          "certifications[2]": "751fd249a2c5d822",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.institution": "0a2c1e137e936e15",
+          "experience": "ac0098706e24422c",
+          "experience[0].duties": "5df97ba3997fceb3",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].duties[2]": "a968e36d77350d8c",
+          "experience[0].duties[3]": "0e43d0f9a8416733",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results": "1934e22ef33ddb2f",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "experience[1].duties": "ba71e11231e188de",
+          "experience[1].duties[0]": "6f7435b225cad937",
+          "experience[1].employer": "670ceea6d984e2ca",
+          "experience[1].results": "4f53cda18c2baa0c",
+          "experience[1].sector": "1b6e0d4101555128",
+          "experience[1].titles_and_dates": "e2c69fbc70234247",
+          "identity.display_name": "0e54381123c5ccde",
+          "skills.automation": "3c3ff1ef7c243c84",
+          "skills.observability": "0521db76729f422c",
+          "skills.security": "9c4f025659c3d4d1",
+          "skills.systems": "c6f4e5aa0bcf4c6c"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "experience[1].duties[0]: security tooling you configured yourself",
+          "experience[1].titles_and_dates: title, dates and contract type (DR-07)",
+          "identity.display_name: passport name, kept in private_overlay.yaml",
+          "skills.observability: Prometheus / Grafana / Splunk: which ones"
+        ],
+        "e4_count": 11,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "motivation_AISS": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/motivation_AISS/motivation_AISS_v1.md",
+        "docx": "output/motivation_AISS/motivation_AISS_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "motivation.md.j2",
+        "template_sha": "9ade055986108711",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.strong_courses[2]": "14797ec51b5f205a",
+          "education.weaker_areas": "54ff316a0259543e",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "programmes.AISS.focus": "16e4123ccaf7e123",
+          "programmes.AISS.interest_key": "d42449efd941e064",
+          "programmes.AISS.name": "6dfc30c60df22cad",
+          "programmes.AISS.university": "e96c3ee2f07ded35",
+          "research_interests.ai_social": "fcc6350f8d29cb94"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)"
+        ],
+        "e4_count": 4,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "motivation_EDISS": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/motivation_EDISS/motivation_EDISS_v1.md",
+        "docx": "output/motivation_EDISS/motivation_EDISS_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "motivation.md.j2",
+        "template_sha": "9ade055986108711",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.strong_courses[2]": "14797ec51b5f205a",
+          "education.weaker_areas": "54ff316a0259543e",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "programmes.EDISS.focus": "e4e021e2ebc46dc4",
+          "programmes.EDISS.interest_key": "e4a9e4d8baa71a9d",
+          "programmes.EDISS.name": "33eb8b5acfd4afa9",
+          "programmes.EDISS.university": "3fe7ede38a085476",
+          "research_interests.main": "83023e4d89c450e1"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)"
+        ],
+        "e4_count": 4,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "motivation_CMU": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/motivation_CMU/motivation_CMU_v1.md",
+        "docx": "output/motivation_CMU/motivation_CMU_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "motivation.md.j2",
+        "template_sha": "9ade055986108711",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.strong_courses[2]": "14797ec51b5f205a",
+          "education.weaker_areas": "54ff316a0259543e",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "programmes.CMU.focus": "2a6161cec7e6baa3",
+          "programmes.CMU.interest_key": "e4a9e4d8baa71a9d",
+          "programmes.CMU.name": "167226eb83b28f63",
+          "programmes.CMU.university": "30c77203aaee72c2",
+          "research_interests.main": "83023e4d89c450e1"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)"
+        ],
+        "e4_count": 4,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "motivation_SI": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/motivation_SI/motivation_SI_v1.md",
+        "docx": "output/motivation_SI/motivation_SI_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "motivation.md.j2",
+        "template_sha": "9ade055986108711",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.strong_courses[2]": "14797ec51b5f205a",
+          "education.weaker_areas": "54ff316a0259543e",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "programmes.SI.focus": "b3dc5a3ff5091959",
+          "programmes.SI.interest_key": "e4a9e4d8baa71a9d",
+          "programmes.SI.name": "336294c9e0eaac73",
+          "programmes.SI.university": "013ad8b276761a30",
+          "research_interests.main": "83023e4d89c450e1"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)"
+        ],
+        "e4_count": 4,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "sop_general": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/sop_general/sop_general_v1.md",
+        "docx": "output/sop_general/sop_general_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "sop.md.j2",
+        "template_sha": "8edccda2229df2a9",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "career_goal.short": "d2f89123099d85b0",
+          "education.degree": "23330e19902e4afe",
+          "education.final_project_grades": "a75f685fc2fe8ac9",
+          "education.final_project_title": "792d218e4e21638b",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.institution": "0a2c1e137e936e15",
+          "education.period": "afbcbd91d2d8b565",
+          "education.weaker_areas": "54ff316a0259543e",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "giving_back[0]": "d4ec68f3fb648a2c",
+          "leadership[0]": "9e9809a87a78dc02",
+          "research_interests.main": "83023e4d89c450e1"
+        },
+        "pending": [
+          "education.final_project_title: final-year project title (DR-17)",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "leadership[0]: a real leadership example (STAR)"
+        ],
+        "e4_count": 4,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "research_proposal_CSC": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/research_proposal_CSC/research_proposal_CSC_v1.md",
+        "docx": "output/research_proposal_CSC/research_proposal_CSC_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "research_proposal.md.j2",
+        "template_sha": "6507e33e5a09ff8c",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.institution": "0a2c1e137e936e15",
+          "education.relevant_courses": "03b54a18620da0af",
+          "education.relevant_courses[0]": "273d10de086bf226",
+          "education.relevant_courses[1]": "aeec5a6553a02b81",
+          "education.relevant_courses[2]": "4a0c0bfe410b28a6",
+          "education.relevant_courses[3]": "be00a86fc643a9a1",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "programmes.CSC.focus": "6e1dacd35e18dbcc",
+          "programmes.CSC.interest_key": "e4a9e4d8baa71a9d",
+          "programmes.CSC.name": "b635d1d26c8b4682",
+          "programmes.CSC.university": "52f8e8987f547e8f",
+          "research_interests.main": "83023e4d89c450e1"
+        },
+        "pending": [
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)"
+        ],
+        "e4_count": 2,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "recommender_brief_academic": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/recommender_brief_academic/recommender_brief_academic_v1.md",
+        "docx": "output/recommender_brief_academic/recommender_brief_academic_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "recommender_brief.md.j2",
+        "template_sha": "6394e5ceb03edcff",
+        "deps": {
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_project_grades": "a75f685fc2fe8ac9",
+          "education.final_project_title": "792d218e4e21638b",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.institution": "0a2c1e137e936e15",
+          "education.period": "afbcbd91d2d8b565",
+          "education.strong_courses": "6acf69dd0f472cf4",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.strong_courses[2]": "14797ec51b5f205a",
+          "education.strong_courses[3]": "24e3f2605e78eaa1",
+          "education.strong_courses[4]": "f8fc645093d0fefc",
+          "education.strong_courses[5]": "8e6c2cbc779c2669",
+          "identity.display_name": "0e54381123c5ccde"
+        },
+        "pending": [
+          "education.final_project_title: final-year project title (DR-17)",
+          "identity.display_name: passport name, kept in private_overlay.yaml"
+        ],
+        "e4_count": 0,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "recommender_brief_work": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/recommender_brief_work/recommender_brief_work_v1.md",
+        "docx": "output/recommender_brief_work/recommender_brief_work_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "recommender_brief.md.j2",
+        "template_sha": "6394e5ceb03edcff",
+        "deps": {
+          "experience[0].duties": "5df97ba3997fceb3",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].duties[2]": "a968e36d77350d8c",
+          "experience[0].duties[3]": "0e43d0f9a8416733",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "identity.display_name": "0e54381123c5ccde",
+          "leadership[0]": "9e9809a87a78dc02"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "identity.display_name: passport name, kept in private_overlay.yaml",
+          "leadership[0]: a real leadership example (STAR)"
+        ],
+        "e4_count": 4,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "interview_prep_AISS": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/interview_prep_AISS/interview_prep_AISS_v1.md",
+        "docx": "output/interview_prep_AISS/interview_prep_AISS_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "interview_prep.md.j2",
+        "template_sha": "76df50185c63a123",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.weaker_areas": "54ff316a0259543e",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "giving_back[0]": "d4ec68f3fb648a2c",
+          "leadership[0]": "9e9809a87a78dc02",
+          "programmes.AISS.focus": "16e4123ccaf7e123",
+          "programmes.AISS.interest_key": "d42449efd941e064",
+          "programmes.AISS.name": "6dfc30c60df22cad",
+          "research_interests.ai_social": "fcc6350f8d29cb94"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "leadership[0]: a real leadership example (STAR)"
+        ],
+        "e4_count": 3,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "interview_prep_CMU": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/interview_prep_CMU/interview_prep_CMU_v1.md",
+        "docx": "output/interview_prep_CMU/interview_prep_CMU_v1.docx",
+        "built_at": "2026-11-08T01:50Z",
+        "state": "draft",
+        "template": "interview_prep.md.j2",
+        "template_sha": "76df50185c63a123",
+        "deps": {
+          "career_goal.long": "11c6f7894eb26c98",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.degree": "23330e19902e4afe",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.weaker_areas": "54ff316a0259543e",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "giving_back[0]": "d4ec68f3fb648a2c",
+          "leadership[0]": "9e9809a87a78dc02",
+          "programmes.CMU.focus": "2a6161cec7e6baa3",
+          "programmes.CMU.interest_key": "e4a9e4d8baa71a9d",
+          "programmes.CMU.name": "167226eb83b28f63",
+          "research_interests.main": "83023e4d89c450e1"
+        },
+        "pending": [
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "leadership[0]: a real leadership example (STAR)"
+        ],
+        "e4_count": 3,
+        "rebuilds": 1
+      }
+    ]
+  },
+  "cv_cmu": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/cv_cmu/cv_cmu_v1.md",
+        "docx": "output/cv_cmu/cv_cmu_v1.docx",
+        "built_at": "2026-11-08T06:25Z",
+        "state": "draft",
+        "template": "cv_cmu.md.j2",
+        "template_sha": "79472c8e47fc8216",
+        "deps": {
+          "career_goal.short": "d2f89123099d85b0",
+          "certifications": "adcc3545f966470e",
+          "certifications[0]": "3f613fcde34c358b",
+          "certifications[1]": "adc5c4fd312dd69f",
+          "certifications[2]": "751fd249a2c5d822",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_project_grades": "a75f685fc2fe8ac9",
+          "education.final_project_title": "792d218e4e21638b",
+          "education.final_year_gpa": "47930cc6611d2408",
+          "education.institution": "0a2c1e137e936e15",
+          "education.period": "afbcbd91d2d8b565",
+          "education.strong_courses": "6acf69dd0f472cf4",
+          "education.strong_courses[0]": "af61e9647700572a",
+          "education.strong_courses[1]": "d3c9b6df8d9156de",
+          "education.strong_courses[2]": "14797ec51b5f205a",
+          "education.strong_courses[3]": "24e3f2605e78eaa1",
+          "education.strong_courses[4]": "f8fc645093d0fefc",
+          "education.strong_courses[5]": "8e6c2cbc779c2669",
+          "experience": "ac0098706e24422c",
+          "experience[0].duties": "5df97ba3997fceb3",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].duties[2]": "a968e36d77350d8c",
+          "experience[0].duties[3]": "0e43d0f9a8416733",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].results": "1934e22ef33ddb2f",
+          "experience[0].results[0]": "ce787d737ec9c068",
+          "experience[0].sector": "7a64f6eb13ad09db",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "experience[1].duties": "ba71e11231e188de",
+          "experience[1].duties[0]": "6f7435b225cad937",
+          "experience[1].employer": "670ceea6d984e2ca",
+          "experience[1].results": "4f53cda18c2baa0c",
+          "experience[1].sector": "1b6e0d4101555128",
+          "experience[1].titles_and_dates": "e2c69fbc70234247",
+          "giving_back": "333f126e505990fa",
+          "giving_back[0]": "d4ec68f3fb648a2c",
+          "identity.city": "94fa0c988f03a746",
+          "identity.display_name": "0e54381123c5ccde",
+          "languages": "eb858da975e2e0d5",
+          "languages[0]": "a2e474cc9a8a0f40",
+          "languages[1]": "d6cb6f318f320e71",
+          "portfolio": "45331b4a5a1fd705",
+          "portfolio[0]": "be4907b1f4e01c20",
+          "portfolio[1]": "4bbd835a8d91f42b",
+          "portfolio[2]": "ab3e37920f73c18b",
+          "portfolio[3]": "9090424d31001ebc",
+          "skills.automation": "3c3ff1ef7c243c84",
+          "skills.observability": "0521db76729f422c",
+          "skills.security": "9c4f025659c3d4d1",
+          "skills.systems": "c6f4e5aa0bcf4c6c"
+        },
+        "pending": [
+          "education.final_project_title: final-year project title (DR-17)",
+          "experience[0].results[0]: one measurable result you can defend",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "experience[1].duties[0]: security tooling you configured yourself",
+          "experience[1].titles_and_dates: title, dates and contract type (DR-07)",
+          "identity.display_name: passport name, kept in private_overlay.yaml",
+          "portfolio[2]: build by 30 Nov",
+          "portfolio[3]: build by 30 Nov",
+          "skills.observability: Prometheus / Grafana / Splunk: which ones"
+        ],
+        "e4_count": 15,
+        "rebuilds": 4,
+        "exports": {
+          "/home/user/DevOps/SCHOLARSHIP_PROJECT/APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_CMU-Africa_2pages.md": "7ea1642614aa137a",
+          "/home/user/DevOps/SCHOLARSHIP_PROJECT/APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_CMU-Africa_2pages.docx": "0592fe4a42442124"
+        }
+      }
+    ]
+  },
+  "si_cv_blocks": {
+    "versions": [
+      {
+        "v": 1,
+        "file": "output/si_cv_blocks/si_cv_blocks_v1.md",
+        "docx": "output/si_cv_blocks/si_cv_blocks_v1.docx",
+        "built_at": "2026-11-08T06:25Z",
+        "state": "draft",
+        "template": "si_cv_blocks.md.j2",
+        "template_sha": "923e93eeb78e3a96",
+        "deps": {
+          "certifications": "adcc3545f966470e",
+          "certifications[0]": "3f613fcde34c358b",
+          "certifications[1]": "adc5c4fd312dd69f",
+          "certifications[2]": "751fd249a2c5d822",
+          "education.awarded": "daf25cb0500d2d86",
+          "education.cgpa": "8019834b75455919",
+          "education.degree": "23330e19902e4afe",
+          "education.final_project_grades": "a75f685fc2fe8ac9",
+          "education.final_project_title": "792d218e4e21638b",
+          "education.institution": "0a2c1e137e936e15",
+          "education.language_of_instruction": "44265a0337545356",
+          "education.period": "afbcbd91d2d8b565",
+          "experience": "ac0098706e24422c",
+          "experience[0].duties": "5df97ba3997fceb3",
+          "experience[0].duties[0]": "f76e5c5c7c85ed02",
+          "experience[0].duties[1]": "4658d19b3a43c6c5",
+          "experience[0].duties[2]": "a968e36d77350d8c",
+          "experience[0].duties[3]": "0e43d0f9a8416733",
+          "experience[0].employer": "b3dd41ac1000426c",
+          "experience[0].hours_per_week": "684c5e42668895e0",
+          "experience[0].titles_and_dates": "c2c4cafc391d8b3c",
+          "experience[1].duties": "ba71e11231e188de",
+          "experience[1].duties[0]": "6f7435b225cad937",
+          "experience[1].employer": "670ceea6d984e2ca",
+          "experience[1].hours_per_week": "5c20b47268cc5b33",
+          "experience[1].titles_and_dates": "e2c69fbc70234247",
+          "giving_back": "333f126e505990fa",
+          "giving_back[0]": "d4ec68f3fb648a2c",
+          "identity.display_name": "0e54381123c5ccde",
+          "identity.nationality": "31d3ff429835a85a",
+          "languages": "eb858da975e2e0d5",
+          "languages[0]": "a2e474cc9a8a0f40",
+          "languages[1]": "d6cb6f318f320e71",
+          "leadership": "b980cc03014e5667",
+          "leadership[0]": "9e9809a87a78dc02",
+          "skills.automation": "3c3ff1ef7c243c84",
+          "skills.systems": "c6f4e5aa0bcf4c6c"
+        },
+        "pending": [
+          "education.final_project_title: final-year project title (DR-17)",
+          "experience[0].hours_per_week: weekly hours from HR",
+          "experience[0].titles_and_dates: titles and dates exactly as in the HR letter (DR-06)",
+          "experience[1].duties[0]: security tooling you configured yourself",
+          "experience[1].hours_per_week: weekly hours",
+          "experience[1].titles_and_dates: title, dates and contract type (DR-07)",
+          "identity.display_name: passport name, kept in private_overlay.yaml",
+          "leadership[0]: a real leadership example (STAR)"
+        ],
+        "e4_count": 12,
+        "rebuilds": 1,
+        "exports": {
+          "/home/user/DevOps/SCHOLARSHIP_PROJECT/APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_content_for_SI_template.md": "9ef6a24591dfaaa4",
+          "/home/user/DevOps/SCHOLARSHIP_PROJECT/APPLICATION_EXECUTION_CENTER/06_FINAL_CV/CV_content_for_SI_template.docx": "9d0cd165296f453a"
+        }
+      }
+    ]
+  }
+}

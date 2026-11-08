@@ -1,0 +1,16 @@
+---
+title: "Motivation: {{ prog.name }}"
+subtitle: "Generated draft. Rewrite every paragraph in your own words before use."
+---
+
+**Programme:** {{ prog.name }} ({{ prog.university }})
+
+**1. The problem I work on.** At {{ profile.experience[0].employer | f }} I work on {{ profile.experience[0].sector | f }}. {{ profile.experience[0].titles_and_dates | f }}. When these services fail, merchants and customers lose money and trust.
+
+**2. What I have done.** I {{ profile.experience[0].duties[0] | f | lcfirst }} and {{ profile.experience[0].duties[1] | f | lcfirst }}. Result: {{ profile.experience[0].results[0] | f }}.
+
+**3. Why this programme.** It combines {{ prog.focus }}. My interest: {{ profile.research_interests[prog.interest_key] | f }}. [⏳ Name two courses or tracks from the official curriculum and explain why each matters to you.]
+
+**4. Academic preparation.** {{ profile.education.degree | f }} ({{ profile.education.awarded | f }}), cumulative GPA {{ profile.education.cgpa | f }}. My final year was my strongest (GPA {{ profile.education.final_year_gpa | f }}), with {{ profile.education.strong_courses[0] | f }}, {{ profile.education.strong_courses[1] | f }} and {{ profile.education.strong_courses[2] | f }}. I know my weaker areas are {{ profile.education.weaker_areas | f }}.
+
+**5. After the degree.** My goal is to {{ profile.career_goal.long | f }}.

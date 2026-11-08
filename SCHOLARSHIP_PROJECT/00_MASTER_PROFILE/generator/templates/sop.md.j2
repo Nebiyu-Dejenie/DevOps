@@ -1,0 +1,14 @@
+---
+title: "Statement of Purpose (general draft)"
+subtitle: "Generated draft. Adapt per programme; rewrite in your own words."
+---
+
+**Where I come from.** I studied {{ profile.education.degree | f }} at {{ profile.education.institution | f }} ({{ profile.education.period | f }}). My record started weakly ({{ profile.education.weaker_areas | f }}) and improved: my final-year GPA was {{ profile.education.final_year_gpa | f }} and my final project earned {{ profile.education.final_project_grades | f }} ({{ profile.education.final_project_title | f }}).
+
+**What I do now.** {{ profile.experience[0].employer | f }}: {{ profile.experience[0].sector | f }}. {{ profile.experience[0].titles_and_dates | f }}.
+
+**What I want to learn.** {{ profile.research_interests.main | f }}.
+
+**Leadership and giving back.** {{ profile.leadership[0] | f }} {{ profile.giving_back[0] | f }}.
+
+**Where I am going.** Short term: {{ profile.career_goal.short | f | ucfirst }}. Long term: {{ profile.career_goal.long | f | ucfirst }}.

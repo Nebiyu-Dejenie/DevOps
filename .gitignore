@@ -1,0 +1,12 @@
+
+# Scholarship generator: private data never committed
+SCHOLARSHIP_PROJECT/00_MASTER_PROFILE/profile/private_overlay.yaml
+SCHOLARSHIP_PROJECT/00_MASTER_PROFILE/generator/output_private/
+
+# Personal documents: never committed (keep scans in SCHOLARSHIP_PROJECT/PRIVATE/ or outside the repository)
+SCHOLARSHIP_PROJECT/PRIVATE/
+*[Pp]assport*.pdf
+*[Pp]assport*.jpg
+*[Pp]assport*.jpeg
+*[Pp]assport*.png
+*_ID_scan*

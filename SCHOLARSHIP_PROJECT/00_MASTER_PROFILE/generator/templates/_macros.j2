@@ -1,0 +1,4 @@
+{% macro bullets(items) -%}
+{% for x in items %}{% if x is usable %}- {{ x | f }}
+{% endif %}{% endfor %}
+{%- endmacro %}

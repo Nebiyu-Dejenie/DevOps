@@ -1,0 +1,25 @@
+{% import "_macros.j2" as m %}---
+title: "Briefing for my {{ 'academic' if doc.kind == 'academic' else 'work' }} referee"
+subtitle: "Facts to help you write in your own words. Please do not sign a text you did not write."
+---
+
+**Applicant:** {{ profile.identity.display_name | f }}
+
+{% if doc.kind == 'academic' %}**Studies:** {{ profile.education.degree | f }}, {{ profile.education.institution | f }}, {{ profile.education.period | f }}; awarded {{ profile.education.awarded | f }}.
+
+- Cumulative GPA {{ profile.education.cgpa | f }}; final-year GPA {{ profile.education.final_year_gpa | f }} (my calculation from the transcript).
+- Final-year project: {{ profile.education.final_project_title | f }} ({{ profile.education.final_project_grades | f }}).
+- Strongest courses:
+{% for c in profile.education.strong_courses %}{% if c is usable %}  - {{ c | f }}
+{% endif %}{% endfor %}
+**What would help most:** your own observation of my work in your course or project (problem-solving, independence, teamwork), and how I compared with other students, if you are comfortable saying so.
+{% else %}**Employment:** {{ profile.experience[0].employer | f }}: {{ profile.experience[0].titles_and_dates | f }}.
+
+- Duties you may be able to confirm:
+{% for d in profile.experience[0].duties %}{% if d is usable %}  - {{ d | f }}
+{% endif %}{% endfor %}- A result you witnessed: {{ profile.experience[0].results[0] | f }}
+- Leadership example: {{ profile.leadership[0] | f }}
+
+**What would help most:** one concrete example of my work that you observed directly, and your view of my reliability under pressure.
+{% endif %}
+**Programmes and deadlines:** [⏳ list with deadlines and how to submit]

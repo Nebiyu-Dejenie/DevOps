@@ -1,0 +1,29 @@
+{% import "_macros.j2" as m %}---
+title: "Curriculum Vitae (professional)"
+subtitle: "{{ profile.identity.display_name | f }}"
+---
+
+**Profile.** Computer Science graduate working on the infrastructure of digital-payment services in Ethiopia: Linux systems, deployment pipelines, configuration automation and monitoring. Goal: {{ profile.career_goal.short | f }}.
+
+# Experience
+{% for job in profile.experience %}{% if job.employer is usable %}
+## {{ job.employer | f }}
+
+{{ job.titles_and_dates | f }} · {{ job.sector | f }}
+
+{{ m.bullets(job.duties) }}{% for r in job.results %}{% if r is usable %}- **Result:** {{ r | f }}
+{% endif %}{% endfor %}{% endif %}{% endfor %}
+# Skills
+
+- **Systems:** {{ profile.skills.systems | f }}
+- **Automation:** {{ profile.skills.automation | f }}
+- **Observability:** {{ profile.skills.observability | f }}
+- **Security:** {{ profile.skills.security | f }}
+
+# Education
+
+{{ profile.education.degree | f }}, {{ profile.education.institution | f }} ({{ profile.education.awarded | f }}). CGPA {{ profile.education.cgpa | f }}; final year {{ profile.education.final_year_gpa | f }}.
+
+# Certifications
+
+{{ m.bullets(profile.certifications) }}

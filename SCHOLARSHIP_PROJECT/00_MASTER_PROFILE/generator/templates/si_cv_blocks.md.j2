@@ -1,0 +1,42 @@
+---
+title: "Content blocks for the SI CV template 2027/2028"
+subtitle: "Paste into SI's official template only (published 13 Nov). Europass or any other format is disqualified. Maximum 3 pages."
+---
+
+**Rules:**
+
+- Every date and title must match the signed SI work forms and the HR letters.
+- SI reads this CV next to your work and leadership forms. One inconsistency can disqualify the application.
+
+# Personal details
+
+Name exactly as in the passport: {{ profile.identity.display_name | f }}. Citizenship: {{ profile.identity.nationality | f }}.
+
+# Education
+
+- {{ profile.education.degree | f }}, {{ profile.education.institution | f }}, {{ profile.education.period | f }}; degree awarded {{ profile.education.awarded | f }}. Cumulative GPA {{ profile.education.cgpa | f }}. Language of instruction: {{ profile.education.language_of_instruction | f }}.
+- Final-year project: {{ profile.education.final_project_title | f }} ({{ profile.education.final_project_grades | f }}).
+
+# Work experience (newest first; hours per week as on the HR letter)
+{% for job in profile.experience %}{% if job.employer is usable %}
+**{{ job.employer | f }}**
+
+- Title(s) and dates: {{ job.titles_and_dates | f }}
+- Hours per week: {{ job.hours_per_week | f }}
+- Main responsibilities:
+{% for d in job.duties %}{% if d is usable %}  - {{ d | f }}
+{% endif %}{% endfor %}{% endif %}{% endfor %}
+# Leadership experience (SI: leading colleagues, mandate to influence strategy, allocating tasks, decision-making)
+
+{% for l in profile.leadership %}- {{ l | f }}
+{% endfor %}
+# Civil society / volunteering
+
+{% for g in profile.giving_back %}- {{ g | f }}
+{% endfor %}
+# Skills, certifications, languages
+
+- {{ profile.skills.systems | f }}; {{ profile.skills.automation | f }}
+{% for c in profile.certifications %}{% if c is usable %}- {{ c | f }}
+{% endif %}{% endfor %}{% for x in profile.languages %}{% if x is usable %}- {{ x | f }}
+{% endif %}{% endfor %}

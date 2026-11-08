@@ -1,0 +1,235 @@
+Navigation
+
+-   Skip to Content
+
+NTNU Home [NTNU Home]
+
+Cybersecurity and Assurance - Master's Programme (MSCYBSURE)
+
+Search
+
+Menu
+
+-   Studies []
+    -   Master's programmes in English
+    -   For exchange students
+    -   PhD opportunities
+    -   All programmes of study
+    -   Courses
+    -   Financing
+    -   Language requirements
+    -   Application process
+    -   Academic calendar
+    -   FAQ
+-   Research and innovation []
+    -   NTNU research
+    -   Research excellence
+    -   Strategic research areas
+    -   Innovation resources
+    -   PhD opportunities
+-   Life and housing []
+    -   Student in Trondheim
+    -   Student in Gjøvik
+    -   Student in Ålesund
+    -   For researchers
+    -   Life and housing
+-   About NTNU []
+    -   Contact us
+    -   Faculties and departments
+    -   Libraries
+    -   International researcher support
+    -   Vacancies
+    -   About NTNU
+    -   Maps
+
+[]
+
+1.  []
+    Home Studies
+
+2.  
+    All study programmes
+
+3.  Cybersecurity and Assurance - Master's Programme (MSCYBSURE)
+
+Språkvelger
+
+Norsk
+
+Cybersecurity and Assurance
+
+Cybersecurity and Assurance
+
+Cybersecurity and Assurance
+
+Erasmus Mundus Joint Degree, 2 years
+
+Can we trick a ship’s GPS? Our researchers are testing how false signals can mislead navigation. Photo: Geir Mogen / NTNU.
+
+studyprogramme-autofacts-portlet
+
+-   MasterFull time, 2 years
+-   Location Gjøvik
+    Trondheim
+-   Requirements See Admission
+-   Max. places See Admission
+-   LanguageEnglish
+-   Apply before See Admission
+
+MSCYBSURE, Sat Nov 07 22:31:39 CET 2026 | M2
+
+Do you want to help safeguard the digital society — in practice?
+
+On the Master’s in Cybersecurity and Assurance, you learn to protect systems and data — and to manage security in real-world settings. You’ll understand how threats arise, how to stop them, and how organizations build robust solutions over time.
+
+The programme combines technology with assurance, compliance and quality assurance. You learn to connect regulations and technology so that controls actually work. Teaching is hands-on and up to date; you’ll train to detect, handle and prevent attacks in a safe environment.
+
+Run in collaboration with six European universities, it offers an international network and fresh perspectives. 
+
+This master’s programme is taught in English. The coordinator of CYBERSURE is NTNU. Applications will open in November 2026.
+
+Read more about CYBERSURE on the official website!
+
+What will you learn?
+
+What will you learn?
+
+In the Cybersecurity and Assurance programme, you’ll develop deep skills to analyze security challenges, design and evaluate secure cryptosystems, identify and prioritize vulnerabilities, and implement effective detection and mitigation mechanisms.
+
+At the Cyber Range summer school in Gjøvik, you’ll work through realistic, hands-on scenarios with direct links to industry. You’ll also learn to communicate problems, analyses, and solutions clearly—to both technical and non-technical audiences.
+
+You will spend at least one semester (30 ECTS credits) at one of our partner universities:
+
+-   Distributed Systems Security: Aalto, Finland
+-   Advanced Cybersecurity and Software Assurance: DTU, Denmark
+-   Cryptography: Univesity of Tartu, Estonia
+-   Big Data Security: EURECOM, France
+-   Networks and Systems Security: KTH, Sweden
+-   Security Engineering: TU Graz, Austria
+
+What can you become?
+
+What can you become?
+
+A CYBERSURE master’s degree prepares you for the full security field — from technical roles such as Security Architect, Ethical Hacker, Malware Analyst and implementing security controls, to leadership and compliance-focused roles such as Chief Information Security Officer (CISO), Data Protection Officer (DPO), Compliance Officer and Security Auditor.
+
+You’ll also gain expertise in cryptography, risk management, policy and tech ethics, and you’ll be able to teach and help build a strong security culture.
+
+With a blend of practical skills and strategic insight, you’ll be in high demand on the job market.
+
+Study environment
+
+Study environment
+
+As a student on Cybersecurity and Assurance, you’ll be part of an international environment. The programme uses NTNU’s digital platforms and learning facilities in Trondheim and Gjøvik. Cyber Range in Gjøvik is the key arena for practical training.
+
+Teaching is student-centred, with active learning, project work, guest lectures and close links to industry. A mentoring scheme, surveys and social activities help build a sense of community across campuses.
+
+Programme structure
+
+Programme structure
+
+The Master’s Programme in Cybersecurity and Assurance is a two-year, full-time programme worth 120 ECTS credits. The language of instruction is English.
+The first year starts in Trondheim and continues in Gjøvik. This provides a broad range of courses in cyber security, network security, cryptography and assurance, as well as access to the infrastructure used for the summer school in the Cyber Range in Gjøvik. 
+
+You will spend the second year at one of our partner universities:
+
+-   Aalto University – Finland
+-   University of Tartu, Estonia
+-   Technical University of Denmark
+-   KTH Royal Institute of Technology, Sweden
+-   EURECOM, France
+-   Graz University of Technology, Austria
+
+Admission
+
+Admission
+
+The programme of study has 25 places.
+
+You must have completed a bachelor’s degree in mathematics, computer science/informatics, computer engineering, information technology, information systems or a closely related field to apply for this programme.
+
+Strong candidates with other degrees may be considered if they have sufficient coursework in the required subject areas.
+
+Final-year students from the EU may apply if they complete their bachelor’s degree before the first semester start (end of August). 
+
+Read about the full admission process here
+
+Contact
+
+Contact
+
+Do you have any questions about the programme of study? We can help you with compulsory courses and electives, examinations, deadlines, and general questions about the programme. 
+
+General requests can be sent to contact@cybersure-master.eu.
+
+NTNU – Norwegian University of Science and Technology
+
+-   For employees
+-   For students
+-   Intranet
+-   Canvas
+
+Studies
+
+Studies
+
+-   Master's programmes in English
+-   For exchange students
+-   PhD opportunities
+-   Courses
+-   Career development
+-   Continuing education
+-   Application process
+
+News
+
+News
+
+-   NTNU News
+-   Vacancies
+
+About NTNU
+
+About NTNU
+
+-   About the university
+-   Libraries
+-   NTNU's strategy
+-   Research excellence
+-   Strategic research areas
+-   Organizational chart
+
+Contact
+
+Contact
+
+-   Contact NTNU
+-   Employees
+-   Find experts
+-   Press contacts
+-   Researcher support
+-   Maps
+
+NTNU in three cities
+
+NTNU in three cities
+
+-   NTNU in Gjøvik
+-   NTNU in Trondheim
+-   NTNU in Ålesund
+
+About this website
+
+About this website
+
+-   Use of cookies
+-   Accessibility statement
+-   Privacy policy
+-   Editorial responsibility
+
+Facebook Instagram Linkedin Snapchat Tiktok Youtube
+
+[]Sign In
+
+[NTNU logo]

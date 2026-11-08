@@ -1,0 +1,2806 @@
+[
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master in Computer Science",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMCS?occasion=80915",
+  "code": "MASTERHT27-KAU-80915",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "Master in Computer Science",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMCS?occasion=80914",
+  "code": "-KAU-80914",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Computer Science",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TDV2M",
+  "code": "MASTERHT27-UU-M1160",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Computer Science and Engineering",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "One Year Master Programme in Computer Science, specialisation in Machine Learning",
+  "uni": "Kristianstad University",
+  "credits": "60.0",
+  "tuition_total_sek": 135000,
+  "lang": "English",
+  "city": "Kristianstad",
+  "url": "https://www.hkr.se/en/program/TDGH6",
+  "code": "MASTERHT27-HKR-09J0E",
+  "subjects": [
+   "Computer Technology",
+   "Computer Science and Engineering",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Computer Science, Master's Programme",
+  "uni": "Linköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 332000,
+  "lang": "English",
+  "city": "Linköping",
+  "url": "https://liu.se/en/education/program/6mics",
+  "code": "MASTERHT27-LIU-91106",
+  "subjects": [
+   "Computer Technology",
+   "Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master by Research in Computer Engineering",
+  "uni": "Mid Sweden University",
+  "credits": "120.0",
+  "tuition_total_sek": 302000,
+  "lang": "English",
+  "city": "Sundsvall",
+  "url": "https://www.miun.se/en/education/df739c58-29d3-11f1-8dbf-748a23364f00",
+  "code": "MASTERHT27-MIU-D2M55",
+  "subjects": [
+   "Computer Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "Master by Research in Computer Engineering",
+  "uni": "Mid Sweden University",
+  "credits": "120.0",
+  "tuition_total_sek": 302000,
+  "lang": "English",
+  "city": "Sundsvall",
+  "url": "https://www.miun.se/en/education/b61a6508-29d2-11f1-8dbf-748a23364f00",
+  "code": "-MIU-D3943",
+  "subjects": [
+   "Computer Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Computer Science, Master's Programme",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 294000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/1695f3ae-964d-11f1-8158-f751c37a40ac",
+  "code": "MASTERHT27-GU-86005",
+  "subjects": [
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "Computer Science, Master's Programme",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 294000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/b1ae0ae7-964c-11f1-8158-f751c37a40ac",
+  "code": "-GU-86004",
+  "subjects": [
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme, Computer Science",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 385000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/computer-science",
+  "code": "MASTERHT27-KTH-E0424",
+  "subjects": [
+   "Information Technology",
+   "Technology",
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Computer Science (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/computer-science-msc/",
+  "code": "MASTERHT27-CTH-1060X",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Computer Science",
+   "Logic"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Bioinformatics - Computer Science Background",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 360000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TBK2M,DATA",
+  "code": "MASTERHT27-UU-M1751",
+  "subjects": [
+   "Bioinformatics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Computer Science: Applied Data Science, Master's Program (Two-Year)",
+  "uni": "Malmö University",
+  "credits": "120.0",
+  "tuition_total_sek": 330000,
+  "lang": "English",
+  "city": "MALMÖ",
+  "url": "https://www.mau.se/instance/a86e124d-3406-11f1-8981-2c643dfe49db",
+  "code": "MASTERHT27-MAU-78950",
+  "subjects": [
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Human-Computer Interaction",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 276000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=SMD2M",
+  "code": "MASTERHT27-UU-M2635",
+  "subjects": [
+   "Human-Computer Interaction",
+   "Computer Science and Engineering",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "International Master's Programme in Computer Engineering - Visual AI (VISA)",
+  "uni": "Mid Sweden University",
+  "credits": "120.0",
+  "tuition_total_sek": 302000,
+  "lang": "English",
+  "city": "Sundsvall",
+  "url": "https://www.miun.se/en/education/d09ee906-2778-11f1-9f39-8363ccc44515",
+  "code": "MASTERHT27-MIU-D3M03",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "International Master's Programme in Computer Engineering - Visual AI (VISA)",
+  "uni": "Mid Sweden University",
+  "credits": "120.0",
+  "tuition_total_sek": 302000,
+  "lang": "English",
+  "city": "Sundsvall",
+  "url": "https://www.miun.se/en/education/e81b7028-2201-11f1-abbf-9ba878a14dbd",
+  "code": "-MIU-D3893",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master’s Programme in Computer Science – XR and Intelligent Interactive Systems",
+  "uni": "Blekinge Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 280000,
+  "lang": "English",
+  "city": "Campus Karlskrona",
+  "url": "https://www.bth.se/english/DVAXR27h",
+  "code": "MASTERHT27-BTH-90626",
+  "subjects": [
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Information Technology - Data Science, AI and Machine Learning",
+  "uni": "Halmstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 318000,
+  "lang": "English",
+  "city": "Halmstad",
+  "url": "https://www.hh.se/rest-api/redirect-education-url/en/a0663f17-4868-11f1-893a-1e48d5ed4256",
+  "code": "MASTERHT27-HH-93010",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Computer Science",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Computer Science: Internet of Things, Master's Programme (Two-Year)",
+  "uni": "Malmö University",
+  "credits": "120.0",
+  "tuition_total_sek": 325000,
+  "lang": "English",
+  "city": "MALMÖ",
+  "url": "https://www.mau.se/instance/41242f0b-37d8-11f1-bd53-3c578aaf4932",
+  "code": "MASTERHT27-MAU-78953",
+  "subjects": [
+   "Innovation Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "Computer Science: Internet of Things, Master's Programme (Two-Year)",
+  "uni": "Malmö University",
+  "credits": "120.0",
+  "tuition_total_sek": 325000,
+  "lang": "English",
+  "city": "MALMÖ",
+  "url": "https://www.mau.se/instance/f21b0865-37d7-11f1-bd53-3c578aaf4932",
+  "code": "-MAU-78804",
+  "subjects": [
+   "Innovation Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "International Master's Programme in Computer Engineering - Intelligent Systems and Networks (INNE)",
+  "uni": "Mid Sweden University",
+  "credits": "120.0",
+  "tuition_total_sek": 302000,
+  "lang": "English",
+  "city": "Sundsvall",
+  "url": "https://www.miun.se/en/education/f411bc12-2830-11f1-abe2-678273c24749",
+  "code": "MASTERHT27-MIU-D2M91",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "International Master's Programme in Computer Engineering - Intelligent Systems and Networks (INNE)",
+  "uni": "Mid Sweden University",
+  "credits": "120.0",
+  "tuition_total_sek": 302000,
+  "lang": "English",
+  "city": "Sundsvall",
+  "url": "https://www.miun.se/en/education/41f05351-21fc-11f1-abbf-9ba878a14dbd",
+  "code": "-MIU-D3503",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Computer and Systems Sciences",
+  "uni": "Stockholm University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Stockholm",
+  "url": "https://su.se/coursecatalogue/SCSSO?semester=HT2027&eventcode=43000",
+  "code": "MASTERHT27-SU-43000",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme, Applied and Computational Mathematics - track Computer Simulations for Science and Engineering",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 429000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering",
+  "code": "MASTERHT27-KTH-E0724",
+  "subjects": [
+   "Technology",
+   "Robotics",
+   "Mathematics ",
+   "Mathematical Statistics",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Computer Science: Innovation for Change in a Digital Society, Master's Program (Two-Year)",
+  "uni": "Malmö University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "MALMÖ",
+  "url": "https://www.mau.se/instance/408b842e-37d6-11f1-bd53-3c578aaf4932",
+  "code": "MASTERHT27-MAU-78951",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Innovation Technology",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "Master's Programme in Human Computer Interaction and User Experience",
+  "uni": "Umeå University",
+  "credits": "120.0",
+  "tuition_total_sek": 304600,
+  "lang": "English",
+  "city": "Umeå",
+  "url": "https://www.umu.se/en/education/programmes-and-courses/d7fdbec7-4471-11f1-9bfb-c8fd9ca940c5",
+  "code": "-UMU-P2090",
+  "subjects": [
+   "Information Technology",
+   "Information Systems",
+   "Computer Science",
+   "Cognitive Science",
+   "Technology in a Social Perspective"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Computational Science, Life Sciences",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABER-BELI/18173",
+  "code": "MASTERHT27-LU-18173",
+  "subjects": [
+   "Mathematics ",
+   "Biology",
+   "Molecular Biology",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Computing Science",
+  "uni": "Umeå University",
+  "credits": "120.0",
+  "tuition_total_sek": 304600,
+  "lang": "English",
+  "city": "Umeå",
+  "url": "https://www.umu.se/en/education/programmes-and-courses/db0b4cdd-4471-11f1-9bfb-c8fd9ca940c5",
+  "code": "MASTERHT27-UMU-M5024",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "Master's Programme in Computing Science",
+  "uni": "Umeå University",
+  "credits": "120.0",
+  "tuition_total_sek": 304600,
+  "lang": "English",
+  "city": "Umeå",
+  "url": "https://www.umu.se/en/education/programmes-and-courses/dafea27e-4471-11f1-9bfb-c8fd9ca940c5",
+  "code": "-UMU-P5024",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Applied Computational Science, Earth and Environmental Science",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NATBV-TBMG/18183",
+  "code": "MASTERHT27-LU-18183",
+  "subjects": [
+   "Earth Science",
+   "Natural Science",
+   "Mathematics ",
+   "Ecology",
+   "Environmental Science, Care and Protection",
+   "Computational Science",
+   "Human Geography and Geography"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Computational Science, Physics",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABER-BEFY/18170",
+  "code": "MASTERHT27-LU-18170",
+  "subjects": [
+   "Natural Science",
+   "Mathematics ",
+   "Physics",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Computational Science, Geoscience",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABER-BEGE/18171",
+  "code": "MASTERHT27-LU-18171",
+  "subjects": [
+   "Earth Science",
+   "Mathematics ",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme (One Year) in Information Systems – Data-Driven IT Management",
+  "uni": "University of Borås",
+  "credits": "60.0",
+  "tuition_total_sek": 117500,
+  "lang": "English",
+  "city": "Varied",
+  "url": "https://www.hb.se/redirect/antagning/20272/7229A/en",
+  "code": "MASTERHT27-HB-7229A",
+  "subjects": [
+   "Human-Computer Interaction",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Cognitive Science",
+  "uni": "Umeå University",
+  "credits": "120.0",
+  "tuition_total_sek": 304600,
+  "lang": "English",
+  "city": "Umeå",
+  "url": "https://www.umu.se/en/education/programmes-and-courses/d75e2321-4471-11f1-9bfb-c8fd9ca940c5",
+  "code": "MASTERHT27-UMU-M2054",
+  "subjects": [
+   "Neuroscience",
+   "Cognitive Science",
+   "Computer Science",
+   "Psychology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "ej.publicerad",
+  "title": "Master's Programme in Cognitive Science",
+  "uni": "Umeå University",
+  "credits": "120.0",
+  "tuition_total_sek": 304600,
+  "lang": "English",
+  "city": "Umeå",
+  "url": "https://www.umu.se/en/education/programmes-and-courses/d7526330-4471-11f1-9bfb-c8fd9ca940c5",
+  "code": "-UMU-P2054",
+  "subjects": [
+   "Neuroscience",
+   "Cognitive Science",
+   "Computer Science",
+   "Psychology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Data Science: Master programme",
+  "uni": "Dalarna University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Borlänge",
+  "url": "http://www.du.se/redirect/programme.aspx?language=en&code=DDCMA",
+  "code": "MASTERHT27-HDA-H3T9W",
+  "subjects": [
+   "Computer Science and Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Computational Science, Scientific Computing",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABER-BEMA/18172",
+  "code": "MASTERHT27-LU-18172",
+  "subjects": [
+   "Mathematics ",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Applied Computational Science, Chemistry",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NATBV-TAKM/18182",
+  "code": "MASTERHT27-LU-18182",
+  "subjects": [
+   "Theoretical Chemistry",
+   "Chemistry",
+   "Physical Chemistry",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Applied Computational Science, Biology",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NATBV-TBBO/18180",
+  "code": "MASTERHT27-LU-18180",
+  "subjects": [
+   "Systems Biology",
+   "Bioinformatics",
+   "Natural Science",
+   "Ecology",
+   "Biology",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Network Forensics",
+  "uni": "Halmstad University",
+  "credits": "60.0",
+  "tuition_total_sek": 159000,
+  "lang": "English",
+  "city": "Halmstad",
+  "url": "https://www.hh.se/rest-api/redirect-education-url/en/a141aaea-4868-11f1-893a-1e48d5ed4256",
+  "code": "MASTERHT27-HH-93011",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Cybersecurity, Master's Programme",
+  "uni": "Linköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 332000,
+  "lang": "English",
+  "city": "Linköping",
+  "url": "https://liu.se/en/education/program/6mcys",
+  "code": "MASTERHT27-LIU-91140",
+  "subjects": [
+   "Computer Technology",
+   "Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Cybersecurity",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMCY?occasion=80917",
+  "code": "MASTERHT27-KAU-80917",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "ej.publicerad",
+  "title": "Master's Programme in Cybersecurity",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMCY?occasion=80916",
+  "code": "-KAU-80916",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Cybersecurity (master)",
+  "uni": "Jönköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 340000,
+  "lang": "English",
+  "city": "Jönköping",
+  "url": "http://ju.se/en/study-at-ju/our-programmes/master-programmes/cybersecurity-master-autumn-2027-mu107.html",
+  "code": "MASTERHT27-HJ-MU107",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Privacy, Information and Cybersecurity - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Skövde",
+  "url": "https://www.his.se/en/education/informatics/privacy-information-and-cybersecurity-masters-programme-iicma/",
+  "code": "MASTERHT27-HS-41323",
+  "subjects": [
+   "Information Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Privacy, Information and Cybersecurity - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Varied",
+  "url": "https://www.his.se/en/education/informatics/privacy-information-and-cybersecurity-masters-programme-iicma/",
+  "code": "MASTERHT27-HS-41324",
+  "subjects": [
+   "Information Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Master in Cybersecurity",
+  "uni": "University West",
+  "credits": "60.0",
+  "tuition_total_sek": 140000,
+  "lang": "English",
+  "city": "TROLLHÄTTAN",
+  "url": "https://www.hv.se/en/education/degree-programmes/master-in-cybersecurity/",
+  "code": "MASTERHT27-HV-96599",
+  "subjects": [
+   "Computer Science and Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Cybersecurity",
+  "uni": "Luleå University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 280000,
+  "lang": "English",
+  "city": "Skellefteå",
+  "url": "https://www.ltu.se/en/education/programme/tmcsa-master-programme-in-cyber-security",
+  "code": "MASTERHT27-LTU-97409",
+  "subjects": [
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Cybersecurity",
+  "uni": "Luleå University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 280000,
+  "lang": "English",
+  "city": "Varied",
+  "url": "https://www.ltu.se/en/education/programme/tmcsa-master-programme-in-cyber-security",
+  "code": "MASTERHT27-LTU-97410",
+  "subjects": [
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cybersecurity",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme, Cybersecurity",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 385000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/cybersecurity",
+  "code": "MASTERHT27-KTH-E0427",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Computer Science",
+   "Electrical Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information security",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Information Systems - Information Security Management",
+  "uni": "Örebro University",
+  "credits": "120.0",
+  "tuition_total_sek": 278600,
+  "lang": "English",
+  "city": "Örebro",
+  "url": "https://www.oru.se/english/study/master-students/masters-programmes/masters-programme-in-information-systems---information-security-management/20272",
+  "code": "MASTERHT27-ORU-M2700",
+  "subjects": [
+   "Information Technology",
+   "Human-Computer Interaction",
+   "Project Management",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information security",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Information Security",
+  "uni": "Luleå University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 160000,
+  "lang": "English",
+  "city": "Luleå",
+  "url": "https://www.ltu.se/en/education/programme/fmisa-master-programme-in-information-security",
+  "code": "MASTERHT27-LTU-97403",
+  "subjects": [
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information security",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Information Security",
+  "uni": "Luleå University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 160000,
+  "lang": "English",
+  "city": "Varied",
+  "url": "https://www.ltu.se/en/education/programme/fmisa-master-programme-in-information-security",
+  "code": "MASTERHT27-LTU-97401",
+  "subjects": [
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information security",
+  "status": "anmalan.oppen",
+  "title": "Master´s Programme in Information Security",
+  "uni": "Stockholm University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Stockholm",
+  "url": "https://su.se/coursecatalogue/SMINO?semester=HT2027&eventcode=43004",
+  "code": "MASTERHT27-SU-43004",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information security",
+  "status": "anmalan.oppen",
+  "title": "Master’s programme in Cyber Security",
+  "uni": "Blekinge Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 280000,
+  "lang": "English",
+  "city": "Karlskrona",
+  "url": "https://www.bth.se/english/DVACY27h",
+  "code": "MASTERHT27-BTH-90619",
+  "subjects": [
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information security",
+  "status": "anmalan.oppen",
+  "title": "Computing Systems (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/computing-systems-msc/",
+  "code": "MASTERHT27-CTH-1070X",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Information Systems",
+   "Computer Science",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "anmalan.oppen",
+  "title": "Data Science and Information Engineering, Master's Programme",
+  "uni": "Linköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 332000,
+  "lang": "English",
+  "city": "Linköping",
+  "url": "https://liu.se/en/education/program/6mdsi",
+  "code": "MASTERHT27-LIU-91107",
+  "subjects": [
+   "Electrical Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Machine Learning, Systems and Control",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAMSR/18935",
+  "code": "MASTERHT27-LU-18935",
+  "subjects": [
+   "Automatic Control",
+   "Mathematics ",
+   "Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Intelligent Communication Systems",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMIC?occasion=80919",
+  "code": "MASTERHT27-KAU-80919",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "ej.publicerad",
+  "title": "Master's Programme in Intelligent Communication Systems",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMIC?occasion=80918",
+  "code": "-KAU-80918",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "anmalan.oppen",
+  "title": "Computational Social Science, Master's Programme - First and main admission round",
+  "uni": "Linköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 273400,
+  "lang": "English",
+  "city": "Norrköping",
+  "url": "https://liu.se/en/education/program/f7mcd",
+  "code": "MASTERHT27-LIU-91015",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Statistics",
+   "Sociology",
+   "Human Geography and Geography",
+   "Social Science and Behavioural Science",
+   "Political Science",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "anmalan.oppen",
+  "title": "Master's programme, ICT Innovation - track Cloud and Network Infrastructures and HPC KTH, 120 credits",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 385000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/ict-innovation",
+  "code": "MASTERHT27-KTH-E0925",
+  "subjects": [
+   "Electronics",
+   "Technology",
+   "Computer Technology",
+   "Innovation Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "anmalan.oppen",
+  "title": "Complex Adaptive Systems (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/complex-adaptive-systems-msc/",
+  "code": "MASTERHT27-CTH-1080X",
+  "subjects": [
+   "Engineering Physics",
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Robotics",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer networks",
+  "status": "anmalan.oppen",
+  "title": "Systems Biology with specialization in Bioinformatics - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Skövde",
+  "url": "https://www.his.se/en/systemsbiology-bioinformatics",
+  "code": "MASTERHT27-HS-41306",
+  "subjects": [
+   "Systems Biology",
+   "Bioinformatics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "network",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Business and Management - Marketing",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 228000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=SFL2M,MARK",
+  "code": "MASTERHT27-UU-M2113",
+  "subjects": [
+   "Marketing",
+   "Business Administration",
+   "Leadership, Organisation and Management"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "network",
+  "status": "anmalan.oppen",
+  "title": "Master's programme in Wireless Communications",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAWIR/18940",
+  "code": "MASTERHT27-LU-18940",
+  "subjects": [
+   "Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "network",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Strategic Communication",
+  "uni": "Örebro University",
+  "credits": "60.0",
+  "tuition_total_sek": 121600,
+  "lang": "English",
+  "city": "Örebro",
+  "url": "https://www.oru.se/english/study/master-students/masters-programmes/masters-programme-in-strategic-communication/20272",
+  "code": "MASTERHT27-ORU-M1700",
+  "subjects": [
+   "Humanities",
+   "Media and Communications Studies",
+   "Journalism, Communication and Information",
+   "Journalism"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "network",
+  "status": "anmalan.oppen",
+  "title": "Master in IT and Management",
+  "uni": "University West",
+  "credits": "60.0",
+  "tuition_total_sek": 120000,
+  "lang": "English",
+  "city": "TROLLHÄTTAN",
+  "url": "https://www.hv.se/en/education/degree-programmes/master-in-it-and-management/",
+  "code": "MASTERHT27-HV-97535",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Technology in a Social Perspective"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Software Engineering",
+  "uni": "Mälardalen University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Västerås",
+  "url": "https://www.mdu.se/utbildning/program/ZCS24?l=en",
+  "code": "MASTERHT27-MDU-40012",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Software Engineering for AI (master)",
+  "uni": "Jönköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 340000,
+  "lang": "English",
+  "city": "Jönköping",
+  "url": "http://ju.se/en/study-at-ju/our-programmes/master-programmes/software-engineering-for-ai-master-autumn-2027-mu110.html",
+  "code": "MASTERHT27-HJ-MU110",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Software Engineering (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/software-engineering-msc/",
+  "code": "MASTERHT27-CTH-1260X",
+  "subjects": [
+   "Information Technology",
+   "Human-Computer Interaction",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Software and AI Engineering Master's Programme",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 294000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/db037eb7-c180-11f1-854e-5a491c064c44",
+  "code": "MASTERHT27-GU-86008",
+  "subjects": [
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Master’s programme in AI and Software Engineering",
+  "uni": "Blekinge Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 280000,
+  "lang": "English",
+  "city": "Campus Karlskrona",
+  "url": "https://www.bth.se/english/PAADM27h",
+  "code": "MASTERHT27-BTH-90615",
+  "subjects": [
+   "Computer Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Software Technology, Master Programme",
+  "uni": "Linnaeus University (Kalmar Växjö)",
+  "credits": "60.0",
+  "tuition_total_sek": 175000,
+  "lang": "English",
+  "city": "VÄXJÖ",
+  "url": "https://lnu.se/en/programme/NADA1/20272/F3539",
+  "code": "MASTERHT27-LNU-F3539",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Software Technology, Master Programme",
+  "uni": "Linnaeus University (Kalmar Växjö)",
+  "credits": "120.0",
+  "tuition_total_sek": 350000,
+  "lang": "English",
+  "city": "VÄXJÖ",
+  "url": "https://lnu.se/en/programme/NADA2/20272/F3540",
+  "code": "MASTERHT27-LNU-F3540",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Master´s Programme in Intelligent Software Systems",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMIS?occasion=80922",
+  "code": "MASTERHT27-KAU-80922",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "ej.publicerad",
+  "title": "Master´s Programme in Intelligent Software Systems",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMIS?occasion=80921",
+  "code": "-KAU-80921",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Information Systems",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Master in AI and Automation (1 year)",
+  "uni": "University West",
+  "credits": "60.0",
+  "tuition_total_sek": 140000,
+  "lang": "English",
+  "city": "TROLLHÄTTAN",
+  "url": "https://www.hv.se/en/education/degree-programmes/master-in-ai-and-automation1/",
+  "code": "MASTERHT27-HV-99921",
+  "subjects": [
+   "Signal processing",
+   "Technology",
+   "Automation Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Information Systems",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 276000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=SSY2M",
+  "code": "MASTERHT27-UU-M2630",
+  "subjects": [
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Data Science",
+  "uni": "Luleå University of Technology",
+  "credits": "60.0",
+  "tuition_total_sek": 80000,
+  "lang": "English",
+  "city": "Luleå",
+  "url": "https://www.ltu.se/en/education/programme/fndsa-master-programme-in-data-science",
+  "code": "MASTERHT27-LTU-97404",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "software engineering",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Data Science",
+  "uni": "Luleå University of Technology",
+  "credits": "60.0",
+  "tuition_total_sek": 80000,
+  "lang": "English",
+  "city": "Varied",
+  "url": "https://www.ltu.se/en/education/programme/fndsa-master-programme-in-data-science",
+  "code": "MASTERHT27-LTU-97405",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "cloud",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Physics - Meteorology and Climate Physics",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 330000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TFY2M,MEKL",
+  "code": "MASTERHT27-UU-M1364",
+  "subjects": [
+   "Earth Science",
+   "Climatology",
+   "Meteorology",
+   "Physics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "anmalan.oppen",
+  "title": "AI Engineering (master)",
+  "uni": "Jönköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 340000,
+  "lang": "English",
+  "city": "Jönköping",
+  "url": "http://ju.se/en/study-at-ju/our-programmes/master-programmes/ai-engineering-master-autumn-2027-mu126.html",
+  "code": "MASTERHT27-HJ-MU126",
+  "subjects": [
+   "Information Technology",
+   "Computer Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "anmalan.oppen",
+  "title": "Human-Centred Design and Engineering with the specialisation Game Design and Development  (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 540000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/specialisations/human-centred-design-and-engineering-game-design-and-development/",
+  "code": "MASTERHT27-CTH-1141X",
+  "subjects": [
+   "Game development"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "anmalan.oppen",
+  "title": "Master in Mechanical Engineering - Specialization Data-driven Mechanical Engineering",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMDD?occasion=80954",
+  "code": "MASTERHT27-KAU-80954",
+  "subjects": [
+   "Information Technology",
+   "Mechanical Engineering",
+   "Materials Technology",
+   "Solid Mechanics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "ej.publicerad",
+  "title": "Master in Mechanical Engineering - Specialization Data-driven Mechanical Engineering",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/TAMDD?occasion=80958",
+  "code": "-KAU-80958",
+  "subjects": [
+   "Information Technology",
+   "Mechanical Engineering",
+   "Materials Technology",
+   "Solid Mechanics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "anmalan.oppen",
+  "title": "Computational Methods in Engineering - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Skövde",
+  "url": "https://www.his.se/en/computational-methods-120",
+  "code": "MASTERHT27-HS-41307",
+  "subjects": [
+   "Mechanical Engineering",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "anmalan.oppen",
+  "title": "Materials Science and Engineering, Master's Programme (Two-Year)",
+  "uni": "Malmö University",
+  "credits": "120.0",
+  "tuition_total_sek": 335000,
+  "lang": "English",
+  "city": "MALMÖ",
+  "url": "https://www.mau.se/instance/aaa763d2-582f-11f1-a257-0becf10e4232",
+  "code": "MASTERHT27-MAU-78954",
+  "subjects": [
+   "Materials, Construction and Manufacturing",
+   "Materials Technology",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Embedded Systems",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TIS2M",
+  "code": "MASTERHT27-UU-M1170",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Automatic Control",
+   "Computer Science",
+   "Automation Technology",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "computer engineering",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Human Computer Interaction and User Experience",
+  "uni": "Umeå University",
+  "credits": "120.0",
+  "tuition_total_sek": 304600,
+  "lang": "English",
+  "city": "Umeå",
+  "url": "https://www.umu.se/en/education/programmes-and-courses/d8069845-4471-11f1-9bfb-c8fd9ca940c5",
+  "code": "MASTERHT27-UMU-M2090",
+  "subjects": [
+   "Information Technology",
+   "Information Systems",
+   "Computer Science",
+   "Cognitive Science",
+   "Technology in a Social Perspective"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "communication systems",
+  "status": "anmalan.oppen",
+  "title": "Systems, Learning and Control with the specialisation Communication and Sensing  (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/specialisations/systems-learning-and-control-communication-and-sensing/",
+  "code": "MASTERHT27-CTH-1251X",
+  "subjects": [
+   "Automatic Control",
+   "Vehicle Engineering",
+   "Robotics",
+   "Automation Technology",
+   "Mechatronics",
+   "Electrical Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "communication systems",
+  "status": "anmalan.oppen",
+  "title": "NewSpace Systems Engineering (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/newspace-systems-engineering-msc/",
+  "code": "MASTERHT27-CTH-1190X",
+  "subjects": [
+   "Electronics",
+   "Engineering Physics",
+   "Information Technology",
+   "Space Technology",
+   "Entrepreneurship",
+   "Astronomy",
+   "Electrical Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "communication systems",
+  "status": "anmalan.oppen",
+  "title": "Electronics Engineering, Master's Programme",
+  "uni": "Linköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 332000,
+  "lang": "English",
+  "city": "Linköping",
+  "url": "https://liu.se/en/education/program/6mele",
+  "code": "MASTERHT27-LIU-91126",
+  "subjects": [
+   "Electronics",
+   "Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Intelligent Embedded Systems",
+  "uni": "Mälardalen University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Västerås",
+  "url": "https://www.mdu.se/utbildning/program/GST01?l=en",
+  "code": "MASTERHT27-MDU-40010",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Computer Science",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme, Embedded Systems",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 385000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/embedded-systems",
+  "code": "MASTERHT27-KTH-E0914",
+  "subjects": [
+   "Electronics",
+   "Information Technology",
+   "Computer Technology",
+   "Computer Science",
+   "Electrical Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Embedded and Intelligent Systems - AI, IoT and Robotics",
+  "uni": "Halmstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 318000,
+  "lang": "English",
+  "city": "Halmstad",
+  "url": "https://www.hh.se/rest-api/redirect-education-url/en/e9e99c4e-9bab-11f1-a910-909074e442ef",
+  "code": "MASTERHT27-HH-93029",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Robotics",
+   "Computer Science",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Master's programme in Embedded Electronics Engineering",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 370000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAEEE/18920",
+  "code": "MASTERHT27-LU-18920",
+  "subjects": [
+   "Electronics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Systems, Learning and Control (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/systems-learning-and-control-msc/",
+  "code": "MASTERHT27-CTH-1250X",
+  "subjects": [
+   "Technology",
+   "Automatic Control",
+   "Vehicle Engineering",
+   "Robotics",
+   "Automation Technology",
+   "Mechatronics",
+   "Electrical Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Industrial Informatics - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Skövde",
+  "url": "https://www.his.se/en/industrial-informatics-120",
+  "code": "MASTERHT27-HS-41320",
+  "subjects": [
+   "Technology",
+   "Computer Science and Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Electronics Design",
+  "uni": "Halmstad University",
+  "credits": "60.0",
+  "tuition_total_sek": 159000,
+  "lang": "English",
+  "city": "Halmstad",
+  "url": "https://www.hh.se/rest-api/redirect-education-url/en/a0f4c38f-4868-11f1-893a-1e48d5ed4256",
+  "code": "MASTERHT27-HH-93009",
+  "subjects": [
+   "Electronics",
+   "Electrical Engineering",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Master in AI and Automation (2 years)",
+  "uni": "University West",
+  "credits": "120.0",
+  "tuition_total_sek": 280000,
+  "lang": "English",
+  "city": "TROLLHÄTTAN",
+  "url": "https://www.hv.se/en/education/degree-programmes/master-in-ai-and-automation2/",
+  "code": "MASTERHT27-HV-93531",
+  "subjects": [
+   "Signal processing",
+   "Technology",
+   "Robotics",
+   "Automation Technology",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "embedded systems",
+  "status": "anmalan.oppen",
+  "title": "Electrical and Electronics Engineering (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/electrical-and-electronics-engineering-msc/",
+  "code": "MASTERHT27-CTH-1100X",
+  "subjects": [
+   "Electronics",
+   "Information Technology",
+   "Space Technology",
+   "Signal processing",
+   "Electrical Engineering",
+   "Embedded systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Data Science - Data Engineering",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TDA2M,DAEN",
+  "code": "MASTERHT27-UU-M1150",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Computer Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Statistics and Data Science",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 276000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=SSD2M",
+  "code": "MASTERHT27-UU-M2660",
+  "subjects": [
+   "Statistics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Data Science - Machine Learning and Statistics",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TDA2M,MAST",
+  "code": "MASTERHT27-UU-M1151",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering",
+   "Computer Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master of Science Programme in Social Scientific Data Analysis",
+  "uni": "Lund University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Lund",
+  "url": "http://www.lunduniversity.lu.se/lubas/i-uoh-lu-SASSD/18499",
+  "code": "MASTERHT27-LU-18499",
+  "subjects": [
+   "Social Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Data Science - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Skövde",
+  "url": "https://www.his.se/data-science-120/",
+  "code": "MASTERHT27-HS-41321",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Data Science - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "60.0",
+  "tuition_total_sek": 155000,
+  "lang": "English",
+  "city": "Skövde",
+  "url": "https://www.his.se/en/data-science-60",
+  "code": "MASTERHT27-HS-41322",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme, Biostatistics and Data Science",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 360000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/biostatistics-and-data-science",
+  "code": "MASTERHT27-KTH-E0205",
+  "subjects": [
+   "Statistics",
+   "Health Informatics",
+   "Mathematics ",
+   "Computer Science",
+   "Medicine"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Statistics - Statistical Modelling and Data Science",
+  "uni": "Örebro University",
+  "credits": "120.0",
+  "tuition_total_sek": 278600,
+  "lang": "English",
+  "city": "Örebro",
+  "url": "https://www.oru.se/english/study/master-students/masters-programmes/masters-programme-in-statistics-statistical-modelling-and-data-science/20272",
+  "code": "MASTERHT27-ORU-M2701",
+  "subjects": [
+   "Mathematics ",
+   "Mathematical Statistics",
+   "Statistics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Mathematics, Statistics and Data Science (master's programme)",
+  "uni": "Chalmers University of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 380000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.chalmers.se/en/education/find-masters-programme/mathematics-statistics-and-data-science-msc/",
+  "code": "MASTERHT27-CTH-1170X",
+  "subjects": [
+   "Mathematics ",
+   "Mathematical Statistics",
+   "Computational Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master’s Program in Data Science, Statistics and Decision Analysis",
+  "uni": "Stockholm University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Stockholm",
+  "url": "https://su.se/coursecatalogue/SDSBO?semester=HT2027&eventcode=43007",
+  "code": "MASTERHT27-SU-43007",
+  "subjects": [
+   "Information Technology",
+   "Statistics",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Data Science - Image Analysis and Machine Learning",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 300000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TDA2M,BIMA",
+  "code": "MASTERHT27-UU-M1152",
+  "subjects": [
+   "Information Technology",
+   "Signal processing",
+   "Robotics",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master of Science in Economics, Economics, general profile",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 194000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/77e31539-acfd-11f1-9e76-4a85b07d4c31",
+  "code": "MASTERHT27-GU-82005",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Business Administration and Economics",
+   "Economics",
+   "Computer Technology",
+   "Mathematics "
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master of Science in Economics, Economics, finance profile",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 194000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/b15a7adf-ad28-11f1-9e76-4a85b07d4c31",
+  "code": "MASTERHT27-GU-82006",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Business Administration and Economics",
+   "Economics",
+   "Computer Technology",
+   "Mathematics ",
+   "Finance"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in AI, Data Science and Social Robotics Applied to Global Health",
+  "uni": "Örebro University",
+  "credits": "120.0",
+  "tuition_total_sek": 282104,
+  "lang": "English",
+  "city": "Örebro",
+  "url": "https://www.oru.se/english/study/master-students/masters-programmes/masters-programme-in-ai-data-science-and-social-robotics-applied-to-global-health/20272",
+  "code": "MASTERHT27-ORU-M5700",
+  "subjects": [
+   "Computer Technology",
+   "Computer Science and Engineering",
+   "Computer Technology",
+   "Robotics",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Master's programme, ICT Innovation - track Data Science KTH, 120 credits",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 385000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/ict-innovation",
+  "code": "MASTERHT27-KTH-E0918",
+  "subjects": [
+   "Electronics",
+   "Technology",
+   "Computer Technology",
+   "Innovation Technology",
+   "Computer Science"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "data science",
+  "status": "anmalan.oppen",
+  "title": "Economic Data Analysis, Master Programme",
+  "uni": "Linnaeus University (Kalmar Växjö)",
+  "credits": "120.0",
+  "tuition_total_sek": 275000,
+  "lang": "English",
+  "city": "VÄXJÖ",
+  "url": "https://lnu.se/en/programme/EAEA2/20272/F3662",
+  "code": "MASTERHT27-LNU-F3662",
+  "subjects": [
+   "Computer Science and Engineering",
+   "Economics",
+   "Business Administration and Economics",
+   "Statistics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "International Master's Programme in Information Technology and Learning",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 298000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/594c686e-6017-11f1-a2e6-8ebb074b4dbe",
+  "code": "MASTERHT27-GU-93000",
+  "subjects": [
+   "Information Technology",
+   "Human-Computer Interaction",
+   "Education/Educational Sciences/Didactics",
+   "Education"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "ej.publicerad",
+  "title": "International Master's Programme in Information Technology and Learning",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 298000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/e161bfc9-6327-11f1-8650-3f274aa24cba",
+  "code": "-GU-93001",
+  "subjects": [
+   "Information Technology",
+   "Human-Computer Interaction",
+   "Education/Educational Sciences/Didactics",
+   "Education"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Information Systems",
+  "uni": "Karlstad University",
+  "credits": "120.0",
+  "tuition_total_sek": 290000,
+  "lang": "English",
+  "city": "Karlstad",
+  "url": "https://www.kau.se/en/education/programmes-and-courses/programmes/SAINF?occasion=80969",
+  "code": "MASTERHT27-KAU-80969",
+  "subjects": [
+   "Information Technology",
+   "Human-Computer Interaction",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Sustainable Building Information Management (master)",
+  "uni": "Jönköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 340000,
+  "lang": "English",
+  "city": "Jönköping",
+  "url": "http://ju.se/en/study-at-ju/our-programmes/master-programmes/sustainable-building-information-management-master-autumn-2027-mu127.html",
+  "code": "MASTERHT27-HJ-MU127",
+  "subjects": [
+   "Product Development",
+   "Technology",
+   "Materials, Construction and Manufacturing",
+   "Building Technology and Civil Engineering",
+   "Building Technology ",
+   "Community Planning",
+   "Civil and Environmental Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master in Language Technology",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 312000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/e007b757-adaf-11f1-acb2-54c7e2354f29",
+  "code": "MASTERHT27-GU-24000",
+  "subjects": [
+   "Computer Technology",
+   "Linguistics",
+   "Mathematics ",
+   "Computer Linguistics",
+   "Computer Science",
+   "Mathematical Statistics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Language Technology",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 276000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=HSP2M",
+  "code": "MASTERHT27-UU-M5750",
+  "subjects": [
+   "Information Technology",
+   "Linguistics",
+   "Information Systems",
+   "Computer Linguistics",
+   "Computer Science",
+   "Computer Linguistics ",
+   "Translation and Interpretation"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Quantum Technology",
+  "uni": "Uppsala University",
+  "credits": "120.0",
+  "tuition_total_sek": 330000,
+  "lang": "English",
+  "city": "Uppsala",
+  "url": "https://www.uu.se/en/study/programme?query=TKT2M",
+  "code": "MASTERHT27-UU-M1370",
+  "subjects": [
+   "Electronics",
+   "Engineering Physics",
+   "Information Technology",
+   "Material Physics",
+   "Theoretical Physics",
+   "Physics",
+   "Quantum Chemistry"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Media Technology: Strategic Media Development, Master's Programme (Two-Year)",
+  "uni": "Malmö University",
+  "credits": "120.0",
+  "tuition_total_sek": 315000,
+  "lang": "English",
+  "city": "MALMÖ",
+  "url": "https://www.mau.se/instance/6d73125d-37d7-11f1-bd53-3c578aaf4932",
+  "code": "MASTERHT27-MAU-78952",
+  "subjects": [
+   "Media and Communications Studies",
+   "Innovation Technology",
+   "Project Management",
+   "Technology in a Social Perspective",
+   "Media Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master Programme in Geospatial Information Science",
+  "uni": "University of Gävle",
+  "credits": "120.0",
+  "tuition_total_sek": 272000,
+  "lang": "English",
+  "city": "Gävle",
+  "url": "https://edu.hig.se/web/en/202b1a0d-c6e2-11f1-ac2a-e1d4d46c4fe3",
+  "code": "MASTERHT27-HIG-19707",
+  "subjects": [
+   "Technology",
+   "Computer Science and Engineering",
+   "Human Geography and Geography",
+   "Information Systems",
+   "Surveying and Geographic Information Technology",
+   "Civil and Environmental Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme, Information and Communication Engineering",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 385000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/information-and-communication-engineering",
+  "code": "MASTERHT27-KTH-E0912",
+  "subjects": [
+   "Information Technology",
+   "Technology",
+   "Media and Communications Studies",
+   "Electrical Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master´s Programme in Information Systems: AI Management",
+  "uni": "University of Borås",
+  "credits": "120.0",
+  "tuition_total_sek": 235000,
+  "lang": "English",
+  "city": "Varied",
+  "url": "https://www.hb.se/redirect/antagning/20272/7236A/en",
+  "code": "MASTERHT27-HB-7236A",
+  "subjects": [
+   "Information Technology",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master’s Programme in Strategic Information Systems Management",
+  "uni": "Stockholm University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Stockholm",
+  "url": "https://su.se/coursecatalogue/SSLIO?semester=HT2027&eventcode=43005",
+  "code": "MASTERHT27-SU-43005",
+  "subjects": [
+   "Information Technology",
+   "Computer Science and Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme, Transport and Geoinformation Technology",
+  "uni": "KTH Royal Institute of Technology",
+  "credits": "120.0",
+  "tuition_total_sek": 385000,
+  "lang": "English",
+  "city": "KTH Campus",
+  "url": "https://www.kth.se/en/studies/master/transport-and-geoinformation-technology",
+  "code": "MASTERHT27-KTH-E0134",
+  "subjects": [
+   "Technology",
+   "Civil Engineering",
+   "Human Geography and Geography",
+   "Surveying and Geographic Information Technology",
+   "Civil and Environmental Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Digital Leadership Master's Programme",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 294000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/552f5879-aa8e-11f1-84bb-71bbb7b84bd9",
+  "code": "MASTERHT27-GU-87000",
+  "subjects": [
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Media, Communication and Cultural Analysis (INT)",
+  "uni": "Södertörn University",
+  "credits": "120.0",
+  "tuition_total_sek": 216000,
+  "lang": "English",
+  "city": "Huddinge",
+  "url": "https://sh.se/study?code=P4214&lang=en",
+  "code": "MASTERHT27-SH-42061",
+  "subjects": [
+   "Media and Communications Studies"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master's Programme in Innovation and Design",
+  "uni": "Mälardalen University",
+  "credits": "120.0",
+  "tuition_total_sek": 270000,
+  "lang": "English",
+  "city": "Eskilstuna",
+  "url": "https://www.mdu.se/utbildning/program/AMM06?l=en",
+  "code": "MASTERHT27-MDU-40009",
+  "subjects": [
+   "Information Technology",
+   "Entrepreneurship",
+   "Mechanical Engineering",
+   "Design",
+   "Innovation Technology",
+   "Leadership, Organisation and Management",
+   "Industrial Economics, Organisation and Management"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Joint Master's Programme in Health Informatics",
+  "uni": "Karolinska Institutet",
+  "credits": "120.0",
+  "tuition_total_sek": 330000,
+  "lang": "English",
+  "city": "Solna",
+  "url": "https://education.ki.se/bachelors-masters-studies/programmes-and-courses/joint-masters-programme-in-health-informatics",
+  "code": "MASTERHT27-KI-D1003",
+  "subjects": [
+   "Information Technology",
+   "Health and Medical Care",
+   "Information Systems",
+   "Computer Science",
+   "Health Informatics"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Human-centered Artificial Intelligence Master's Programme",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 294000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/f5127a5e-aa8f-11f1-84bb-71bbb7b84bd9",
+  "code": "MASTERHT27-GU-87001",
+  "subjects": [
+   "Information Technology",
+   "Cognitive Science",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "User Experience Design (one year master)",
+  "uni": "Jönköping University",
+  "credits": "60.0",
+  "tuition_total_sek": 170000,
+  "lang": "English",
+  "city": "Jönköping",
+  "url": "http://ju.se/en/study-at-ju/our-programmes/master-programmes/user-experience-design-one-year-master-autumn-2027-mu125.html",
+  "code": "MASTERHT27-HJ-MU125",
+  "subjects": [
+   "Computer Technology",
+   "Information Technology",
+   "Human-Computer Interaction",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Intelligent Automation - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Skövde and Paris",
+  "url": "https://www.his.se/en/intelligent-automation-120",
+  "code": "MASTERHT27-HS-41308",
+  "subjects": [
+   "Information Technology",
+   "Automation Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Intelligent Automation - Master's Programme",
+  "uni": "University of Skövde",
+  "credits": "120.0",
+  "tuition_total_sek": 310000,
+  "lang": "English",
+  "city": "Skövde",
+  "url": "https://www.his.se/en/intelligent-automation-120",
+  "code": "MASTERHT27-HS-41309",
+  "subjects": [
+   "Information Technology",
+   "Automation Technology"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Interactive AI Systems, Master Programme",
+  "uni": "Linnaeus University (Kalmar Växjö)",
+  "credits": "120.0",
+  "tuition_total_sek": 350000,
+  "lang": "English",
+  "city": "VÄXJÖ",
+  "url": "https://lnu.se/en/programme/NAAI2/20272/F3534",
+  "code": "MASTERHT27-LNU-F3534",
+  "subjects": [
+   "Media Technology",
+   "Computer Science and Engineering"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Business Process and Supply Chain Management, Master's Programme",
+  "uni": "Linnaeus University (Kalmar Växjö)",
+  "credits": "60.0",
+  "tuition_total_sek": 125000,
+  "lang": "English",
+  "city": "VÄXJÖ",
+  "url": "https://lnu.se/en/programme/EASC1/20272/F3665",
+  "code": "MASTERHT27-LNU-F3665",
+  "subjects": [
+   "Business Administration",
+   "Logistics",
+   "Leadership, Organisation and Management",
+   "Information Systems"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "information technology",
+  "status": "anmalan.oppen",
+  "title": "Master in Digital Communication",
+  "uni": "University of Gothenburg",
+  "credits": "120.0",
+  "tuition_total_sek": 294000,
+  "lang": "English",
+  "city": "GÖTEBORG",
+  "url": "https://www.gu.se/en/study-gothenburg/3982f848-a85f-11f1-84bb-71bbb7b84bd9",
+  "code": "MASTERHT27-GU-87002",
+  "subjects": [
+   "Information Technology",
+   "Social Science and Behavioural Science",
+   "Journalism, Communication and Information"
+  ],
+  "pace": 100,
+  "req": ""
+ },
+ {
+  "term": "smart cities",
+  "status": "anmalan.oppen",
+  "title": "Intelligent Transport Systems and Logistics, Master's Programme",
+  "uni": "Linköping University",
+  "credits": "120.0",
+  "tuition_total_sek": 332000,
+  "lang": "English",
+  "city": "Norrköping",
+  "url": "https://liu.se/en/education/program/6mtsl",
+  "code": "MASTERHT27-LIU-91127",
+  "subjects": [
+   "Technology",
+   "Logistics"
+  ],
+  "pace": 100,
+  "req": ""
+ }
+]

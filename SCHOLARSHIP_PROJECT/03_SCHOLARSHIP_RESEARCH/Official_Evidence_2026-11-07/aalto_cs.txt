@@ -1,0 +1,337 @@
+Skip to main content
+
+[] [] [] [] [] [] [] []
+
+Sign of Change Sign of Change
+
+-   
+    [] []
+
+    Donate
+
+-   [] Apply to Aalto
+
+-   
+
+-   []Valitse sivuston kieli / Välj webbplatsens språk / Select site languageEN
+    -   FISuomeksi
+    -   SVSvenska
+    -   ENEnglish
+
+-   [] Search
+
+-   [] Log in
+
+-    [] Menu [] Close menu
+    -   [] Student Guide
+
+    -   [] For personnel
+
+    -   [] Aalto community members please log in to see internal content
+
+    -   Admissions and studies
+
+        Apply to Aalto Find a study programme How to apply Scholarships and tuition fees Bachelor's admissions (programmes in Finnish and Swedish) Bachelor’s admissions (programmes in English) Master's admissions Doctoral admissions Campus life Events for applicants Chat with students Subscribe to newsletter[] Contact admission services Founder School: from students to founders Lifewide Learning Exchange students
+
+    -   Research and art
+
+        About our research and art Tenure track career system Doctoral education Research and learning infrastructures Research portal research.aalto.fi[] Rankings
+
+    -   Schools and departments
+
+        Schools School of Arts, Design and Architecture School of Business School of Chemical Engineering School of Electrical Engineering School of Engineering School of Science
+        Departments Accounting & Business Law Applied Physics Architecture Art and Media Bioproducts and Biosystems Built Environment Chemical and Metallurgical Engineering Chemistry and Materials Science Civil Engineering Computer Science Design Economics Electrical Engineering and Automation Electronics and Nanoengineering Film, Television and Scenography Finance Industrial Engineering and Management Information and Communications Engineering Information and Service Management Management Studies Marketing Mathematics and Systems Analysis Energy and Mechanical Engineering Neuroscience and Biomedical Engineering Other units Language Centre Library - Learning Centre
+
+    -   Collaboration
+
+        Collaborate with us For alumni Corporate collaboration Aalto networking platform Aalto Innovation Cooperation with HEI and research institutes Collaboration with cities and regions Support us
+
+    -   News and events
+
+        Highlights News Events Aalto University Magazine OurBlogs[] Podcasts
+
+    -   About us
+
+        About Aalto University Our strategy Sustainability Code of Conduct Aalto Handbook Campus People and contact information For the media Careers
+
+    -   Tools and services
+
+        All tools (requires login) All services
+        Most used tools Aalto AI Assistant[] Abacus-accounting[] Abacus-planning[] Asio (booking.aalto.fi)[] Halli[] Marketing Cloud[] MOT Kielipalvelu (language service)[] Neo[] People hub Phone book[] PowerBI report finder[] Salesforce (Service platform)[] Tiima[] Webmail[] Webropol[] Workday[]
+
+        Most used services AI in Aalto Communications services HR services IT Services Learning services Occupational health Research and innovation services Teacher's Handbook Travel services
+
+        For students Sisu[] MyCourses[] MyStudies[] Browse all courses[]
+
+        Safety and emergencies Emergencies Safety and security observations Cyber Security Cyber Security incident report
+
+        Other Aalto Space Aalto University Shop[] Brand library and design system[] Lunch menus[]
+
+    -   [] EN
+
+    -   FI
+
+    -   SV
+
+    -   [] Apply to Aalto
+
+    -   [] Donate
+
+    -   [] Student Guide
+
+    -   [] For personnel
+
+    -   [] Aalto community members please log in to see internal content
+
+    -   Log in
+
+Search
+
+[]
+
+Study options
+
+Cybersecurity and Assurance (CYBERSURE, Erasmus Mundus), Master of Science (Technology)
+
+For applicants
+
+How can we keep up with the security and privacy needs of our societies? Do you want to be a part of creating robust and secure infrastructure with the assurance that it does what it should? Cybersure is an Erasmus Mundus Joint Master Degree programme at the intersection of information security and assurance. The programme combines practical engineering skills with a strongly research-based curriculum. The emphasis is on combining security knowledge with hands-on research and development skills.
+
+[Digital circuit board with padlock icons symbolising cybersecurity, glowing in blue light.]
+
+Degree:
+
+Master of Science (Technology)
+
+Application period:
+
+16 Nov 2026 – 5 Jan 2027
+
+Language of instruction:
+
+English
+
+Duration:
+
+2 years, full-time
+
+Eligibility:
+
+Relevant Bachelor's degree
+
+Field of study:
+
+Technology and Engineering
+
+Credits:
+
+120 ECTS
+
+Organising school:
+
+School of Science
+
+Table of contents
+
+Loading table of contents
+
+Description
+
+The Master's Programme in Cybersecurity and Assurance (CYBERSURE, Erasmus Mundus) focuses on information security as well as assurance. Information security encompasses the protection of computation, communication, and data from unauthorized access. Assurance covers systematic reasoning and proof techniques as well as security strategies and operations.
+
+During the CYBERSURE studies, you will gain both practical engineering knowledge and theoretical insights into 
+
+-   secure systems engineering,
+-   distributed application development,
+-   cryptography, and
+-   assurance techniques. 
+
+The programme aims to educate highly professional engineers to meet both the immediate hiring requirements and the long-term needs of the European ICT industry. 
+
+Tuition fees and scholarships
+
+The CYBERSURE programme has a joint participation fee and a generous scholarship scheme funded by the European Commission (Erasmus Mundus). 
+
+See further information on CYBERSURE's participation fee and available scholarships from the programme website.
+
+Structure of studies
+
+CYBERSURE is a double degree programme offered by a consortium of seven highly ranked universities in Norway, Finland, Sweden, Denmark, Estonia, Austria and France. The programme leads into two Master of Science degrees (double degree) from the two universities the student has studied in. 
+
+Overall, the two-year programme comprises a total of 120 ECTS credits: 
+
+-   Mandatory and elective courses at Norwegian University of Science and Technology (NTNU) (57.5 ECTS)
+-   Summer school (2.5 ECTS)
+-   Specialisation studies at one of the other consortium universities (30 ECTS)
+-   Master’s thesis (30 ECTS)
+
+Specialisations
+
+The first year of the Master's programme is taken at Norwegian University of Science and Technology (NTNU) in Norway. 
+
+During the two semesters of courses at NTNU, students will learn about the fundamental concepts, methods and the latest technologies of secure systems engineering, network security, cryptography, and security analysis and threat management followed by time for an internship in an R&D environment or a university research group.
+
+For the second year, students transfer to their second-year university where they are able to specialize in 
+
+-   Distributed Systems Security, Aalto University Finland, 30 ECTS
+-   Networks and Systems Security, KTH Sweden, 30 ECTS
+-   Security Engineering, TU Graz Austria, 30 ECTS
+-   Advanced Cybersecurity and Software Assurance, DTU Denmark, 30 ECTS
+-   Cryptography, UT Estonia, 30 ECTS
+-   Big Data Security, EURECOM France, 30 ECTS
+
+>> To learn more about the CYBERSURE studies, visit the programme website.
+
+Internationalisation
+
+The CYBERSURE programme is inherently international because the studies take place at two different universities in two different countries. In addition, CYBERSURE's student and alumni body is highly international and a large number of courses are led by international professors. The programme provides its students with a profound experience of working and studying in multiple countries in an international environment.
+
+Further study opportunities
+
+The degree programme provides eligibility for scientific postgraduate studies in Finland. The skills learned in the programme create an excellent basis for doctoral studies at Aalto University, another Finnish university or top international universities. Doctoral graduates from Aalto University continue as a researcher or other academic career or high-level business positions, among other things. Read more about applying for doctoral studies at Aalto University: https://www.aalto.fi/en/doctoral-education/how-to-apply-for-doctoral-studies
+
+Career opportunities
+
+There is a shortage of professionals in Europe and worldwide who are able to develop secure products and services with guarantees of reliable functioning and security.
+
+CYBERSURE graduates are trained for international industrial R&D jobs, security engineering and consulting, various expert roles, and doctoral studies. Internships are encouraged where Cybersure students work in a real R&D environment or expert organization as members of a project team. Our current industry and research partners include, e.g.: 
+
+-   DNV – Det Norske Veritas, Norway
+-   Simula, Norway
+-   Telenor, Norway
+-   Xiphera, Finland
+-   Cybernetica AS, Estonia
+-   SSH Communications Security, Finland
+-   NortonLifeLock, France
+-   Neverhack, Estonia
+-   WithSecure™, Finland
+-   KONE Corporation, Finland
+-   Unicis Tech, Estonia
+-   Nokia Bell Labs, Finland
+-   Xtinge Technology, Turkey
+-   Logpoint, Denmark
+-   Terma, Denmark
+-   Trk Technology, Turkey
+-   VTT Technical Research Centre, Finland
+
+>> To learn more about the industry partners, visit the programme website (cybersure-master.eu)
+
+Research focus
+
+The studies in the programme are closely related to the world-class research conducted at the relevant departments of the seven consortium universities: Department of Information Security and Communication Technology (NTNU), Department of Computer Science (Aalto University), Department of Computer Science (KTH), DTU Compute, Institute of Computer Science (University Tartu), Institute of Information Security (TU Graz) and Department of Digital Security (EURECOM).
+
+Co-operation with other parties
+
+Collaboration with CYBERSURE's Associate Members (currently more than 17 companies and research organizations) has a significant impact on the CYBERSURE programme activities. The possibility of a summer internship familiarizes the students with the European ICT industry and supports the development of career-building skills. 
+
+Aalto University is among the top-ranked universities in the world related to industry collaboration. As a graduate, you can rely on our network.
+
+Get to know us
+
+[Three people walking outside Aalto University metro station. One wears a white sweater and carries a black bag.]
+
+Study at Aalto
+
+Study in Finland at Aalto University, where science and art meet technology and business. Join a top-ranked, multidisciplinary community!
+
+[EU flag with 12 yellow stars in a circle on a blue background. Text: Co-funded by the European Union.]
+
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
+
+Contact information
+
+CYBERSURE Admissions Office
+
+For the application instructions and further information on the programme, please see the programme website https://cybersure-master.eu/. For enquiries regarding the content of programme, admission and the studies, please email
+
+contact@cybersure-master.eu
+
+https://cybersure-master.eu/
+
+-   Updated: 1.9.2026
+-   Published: 21.11.2025
+
+Share
+
+-   []
+-   []
+-   []
+-   []
+-   []
+
+[]
+
+URL copied!
+
+1.  []Front page
+
+2.  Study options
+
+3.  Cybersecurity and Assurance (CYBERSURE, Erasmus Mundus), Master of Science (Technology)
+
+[]
+
+Sign of Change
+
+Aalto University
+P.O. Box 11000 (Otakaari 1B)
+FI-00076 AALTO
+Switchboard: +358 9 47001
+
+Follow us:
+
+-   Facebook
+-   LinkedIn
+-   Bluesky
+-   Instagram
+-   Youtube
+-   Snapchat
+-   Blogs
+
+Quicklinks
+
+-   Research and artistic outputs
+-   Library – Learning Centre
+-   Admissions
+-   Alumni
+-   Media
+-   IT services
+-   Open University
+-   Aalto University Shop
+-   Site index
+
+Latest
+
+-   News
+-   Events
+-   Careers
+
+Contact
+
+-   Campus maps
+-   Contact information
+-   Ethical channel – Whistleblowing
+
+For students
+
+-   Student Guide
+-   Webmail
+-   MyCourses
+-   MyStudies
+-   Sisu
+
+Together towards a better world.
+
+Support new ideas, research, work and leadership development towards a stronger Finland.
+
+Donate to Aalto University
+
+-   Privacy notice
+-   Cookie policy
+-   Feedback
+-   Accessibility statement
+-   Cookie settings
+
+-   Suomeksi
+-   Svenska
+-   English

@@ -1,0 +1,51 @@
+{% import "_macros.j2" as m %}---
+title: "Curriculum Vitae"
+subtitle: "{{ profile.identity.display_name | f }}"
+---
+
+{{ profile.identity.city | f }}{% if profile.contact is defined %} · {{ profile.contact.email }} · {{ profile.contact.phone }} · {{ profile.contact.linkedin }} · {{ profile.contact.github }}{% else %} · [e-mail] · [phone] · [LinkedIn] · [GitHub]{% endif %}
+
+# Education
+
+**{{ profile.education.degree | f }}**, {{ profile.education.institution | f }}. {{ profile.education.programme_mode | f }}, {{ profile.education.period | f }}. Awarded {{ profile.education.awarded | f }}.
+
+- Cumulative GPA **{{ profile.education.cgpa | f }}**. Final-year GPA **{{ profile.education.final_year_gpa | f }}** (semester averages {{ profile.education.final_year_semesters | f }}; my calculation from the official transcript).
+- Final-year project: {{ profile.education.final_project_title | f }}. Grades: {{ profile.education.final_project_grades | f }}.
+- Selected courses:
+{% for c in profile.education.strong_courses %}{% if c is usable %}  - {{ c | f }}
+{% endif %}{% endfor %}{% for c in profile.education.relevant_courses %}{% if c is usable %}  - {{ c | f }}
+{% endif %}{% endfor %}- Language of instruction: {{ profile.education.language_of_instruction | f }}
+
+# Research interests
+
+- {{ profile.research_interests.main | f | ucfirst }}
+- {{ profile.research_interests.ai_social | f | ucfirst }}
+
+# Professional experience
+{% for job in profile.experience %}{% if job.employer is usable %}
+**{{ job.employer | f }}**: {{ job.sector | f }}. {{ job.titles_and_dates | f }}
+
+{{ m.bullets(job.duties) }}{% for r in job.results %}{% if r is usable %}- Result: {{ r | f }}
+{% endif %}{% endfor %}{% endif %}{% endfor %}
+# Projects
+
+{{ m.bullets(profile.portfolio) }}
+# Skills
+
+| Area | Skills |
+|---|---|
+| Systems | {{ profile.skills.systems | f }} |
+| Automation and delivery | {{ profile.skills.automation | f }} |
+| Observability | {{ profile.skills.observability | f }} |
+| Security | {{ profile.skills.security | f }} |
+
+# Certifications
+
+{{ m.bullets(profile.certifications) }}
+# Languages
+
+{{ m.bullets(profile.languages) }}- English test: {{ profile.english_test | f }}
+
+# Social activities and training
+
+{{ m.bullets(profile.giving_back) }}

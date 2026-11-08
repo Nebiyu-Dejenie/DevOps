@@ -1,0 +1,34 @@
+{% import "_macros.j2" as m %}---
+title: "{{ profile.identity.display_name | f }}"
+subtitle: "{{ profile.identity.city | f }}{% if profile.contact is defined %} · {{ profile.contact.email }} · {{ profile.contact.phone }} · {{ profile.contact.linkedin }} · {{ profile.contact.github }}{% else %} · [e-mail] · [phone] · [LinkedIn] · [GitHub]{% endif %}"
+---
+
+**Profile.** Computer Science graduate working on the infrastructure of digital-payment services in Ethiopia's fintech sector: Linux systems, deployment pipelines, configuration automation and monitoring. Goal: {{ profile.career_goal.short | f }}.
+
+# Experience
+{% for job in profile.experience %}{% if job.employer is usable %}
+**{{ job.employer | f }}**: {{ job.sector | f }}
+{{ job.titles_and_dates | f }}
+
+{{ m.bullets(job.duties) }}{% for r in job.results %}{% if r is usable %}- **Result:** {{ r | f }}
+{% endif %}{% endfor %}{% endif %}{% endfor %}
+# Projects
+
+{{ m.bullets(profile.portfolio) }}
+# Education
+
+**{{ profile.education.degree | f }}**, {{ profile.education.institution | f }} ({{ profile.education.period | f }}; awarded {{ profile.education.awarded | f }}). Cumulative GPA {{ profile.education.cgpa | f }}. Final-year GPA {{ profile.education.final_year_gpa | f }} (own calculation from the transcript). Final-year project: {{ profile.education.final_project_title | f }} ({{ profile.education.final_project_grades | f }}). Strongest courses: {% for c in profile.education.strong_courses %}{% if c is usable %}{{ c | f }}{% if not loop.last %}; {% endif %}{% endif %}{% endfor %}.
+
+# Skills
+
+- **Systems:** {{ profile.skills.systems | f }}
+- **Automation and delivery:** {{ profile.skills.automation | f }}
+- **Observability:** {{ profile.skills.observability | f }}
+- **Security:** {{ profile.skills.security | f }}
+
+# Certifications
+
+{{ m.bullets(profile.certifications) }}
+# Languages and community
+
+{{ m.bullets(profile.languages) }}{{ m.bullets(profile.giving_back) }}

@@ -1,0 +1,14 @@
+---
+title: "Interview Preparation: {{ prog.name }}"
+subtitle: "Answer outlines built from verified facts. Practise aloud; never read."
+---
+
+| Question | Outline |
+|---|---|
+| Tell us about yourself | {{ profile.education.degree | f }} ({{ profile.education.awarded | f }}) → {{ profile.experience[0].employer | f }} ({{ profile.experience[0].titles_and_dates | f }}) → one result: {{ profile.experience[0].results[0] | f }} |
+| Why this programme? | {{ prog.focus }}; your interest: {{ profile.research_interests[prog.interest_key] | f }} |
+| Your grades are average. Why you? | Final year {{ profile.education.final_year_gpa | f }}; {{ profile.education.strong_courses[0] | f }}, {{ profile.education.strong_courses[1] | f }}; production responsibility |
+| A time you led something | {{ profile.leadership[0] | f }} |
+| A failure and what you learned | [⏳ a real incident and what you changed] |
+| How will you give back? | {{ profile.giving_back[0] | f }}; goal: {{ profile.career_goal.long | f }} |
+| Weakest area? | {{ profile.education.weaker_areas | f }}, and what you are doing about it [⏳] |

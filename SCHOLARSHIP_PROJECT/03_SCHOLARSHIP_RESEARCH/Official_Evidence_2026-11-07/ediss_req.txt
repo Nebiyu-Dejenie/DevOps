@@ -1,0 +1,375 @@
+Skip to content
+
+-   ediss@abo.fi
+
+-   Facebook
+-   Youtube
+-   Instagram
+-   LinkedIn
+-   Cookie Policy (EU)
+
+[EDISS]
+
+EDISS
+
+Erasmus Mundus Joint Master Degree Programme on the Engineering of Data-intensive Intelligent Software Systems
+
+Search for:
+
+Menu
+
+-   Home
+-   About Us
+    -   About Us
+    -   Learning Environment
+    -   Associate Partners
+    -   Erasmus Mundus Students and Alumni Association
+    -   Contact Us
+    -   Information material
+    -   Our Story
+-   Programme
+    -   Programme
+    -   Degree, Accreditation and Grading
+    -   First Year Curriculum
+    -   Second-year specialisations
+    -   Winter school
+        -   Winter School 2026
+        -   Winter School 2025
+        -   Winter school 2024
+        -   Winter school 2023
+        -   Winter school 2022
+    -   Internship
+    -   Master’s thesis
+    -   Scientific Articles and Datasets
+    -   Careers and employability
+    -   Visiting Scholars
+-   Admission
+    -   Admission
+    -   Admission requirements
+    -   Application process
+    -   Country Specific Requirements
+    -   Evaluation criteria
+    -   FAQ
+-   Prospective Students
+    -   Prospective Students
+    -   Scholarships & Fees
+    -   Cost of living
+-   For Admitted Students
+    -   For Admitted Students
+    -   Admission results
+    -   Accepting the study entitlement offer
+    -   Student Agreements
+    -   Equal access
+    -   Checklists for admitted students
+-   EDISS Stories
+    -   EDISS Stories
+    -   First-year students
+    -   Second-year students
+    -   Alumni
+    -   EDISS Programme
+
+Admission requirements
+
+Minimum eligibility criteria
+
+1.  A Bachelor’s or equivalent undergraduate degree (at least 180 ECTS) from an accredited university, in computer science, software engineering or equivalent subject.
+2.  Good command of English language: TOEFL iBT (minimum score 93) or IELTS Academic (minimum score 6,5 with no individual score under 6).
+
+------------------------------------------------------------------------
+
+Admission requirements
+
+1.  Degree requirements
+
+EDISS requires knowledge of basic computer science, software engineering, and applied mathematics. The student should be able to solve basic computer science problems, to build a given software artefact (e.g. a requirements model, a design model), to improve and fix a given design.
+
+The student should be eager to learn new technologies and methods, instead of only working with technologies or methods she/he has prior knowledge of, and be capable of sharing and producing knowledge in a team.
+
+Degree certificate
+
+Applicants must have a Bachelor’s or equivalent undergraduate degree (at least 180 ECTS) from an accredited university in computer science, software engineering or equivalent subject. The applicant is expected to have passed courses in several of the following areas: computer science (e.g. programming, algorithms and data structures), basic computer architecture, computer networks, software engineering and mathematics.
+
+If proof of qualification is not available at the time of application, students will be conditionally admitted, and they are required to submit the required degree certificate and transcript of academic records and their translations by July 30th, 2027 at 15:00 (Helsinki time) to finalize the admission procedure. The applicants should also attach an official statement from the higher education institution which states the expected graduation date and the missing courses in the application form.
+
+2. Language requirements
+
+All applicants must have good English language proficiency. The English language proficiency must be proved by
+
+-   TOEFL (iBT) test:
+    -   minimum score of 93, when your test is completed before 21.1.2026. The TOEFL iBT Home Edition is NOT accepted.
+    -   minimum score of 4.5, with no band score below 4, when your test is completed after 21.1.2026. The TOEFL iBT Home Edition is NOT accepted.
+-   IELTS (Academic) test: minimum score 6,5, with no individual score below 6. The Online version is NOT accepted.
+
+The TOEFL reporting code for Åbo Akademi University is 9880. For IELTS, when possible, choose Åbo Akademi University for results to be sent and confirmed. The test results must be valid and verifiable at the test organizer at least 14 days after the end of the application period. Most test results are valid only for two years. Please note that no other tests, or versions of the above-mentioned tests (e.g. Home edition), will be approved to demonstrate the English language proficiency.
+
+Exemption criterion one:
+
+The English language test is NOT required from applicants who have received their secondary education in English, or have completed a Bachelor’s or Master’s degree with English as the language of instruction (and mentioned in the diploma), in a university or university-level institution in one of the following countries:
+
+Note that to be exempted to provide an English language test score, the degree certificate must mention English as the language of instruction, and the degree programme must be completed in one of the countries listed above. Degrees completed as distance education or studies on an offshore campus are not accepted even though the degree would be issued by a university in one of the countries mentioned above. 
+
+-   Australia
+-   Canada
+-   New Zealand
+-   United Kingdom
+-   USA
+-   Switzerland
+-   an EU/EEA country
+
+Exemption criterion two:
+
+The English language test is also not required for applicants currently enrolled as degree students in one of the EDISS partner universities (Åbo Akademi University, University of the Balearic Islands, University of L’Aquila or Mälardalen University). 
+
+Applicants from EDISS partner universities need to attach to their applications a certificate provided by their EDISS partner university stating a level in English equivalent to B2. For applicants from EDISS partner universities, an interview may be organised to assess the applicant’s level of English. 
+
+------------------------------------------------------------------------
+
+Application enclosures
+
+The EDISS Consortium requires the following scanned enclosures (in color and pdf format) attached to the online application:
+
+ An officially certified or legalized scanned copy of the original Bachelor’s degree certificate in the original language AND an authorized translation of the original degree certificate in English
+
+In case the applicant has not yet received a Bachelor's degree certificate by the admission deadline, the applicant is asked to provide an official statement from his/her higher education institution indicating which courses are still missing from the degree and what is the expected date of graduation. This statement replaces the degree certificate during the application process.
+
+Please note that if the applicant is admitted to the programme, the admission will be conditional until the final academic documents have been provided to the EDISS programme office. These final documents (degree certificate, transcript, and their translations) of the conditionally admitted students must arrive to the programme office by email the latest on 30 July 2027 at 15:00 (Helsinki time).
+
+The provided files should be named:
+
+-   lastname-firstname-degree certificate.pdf
+-   lastname-firstname-degree translation.pdf
+
+ An officially certified or legalized scanned copy of the original transcript of records in the original language of all the higher education studies completed so far AND an authorized translation of the transcript of records in English
+
+The applicant is required to submit a transcript showing all passed courses, their credits, and the grades received so far.
+
+Applicants will also need to provide the following information:
+
+-   Their cumulative grade point average (CGPA) obtained over the entire duration of the bachelor’s studies
+-   The maximum attainable cumulative grade point average (CGPA) within the grading system of their institution.
+-   The grading scale used on the provided transcripts of records. The description should include the grades in relation to one another and clearly state the highest and lowest grades, as well as which grades are passing and which are failing. If available, applicants also need to provide the mark-to-grade conversion scheme used at their institution to convert numerical scores (e.g., percentages or raw marks) into letter grades or grade point averages (GPA).
+
+The provided files should be named:
+
+-   lastname-firstname-transcript.pdf
+-   lastname-firstname-transcript translation.pdf
+
+ A diploma supplement (if available)
+
+A diploma supplement, if applicable, gives additional information on the received degree. It is included in the degree certificate. When the applicant provides the degree certificate in the online application form, all the pages of the documents that contain any text, serial numbers, stamps, etc, need to be scanned.
+
+ Proof of language skills in English (TOEFL iBT / IELTS Academic, or certificate of exception)
+
+The minimum scores of the two accepted English language tests are stated below.
+
+-   TOEFL (iBT): minimum score 93
+-   IELTS (Academic): minimum score 6,5 (with no individual score below 6)
+
+Applicants need to provide the test report form number (TRF) or registration number (appointment number) of their test results.
+
+If the applicant fulfils the exemption criterion, she/he can instead upload her/his academic document, which mentions the language of instruction, to the online application form.
+
+ Copy of passport
+
+Please upload a color copy of your valid passport in the online application form.
+
+If, however, your passport has expired, please upload a copy of your current expired passport to the online application form, together with a valid, English-language ID card (or an officially translated English version).
+
+The PDF files for the copy of the passport should be named: lastname-firstname-passport.pdf
+
+ 
+
+ A certificate of residence - Removed from the admission requirements 30.10.2024
+
+Based on the nature of the scholarships that will be offered starting from 2025, the certificate of residence will no longer be required from the applicants.  The EDISS consortium updated the admission requirements accordingly 30.10.2024.
+
+ Curriculum vitae (CV)
+
+Applicants must use the EDISS CV template. This version can be filled in on the computer.
+
+The EDISS CV is divided into 5 sections which are
+
+1.  Personal information
+2.  Education
+3.  Relevant work and/or entrepreneurial experience
+4.  Relevant international experience
+5.  Relevant other experience, skills and accomplishments
+
+Instructions:
+
+-   There is room for 2 educations. If the applicant has only one education, s/he shall leave the other field for education empty.
+-   The applicant can indicate a maximum of 4 experiences under section "Relevant work and/or entrepreneurial experience". The applicant should give additional information on the experience/s in the empty space between the different experiences. The applicant can e.g. write why the listed experience is relevant for EDISS and what s/he learned from the experience. The applicant is not required to fill in the maximum number of experiences. If the applicant has no experiences to be put in this section, s/he shall leave the section empty.
+-   The applicant can list a maximum of 3 experiences under the sections "Relevant international experience" and "Relevant other experience, skills, accomplishments". The applicant should give additional information on the experience/s in the empty space between the different experiences. The applicant can e.g. write why the listed experience is relevant for EDISS and what s/he learned from the experience. The applicant is not required to fill in the maximum number of experiences. If the applicant has no experience to be put in these sections, s/he shall leave the section/s empty.
+
+General instructions
+
+-   The answers cannot exceed the space indicated in the different sections.
+-   The applicant is responsible to decide her/himself what information s/he wants to give and in which categories these experiences shall be put.
+-   The applicants should not indicate the same experience in several categories.
+-   The CV will be assessed as a whole. Applicants can see the evaluation criteria here.
+
+Please note that you are required to provide relevant documentation (e.g. certificates) on all the relevant experiences that you provide in your CV. The EDISS Consortium will, in the evaluation process, only consider experiences that are supported by uploaded documents. 
+
+The uploaded CV file should be named lastname-firstname-CV.pdf
+
+The supporting and proof documents for the experiences listed in your CV should be named:
+
+-   lastname-firstname-professional_experience.pdf
+-   lastname-firstname-international_experience.pdf
+-   lastname-firstname-other relevant_experience_skills_accomplishment.pdf
+
+ Two academic recommendation letters
+
+The recommendation letters must contain a signature, and preferably an official university letter head and a university stamp. The EDISS programme office only accepts academic recommendation letters. The recommendation letters can be submitted directly by the applicant to the online application form.
+
+In the case that the professor/lecturer only accepts to send the recommendation letter directly to the EDISS programme office himself/herself, this is accepted as long as the letters arrive to ediss@abo.fi within the application deadline. Letters that arrive later will not be reviewed and taken into account when evaluating the application.
+
+If the letters are sent by email directly from the higher education institution, the subject line of the email must follow the form stated below:
+
+RL_last name of the applicant_first name of the applicant_application ID
+
+The PDF files for the academic recommendation letters should be named as follows:
+
+-   lastname-firstname-recommendation_letter_1.pdf
+-   lastname-firstname-recommendation_letter_2.pdf
+
+ Motivation video (2 min +/- 30 seconds)
+
+Applicants are required to submit a motivational video where they answer the following:
+
+-   What is your main motivation to apply for the EDISS programme and why should you be chosen to the programme?
+-   Describe briefly your main scientific area of interest in the fields covered by EDISS.
+-   Explain how your background/trajectory makes you suitable for EDISS.
+
+The length of the motivation video should be 2 minutes (+/- 3o seconds). The most common video formats, such as mp4, MPEG, OGG, and MOV, are accepted. The motivation video is the only accepted attachment in the online application form that does not follow the PDF requirement that is in place for all the other attachments.
+
+We accept the most common video formats such as mp4, mpeg, ogg, mov.
+
+The video file should be named: lastname-firstname-motivation_video
+
+ Copies of relevant work certificates, publications, or other relevant activities (if available)
+
+In the online application form, applicants have the possibility to list any relevant experiences in the following categories:
+
+-   Professional and/or entrepreneurial experiences
+-   International experience
+-   Other experiences (e.g. scientific publications, summer school, awards, certification).
+
+All experiences must be relevant to the EDISS programme, and it is up to the applicant to decide which category each experience belongs to. Applicants are required to provide certificates of the experiences that they list in the online application form.
+
+Last updated on 2 November 2026
+
+[]
+
+Search for:
+
+Blog entries and News!
+
+-   Q&A live webinars 2026
+-   NOKIA Student Network Challenge 2026
+-   Upcoming application rounds – EDISS Intake 7
+-   EDISS MSCA Postdoctoral Fellowships – 2026 call
+-   New paper in Machine Learning: Science and Technology 
+
+EDISS on Instagram
+
+[]
+
+[]
+
+edissprogramme
+
+✨ Curious about EDISS – the Erasmus Mundus program [✨ Curious about EDISS – the Erasmus Mundus programme in Engineering of Data-Intensive Intelligent Software Systems? 💻 Join our live webinars on: 📅 13.11.2026 | 16.12.2026 👉 Register now via our homepage! 🎓 Scholarship season is coming! 📢 Application period for the 7th EDISS intake (Sep 2027–Aug 2029) opens 16 Nov 2026 and closes 12 Jan 2027. 💡 More opportunities: 🎯 Tuition fee waiver scholarships application period: 25 Feb – 11 Mar 2027 🎯 Self-funded applications application period: 06 – 15 Apr 2027 🌍 Don’t miss your chance to be part of EDISS! #EDISS #ErasmusMundus #MastersAbroad #StudyInEurope #FutureEngineers #SoftwareEngineering #DataScienceMasters #AIandData #EngineeringExcellence #GlobalEducation #ErasmusLife #InternationalStudents #TechMasters #SmartSoftware #StudyOpportunities #MastersJourney #DataDrivenFuture #StudentMobility #ScholarshipAlert #EngineeringTheFuture]
+
+🎓 Welcome to EDISS, Intake 6! 🌍💻 We are delighted [🎓 Welcome to EDISS, Intake 6! 🌍💻 We are delighted to welcome the newest cohort of students. This group brings together talented students from different countries, academic backgrounds, and cultures, all sharing a passion for software engineering, data, AI, and technology. Over the coming two years, they will study across our partner universities, work on challenging research and industry projects, and become part of a truly international academic community. We are very happy to have you with us and look forward to seeing the ideas, collaborations, and innovations that will emerge from this cohort. Welcome to EDISS, Intake 6! 🚀]
+
+Load More
+
+[] Follow on Instagram
+
+[]
+
+Quick Links
+
+-   Facebook
+-   Youtube
+-   Instagram
+-   LinkedIn
+-   Cookie Policy (EU)
+
+Recent Posts
+
+-   Q&A live webinars 2026
+-   NOKIA Student Network Challenge 2026
+-   Upcoming application rounds – EDISS Intake 7
+-   EDISS MSCA Postdoctoral Fellowships – 2026 call
+-   New paper in Machine Learning: Science and Technology 
+
+[]
+
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
+
+Copyright © 2026 EDISS. All rights reserved.
+
+[EDISS]
+
+Manage Consent
+
+[]
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+Functional Functional Always active []
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+Preferences Preferences []
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+Statistics Statistics []
+
+The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+Marketing Marketing []
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+-   Manage options
+-   Manage services
+-   Manage {vendor_count} vendors
+-   Read more about these purposes
+
+Accept
+
+Deny
+
+View preferences
+
+Save preferences
+
+View preferences
+
+-   {title}
+-   {title}
+-   {title}
+
+Manage consent
+
+Thank you for your interest in the EDISS Programme
+
+To help you find answers instantly, we have summarised our core admission criteria below. Please review these essential requirements carefully before reaching out, as our team is unable to reply to individual email inquiries that are already answered here or on our website.
+
+Academic eligibility:
+
+-   Any applicant with a Bachelor’s or equivalent undergraduate degree from an accredited university is eligible to apply to the programme. However, the programme is very competitive, so to have a realistic chance, students need to have studied at least one of the following subjects at university level: computer science, software engineering, applied mathematics. 
+-   Work experience in IT will not compensate for a lack of theoretical knowledge demonstrated through university studies.
+-   We do not offer individual pre-eligibility assessments.
+
+Language requirements:
+
+-   We only accept TOEFL and IELTS (NOT as online versions).  Completing your Bachelor´s degree in English will NOT replace the compulsory language test unless you completed your studies in English on-site in one of the listed countries: Australia, Canada, New Zealand, the United Kingdom, the USA, Switzerland, or an EU/EEA country.
+
+Please notice that under the section for Frequently asked questions, you will also find many answers commonly asked by applicants: https://www.master-ediss.eu/faq/
+
+We will arrange Q&A Webinars about the 7th application period and review process in autumn 2027. Complete this form to receive a notification when the webinar dates are set: EDISS – 7th Intake Webinars – Fall 2026 – Fill in form

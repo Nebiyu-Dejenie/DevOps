@@ -38,10 +38,16 @@ R = [
  ("EDISS", "Rules", "Academic merit 70/100; IELTS 6.5 no band < 6.0 (in-centre); deadline 12 Jan 2027 15:00 Helsinki", V, "master-ediss.eu", "8 Nov 2026", "–"),
  ("Stipendium Hungaricum", "2027/28 call", "Not yet published; 2026/27 terms: tuition, HUF 43,700/month, dorm, insurance", V, "stipendiumhungaricum.hu", "8 Nov 2026", "Watch the call"),
  ("ICCR India", "2026-27 terms", "130 places for Ethiopia; PG stipend INR 20,000/month; tuition; housing allowance; airfare depends on the scheme", S, "eoiaddisababa.gov.in; a2ascholarships.iccr.gov.in", "8 Nov 2026", "Portal about Feb 2027"),
- ("UK Chevening", "2027/28 window + rule", "4 Aug – 6 Oct 2026 (closed); ≥ 2 years' work experience after the bachelor's", V, "gov.uk news page", "7 Nov 2026", "Next window about Aug–Oct 2027"),
+ ("UK Chevening", "2027/28 window", "4 Aug – 6 Oct 2026 (closed); next window about Aug–Oct 2027 (future-cycle target)", V, "gov.uk news page", "7 Nov 2026", "Watch from Aug 2027"),
+ ("UK Chevening", "Work-experience rule", "≥ 2,800 hours AFTER the undergraduate degree, gained over ≥ 2 years; full-time, part-time, voluntary, paid or unpaid internships; up to 15 periods; weeks × hours", V, "chevening.org work-experience page (snapshot saved)", "8 Nov 2026", "HR letters: 0 h documented today"),
  ("UK Commonwealth", "Eligibility", "Ethiopia is not a Commonwealth country", S, "commonwealthscholarships.org", "7 Nov 2026", "–"),
  ("USA Fulbright", "Ethiopia call", "Run by the US Embassy Addis (blocked here)", U, "et.usembassy.gov (403)", "8 Nov 2026", "Check the embassy page early 2027"),
- ("Germany DAAD EPOS", "Rules", "Upper third of class; ≥ 2 years' work; degree ≤ 6 years; deadlines mostly Aug–Oct 2026", S, "daad.de (blocks automated access) via search", "8 Nov 2026", "Class-rank letter first"),
+ ("Germany DAAD EPOS", "Rules", "Far above average results (upper third); ≥ 2 years' related work after the first degree; degree ≤ 6 years (yours: 14 Jul 2028); deadlines mostly Aug–Oct", S, "EPOS descriptions + university checklists via search (daad.de blocked)", "8 Nov 2026", "Class-rank letter first"),
+ ("Germany DAAD EPOS", "Proof of upper third", "University ranking letter; without it DAAD excludes the application (Freiburg EPOS page)", S, "meg.uni-freiburg.de via search", "8 Nov 2026", "DTU Registrar: rank letter"),
+ ("Germany DAAD EPOS", "ICT / CS courses", "None confirmed on the EPOS list; nearest: HFT Stuttgart MSc Photogrammetry and Geoinformatics", U, "EPOS list PDF blocked; search", "8 Nov 2026", "Filter the EPOS brochure in a browser"),
+ ("USA Mastercard Foundation at ASU", "Programme + status", "Phase III: Innovation and Technology (MS IT, MS Global Technology and Development); 2027/28 deadline 27 Sep 2026 → CLOSED; the Foundation page still says 'open' (stale)", S, "mastercardfdn.org ASU page (E1: programme exists) + listings via search", "8 Nov 2026", "Monitor mcfscholars.asu.edu from Jun 2027"),
+ ("Canada Mastercard Foundation at UBC", "Eligibility + status", "Phase 2 limited to forestry, agriculture, water and land management; financial need; UBC admission. 2027 expression of interest closed 6 Sep 2026", S, "mastercardfdn.org UBC page (E1: field focus) + listings via search", "8 Nov 2026", "No CS route"),
+ ("Canada Mastercard Foundation at McGill", "Eligibility + status", "Master's in nutrition, public health, public policy, sustainable agriculture; African citizens/residents; Fall 2027 period closed (deadline 21 Aug 2026)", S, "mastercardfdn.org McGill page (E1: field focus) + mcgill.ca via search", "8 Nov 2026", "No CS route"),
  ("Canada Manitoba", "Funding + supervisor", "Admitted MSc students funded at a minimum of $20,000/yr; supervisor support required before applying; deadline 1 Dec", V, "umanitoba.ca", "8 Nov 2026", "–"),
  ("Canada Calgary", "Supervisor + fee", "At least one professor must agree to supervise; fee CAD 145", V, "science.ucalgary.ca", "8 Nov 2026", "–"),
  ("IELTS (Ethiopia)", "Price + centre + results", "ETB 32,800, computer-delivered, British Council AAU (6 Kilo); most results within 2 days", V, "ielts.org", "8 Nov 2026", "–"),
@@ -64,7 +70,7 @@ nt = wb.create_sheet("How to read")
 for i, t in enumerate(["VERIFIED (E1): the official page was downloaded and read from this session on the date shown (copies kept as evidence).",
                        "SEARCH-INDEXED (E2): an official page was found and summarised by web search, but this session cannot open the site (network allowlist or bot protection). Treat as likely, and confirm in your browser before paying or submitting.",
                        "UNVERIFIED / NOT FOUND: no official source was found; do not rely on it.",
-                       "Sites that cannot be opened from this session: smaccs.eu, africa.engineering.cmu.edu, investyourtalentapplication.esteri.it, Chinese university sites, daad.de, et.usembassy.gov, chevening.org (connection errors)."], 1):
+                       "Sites that cannot be opened from this session: smaccs.eu, africa.engineering.cmu.edu, investyourtalentapplication.esteri.it, Chinese university sites, daad.de and static.daad.de, et.usembassy.gov, asu.edu, ubc.ca, mcgill.ca, tu-dresden.de. chevening.org opened on 8 Nov 2026 (HTTP/1.1)."], 1):
     c = nt.cell(row=i, column=1, value=t); c.font = Font(name="Arial", size=10); c.alignment = Alignment(wrap_text=True)
 nt.column_dimensions["A"].width = 140
 wb.save(OUT); print("rows", len(R), "| verified", sum(r[3] == V for r in R), "| search-indexed", sum(r[3] == S for r in R), "| unverified", sum(r[3] == U for r in R))

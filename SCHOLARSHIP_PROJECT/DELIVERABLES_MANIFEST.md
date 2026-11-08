@@ -27,7 +27,8 @@ Every Phase 1–5 deliverable: where it is, what it is for, and its status.
 | SMACCs_SUBMISSION_PACK | APPLICATION_EXECUTION_CENTER/10_SMACCs | SMACCs: facts (E2), letter, documents, guide, interview, audit | – | md docx pdf | Draft ready for your review | Yes | No | No |
 | China_DUT_SUBMISSION_PACK | APPLICATION_EXECUTION_CENTER/11_CHINA | DUT Type B: rules, study plan, e-mails, guide, audit | – | md docx pdf | Draft ready for your review | Yes | No | No |
 | Italy_IYT_SUBMISSION_PACK | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | Italy IYT: rules incl. age, video draft, documents, audit | – | md docx pdf | Conditional (private age check) | Yes | No | No |
-| Germany_USA_Canada_UK_Assessment | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | Fully funded options in DE/US/CA/UK for 2027 and next cycle | – | md docx pdf | Complete | Yes | No | No |
+| Germany_USA_Canada_UK_Assessment | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | DE/US/CA/UK: country of study vs funder; Chevening (E1 2,800 h rule), ASU/UBC/McGill Mastercard Foundation status, EPOS | – | md docx pdf | Complete (Phase 8 corrections, 8 Nov 2026) | Yes | No | No |
+| DAAD_EPOS_Upper_Third_Evidence | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | EPOS upper-third rule, what DTU can issue, rank-letter paragraph, decision rule | – | md docx pdf | Complete; waiting for the DTU rank letter | Yes | No | No |
 | Privacy_Audit_Git_History | DASHBOARD | Full Git history privacy audit (masked findings) + protections | – | md | Complete | Yes | No | No |
 | CMU-Africa_Application_Draft | 14_ARCHIVE/phase6_superseded | Complete CMU-Africa draft: essays, need, leadership, video, test, interview | – | md docx pdf | Draft ready for your review | Yes | No | No |
 | SI_Application_Package | 14_ARCHIVE/phase6_superseded | SI + universityadmissions.se package with the 13 Nov procedure | – | md docx | Draft: templates due 13 Nov | Yes | No | No |

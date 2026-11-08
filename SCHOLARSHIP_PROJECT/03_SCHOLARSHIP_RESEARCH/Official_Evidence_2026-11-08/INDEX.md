@@ -12,3 +12,11 @@ Pages read directly in this session (**E1**). The main text is saved without nav
 - tu-dresden.de
 
 DAAD EPOS facts therefore stay **E2/E3**.
+
+**Mastercard Foundation institution pages (E1, 8 Nov 2026).** The "Admissions: Open" flags on these pages are **not** reliable for the current cycle: the ASU deadline (27 Sep 2026) has passed, and McGill's own page says Fall 2027 is closed (E2).
+
+| File | What it proves | URL | Hash |
+|---|---|---|---|
+| `mastercardfdn_asu.txt` | ASU programme exists (Phase II/III; links to "Phase III: Innovation and Technology"); post-graduate | https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/arizona-state-university-asu/ | `bab73b996b231dcf` |
+| `mastercardfdn_ubc.txt` | UBC Phase 2 limited to forestry, agriculture, water and land management | https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/university-of-british-columbia/ | `38ba1e92e506032a` |
+| `mastercardfdn_mcgill.txt` | McGill: master's in nutrition, public health, public policy, sustainable agriculture | https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/mcgill-university/ | `20acced3d50d6804` |

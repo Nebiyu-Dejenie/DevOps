@@ -12,8 +12,11 @@
 | Artificial Intelligence for Sustainable Societies (SITeS-JM, Erasmus Mundus) | Estonia, Portugal, Finland | European Union via the consortium | B | **2 Feb 2027** | Draft pack complete | Demo repositories; English test; video; self-funding figures |
 | CSC via Dalian University of Technology (Type B) | China | Chinese Government (China Scholarship Council) | B | **15 Feb 2027** | Draft pack complete | DUT reply; 2 professor letters |
 | Italy Invest Your Talent | Italy | Italian Ministry of Foreign Affairs | Conditional | Call about Apr–May 2027 | Draft pack | Age rule (private check) |
-| Chevening | UK | UK government (FCDO) | Future target | Window about Aug–Oct 2027 (2028 entry) | Monitor | ≥ 2,800 h after graduation, to be proven by HR letters |
-| DAAD EPOS | Germany | DAAD (German government funds) | Future target | Course deadlines mostly Aug–Oct | Monitor | Upper-third proof (class-rank letter) |
+| Chevening | UK | UK government (FCDO, London) | Future target | Window about Aug–Oct 2027 (2028 entry) | Monitor | ≥ 2,800 h after graduation (E1 chevening.org); 0 h documented today, so HR letters are needed |
+| Mastercard Foundation Scholars at ASU (Phase III: Innovation and Technology; MS IT) | USA (Tempe) | Mastercard Foundation (Toronto, Canada) via ASU | Future target | 2027/28 **closed** (deadline 27 Sep 2026); next call about Sep 2027 | Monitor from Jun 2027 | ASU GPA rule (3.00 in the last 60 hours, E3) vs your 2.98 for the last two years: ask ASU |
+| DAAD EPOS | Germany | German government (BMZ) funds via DAAD (Bonn) | Conditional (next cycle) | Course deadlines Aug–Oct 2027 only (degree turns 6 on 14 Jul 2028) | Waiting for the DTU rank letter | Upper third **not shown by 2.62** (indicative German grade 3.1); no ICT course confirmed |
+
+**Closed, and no CS route:** Mastercard Foundation at UBC (forestry, agriculture, water and land) and McGill (nutrition, public health, public policy, sustainable agriculture). Both are closed for 2027.
 
 ## Your evidence (blocks most applications)
 

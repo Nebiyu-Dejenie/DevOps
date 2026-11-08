@@ -42,6 +42,17 @@
   - The render tools moved from the session scratchpad into `SCHOLARSHIP_PROJECT/_tools/`, so builds are reproducible from GitHub.
   - Stale paths to Phase 6 files archived in Phase 7 were repointed (completion audit: 0 missing; manifest).
   - The kit builder no longer recreates the superseded HR requests.
+- **Register corrections (Phase 8.3):**
+  - Command Center: "Country" is now "Country of study", plus a new "Funder (and where it is based)" column for all 57 entries.
+  - New entries: S61 ASU Mastercard Foundation (USA; closed for 2027/28; monitor), S62 McGill.
+  - Corrected entries: S17 is now UBC with its actual eligibility and closed stage; S13 Chevening is a future-cycle target with the E1 2,800-hour rule; S22 EPOS is conditional, next cycle.
+  - Verification register: +6 facts.
+  - Deadlines: ASU (Jun 2027 watch) and EPOS (Aug 2027).
+  - `Germany_USA_Canada_UK_Assessment` rewritten with a funder column.
+- **DAAD EPOS:** `DAAD_EPOS_Upper_Third_Evidence`.
+  - The rule (E2/E3); the indicative German grade 3.07; what DTU can issue.
+  - A rank-letter paragraph (not sent); the decision rule; the IT-course search.
+- **Evidence:** Mastercard Foundation pages for ASU, UBC and McGill saved (E1) in `03_SCHOLARSHIP_RESEARCH/Official_Evidence_2026-11-08`.
 
 ## Synchronisation log (written by `_sync/sync.sh`)
 
@@ -53,3 +64,10 @@
 - Third-party names removed from archived files (all formats)
 - _sync/: sensitive-data scan + mandatory sync workflow
 - PROJECT_CONVERSATION_LOG, PROJECT_CHANGELOG, PROJECT_STATUS; START_HERE updated |
+| 2026-11-08 17:38 UTC | 031d62f | 031d62f | PUSHED + VERIFIED (33 files) | Phase 8.2: GPA 2.62 everywhere; employer-by-employer experience calculator (SI/Chevening/EPOS)
+
+- Remove the outdated self-reported GPA figure from active files (profile, register DR-01, confirmation form, Command Center, log)
+- New 15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx (+ md/docx/pdf): three separate tests, each month counted once, scenario clearly not evidence
+- Chevening work-experience rule saved as E1 evidence (chevening.org, 8 Nov 2026)
+- Archive the v2 employment form (superseded); 14_ARCHIVE/README.md
+- Render tools moved into SCHOLARSHIP_PROJECT/_tools; stale archived paths repointed |

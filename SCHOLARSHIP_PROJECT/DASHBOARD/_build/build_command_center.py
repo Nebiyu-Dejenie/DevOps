@@ -100,9 +100,10 @@ opp(id="S35", pri="B", cyc="2027", country="India", host="ICCR (Indian Council f
     opens=date(2027, 2, 27), deadline=date(2027, 4, 15), tz="2026-27 ran 27 Feb - 15 Apr 2026 (Ethiopia); 2027-28 dates expected similar", status="UPCOMING", url="https://a2ascholarships.iccr.gov.in/", ev="E2 (Indian Embassy Addis 2026-27 notice)",
     disc="No", my="Choose 5 Indian universities with MCA/M.Tech CS when the portal opens", cl="Shortlist universities", risk="Medium", note="130 places for Ethiopians in 2026-27. Dates are expected, not announced", scores=(6, 9, 7, 5, 7, 7))
 opp(id="S13", pri="B", cyc="2028", country="United Kingdom", host="UK universities (3 choices)", prog="MSc Cloud / Cyber / Software", sch="Chevening 2028/29", fund="FULLY FUNDED",
-    cover="Tuition, stipend, airfare, visa", gpa_rule="Unconditional UK offer required", gpa="Eligible", eng_req="Per university", eng="Not started", work=">= 2,800 h post-degree",
-    opens=None, deadline=None, tz="2027/28 window was 4 Aug - 6 Oct 2026", status="CLOSED", url="https://www.gov.uk/government/news/applications-open-for-2027-to-2028-chevening-scholarships-to-study-in-the-uk",
-    ev="E1 (cycle dates)", disc="Yes", my="Plan for Aug 2027", cl="Chevening plan by Jul 2027", risk="Low", note="Next cycle", scores=(7, 10, 8, 10, 6, 2))
+    cover="Tuition, stipend, airfare, visa", gpa_rule="Unconditional UK offer required", gpa="Eligible", eng_req="Per university", eng="Not started", work=">= 2,800 h AFTER the bachelor's, over >= 2 years (E1 chevening.org, 8 Nov 2026). Documented today: 0 h (HR letters pending)",
+    opens=None, deadline=None, tz="2027/28 window was 4 Aug - 6 Oct 2026; 2028/29 window expected Aug-Oct 2027", status="CLOSED", url="https://www.chevening.org/scholarships/who-can-apply/work-experience/",
+    ev="E1 (cycle dates GOV.UK; work rule chevening.org)", disc="Yes", my="Prove 2,800 h with HR letters; plan for Aug 2027", cl="Chevening plan by Jul 2027", risk="Low",
+    note="FUTURE-CYCLE TARGET (2028/29). Internships and voluntary work also count for Chevening (E1). 2-year return to Ethiopia after the award", scores=(7, 10, 8, 10, 6, 2), ver=date(2026, 11, 8))
 opp(id="S14", pri="B", cyc="2028", country="United States", host="Fulbright via US Embassy Addis", prog="MS CS / IT", sch="Fulbright Foreign Student 2028-29", fund="FULLY FUNDED",
     cover="Tuition, stipend, airfare, health cover", gpa_rule="'Good academic record'", gpa="Eligibility requires university confirmation", eng_req="TOEFL iBT 79-80 / IELTS 6.5",
     eng="Not started", work="Valued", opens=None, deadline=None, tz="Ethiopia page blocked here", status="UPCOMING", url="https://foreign.fulbrightonline.org/apply",
@@ -146,6 +147,15 @@ n("S52", "2028", "Australia", "Australian universities", "Master's in a priority
   "Potentially eligible", None, "Next round opens 1 Feb 2027 (for 2028)", "CLOSED", "https://australiaawardsafrica.org/", "E2 (DFAT/AAA)", "Only if a priority area fits truthfully", "Label C (next cycle)", (5, 10, 4, 6, 5, 4))
 
 
+n("S61", "2028", "United States (Tempe, Arizona)", "Arizona State University (ASU)", "MS Information Technology / MS Global Technology and Development (E2 list)",
+  "Mastercard Foundation Scholars Program at ASU - Phase III: Innovation and Technology", "FULLY FUNDED", "Full scholarship (confirm details on mcfscholars.asu.edu)",
+  "ASU graduate admission: 3.00 in the last 60 credit hours (E3); your years 4-5 average 2.98, final year 3.20 (E0 calculation)", "Eligibility requires university confirmation", None,
+  "2027/28 CLOSED: deadline was 27 Sep 2026 (E2); next cycle expected about Sep 2027 (assumption)", "CLOSED",
+  "https://mcfscholars.asu.edu/phase-three-innovation-and-technology", "E1 (MCF page, 8 Nov 2026) / E2 (deadline, programmes)",
+  "Monitor mcfscholars.asu.edu from Jun 2027", "Closed for 2027/28 (your information; E2 deadline). The MCF hub page still says 'open' (stale). IT-focused phase: the strongest US option next cycle. "
+  "One third-party site reports an age limit (E3): check privately", (6, 10, 9, 8, 5, 4), eng_req="ASU English requirement (IELTS/TOEFL)", risk="Medium")
+for _o in O:
+    if _o["id"] in ("S22", "S61"): _o["ver"] = date(2026, 11, 8)
 def c(id, country, host, prog, sch, reason, ev, status="ELIGIBILITY UNCERTAIN", gpa="Ineligible", fund="FULLY FUNDED", url="", scores=(1, 9, 6, 5, 1, 1), deadline=None):
     opp(id=id, pri="C", cyc="eliminated", country=country, host=host, prog=prog, sch=sch, fund=fund, cover="-", gpa_rule=reason, gpa=gpa, eng_req="-", eng="Not needed",
         work="-", opens=None, deadline=deadline, tz="-", status=status, url=url, ev=ev, disc="No", my="-", cl="None", risk="High", note=reason, scores=scores)
@@ -155,12 +165,26 @@ c("S36", "Finland + partners", "Aalto (coord.)", "SECCLO (Erasmus Mundus)", "EM 
 c("S12", "Turkiye", "Turkish universities", "MSc CS", "Turkiye Burslari", "75% academic minimum (2.62/4.00 = 65.5% on a linear conversion); age rule checked privately, not used here", "E1", status="UPCOMING", url="https://www.turkiyeburslari.gov.tr/scholarshipsprograms", deadline=date(2027, 2, 20))
 c("S33", "Poland", "NAWA", "Master's", "Poland My First Choice / Lukasiewicz", "Ethiopia not eligible; Lukasiewicz programme closed", "E1", status="CLOSED", url="https://nawa.gov.pl/en")
 c("S34", "Japan", "JICA", "Master's + internship", "ABE Initiative", "Official pages removed; current schemes mostly for nominated officials", "E1 (404)", gpa="Eligibility requires university confirmation", url="https://www.jica.go.jp/english/")
-c("S22", "Germany", "EPOS courses", "Development-related master's", "DAAD EPOS", "Requires 'upper third' grades", "E2", url="https://www.daad.de/")
+n("S22", "2028", "Germany", "EPOS-listed German universities (ICT/IS courses to confirm)", "Development-related master's (prioritise IT / information systems / ICT4D)",
+  "DAAD EPOS (Development-Related Postgraduate Courses)", "FULLY FUNDED", "Monthly stipend, travel, insurance (DAAD rates; confirm per course)",
+  "Upper third of your class (E2/E3) + >= 2 years related work after the bachelor's + degree <= 6 years old", "Eligibility requires university confirmation", None,
+  "Course deadlines mostly Aug-Oct 2027 for 2028 entry; your degree turns 6 on 14 Jul 2028, so later windows are likely closed", "UPCOMING",
+  "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/development-related-postgraduate-courses-epos/", "E2/E3 (daad.de blocked here)",
+  "Ask the DTU Registrar for a class-rank letter (request ready)", "CONDITIONAL: realistic only if the DTU rank letter shows the upper third. 2.62 alone does not show it", (4, 10, 7, 9, 4, 4),
+  eng_req="Per course (often IELTS 6.0-6.5)", risk="High")
 c("S26", "Saudi Arabia", "KAUST", "MS Computer Science", "KAUST Fellowship", "Minimum GPA 3.0", "E2", url="https://admissions.kaust.edu.sa")
 c("S27", "UAE", "MBZUAI", "MSc AI", "MBZUAI funding", "Minimum CGPA 3.0 (some 3.5)", "E2", url="https://mbzuai.ac.ae")
 c("S28", "Africa (AU)", "Pan African University", "Master's", "AU scholarship", "Master's age limit applies (E2, check privately); call closed", "E2", status="CLOSED", url="https://au.int")
 c("S29", "Rwanda / Senegal", "AIMS", "AMMI", "Full scholarship", "Minimum about B / 80%", "E2", url="https://aimsammi.org")
-c("S17", "Canada", "UBC / McGill / U of T", "Master's", "Mastercard Foundation (Canada)", "2027 windows closed or restricted to partner institutions", "E2", status="CLOSED", gpa="Potentially eligible")
+c("S17", "Canada (Vancouver)", "University of British Columbia", "Forestry / Land and Food Systems master's only", "Mastercard Foundation Scholars Program at UBC (Phase 2)",
+  "CLOSED for 2027: expression of interest closed 6 Sep 2026 (E2). Phase 2 is limited to forestry, agriculture, water and land management (E1 MCF page, 8 Nov 2026); "
+  "young Africans with financial need who meet UBC admission. No computer-science route", "E1 (field focus) / E2 (dates)", status="CLOSED",
+  gpa="Eligibility requires university confirmation", url="https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/university-of-british-columbia/")
+c("S62", "Canada (Montreal)", "McGill University", "Master's in nutrition, public health, public policy, sustainable agriculture", "Mastercard Foundation Scholars Program at McGill",
+  "CLOSED for Fall 2027: application period closed (McGill page via search, E2; deadline 21 Aug 2026, E2). Fields: nutrition, public health, public policy, "
+  "sustainable agriculture (E1 MCF page, 8 Nov 2026). African citizens/residents; mandatory info session; MCF pre-screening before the McGill application. No computer-science route",
+  "E1 (field focus) / E2 (dates)", status="CLOSED", gpa="Eligibility requires university confirmation",
+  url="https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/mcgill-university/")
 c("S20", "United Kingdom", "Edinburgh / Manchester", "Master's", "Mastercard Foundation / Equity & Merit", "Closed for 2027; Edinburgh has no CS programmes", "E2", status="CLOSED", gpa="Potentially eligible")
 c("S23", "Germany", "Public universities", "MSc CS", "None (self-funded)", "Not funded (blocked account EUR 11,904/yr)", "E2", status="UPCOMING", gpa="Eligibility requires university confirmation", fund="SELF-FUNDED")
 c("S24", "United States", "Stanford", "Any", "Knight-Hennessy", "Not competitive at 2.62", "E3", status="CLOSED")
@@ -176,6 +200,8 @@ c("S58", "Japan", "Japanese universities", "Master's", "MEXT (University recomme
 c("S59", "China", "Northwestern Polytechnical University", "English-taught master's", "CSC Type B (NPU)", "CSC applicants need an 80% average (2.62/4.00 = 65.5%)", "E2", url="https://studyat.nwpu.edu.cn/info/1303/8791.htm")
 c("S60", "China", "Huazhong Univ. of Science and Technology", "MSc Computer Science and Technology (English)", "CSC Type B (HUST)", "On hold: 2024 guide minimum 3.0/4 or 75%; 2027 rule unconfirmed; fee CNY 600/800", "E2", status="ELIGIBILITY UNCERTAIN", url="https://iso.hust.edu.cn/info/1194/5146.htm")
 
+for _o in O:
+    if _o["id"] in ("S17", "S62", "S22"): _o["ver"] = date(2026, 11, 8)
 N = len(O)
 wb = Workbook()
 
@@ -309,26 +335,30 @@ ap.conditional_formatting.add(f"D5:{CL(3 + ns)}{APL}", CellIsRule(operator="equa
 ap.conditional_formatting.add(f"D5:{CL(3 + ns)}{APL}", CellIsRule(operator="equal", formula=['"In progress"'], fill=AMBER))
 ap.freeze_panes = "D5"
 
+# Phase 8: the funder and where it is based, kept separate from the country of study
+FUNDER = {'S02': 'Swedish Institute (Swedish government agency, Stockholm)', 'S30': 'European Union (Erasmus+, EACEA, Brussels) via the SITeS-JM consortium', 'S01': 'Mastercard Foundation (Toronto, Canada) via CMU-Africa', 'S31': 'European Union (Erasmus+, EACEA, Brussels) via the EDISS consortium', 'S09': 'Hungarian Government (Tempus Public Foundation, Budapest)', 'S10': 'The Canadian university (department / supervisor grants)', 'S32': 'The Canadian university (department / supervisor grants)', 'S05': 'Chinese Government (China Scholarship Council, Beijing)', 'S08': 'Korean Government (NIIED, Seoul)', 'S11': 'Italian regional right-to-study agencies (DSU)', 'S35': 'Government of India (ICCR, New Delhi)', 'S13': 'UK Government (FCDO, London) and partner organisations', 'S14': 'US Government (Department of State) via the US Embassy', 'S37': 'Belgian (Flemish) development cooperation (VLIR-UOS, Brussels)', 'S38': 'Italian Ministry of Foreign Affairs (MAECI, Rome)', 'S39': 'European Union (Erasmus+, EACEA, Brussels) via the SMACCs consortium', 'S40': 'European Union (Erasmus+, EACEA, Brussels) via the CDE consortium', 'S41': 'European Union (Erasmus+, EACEA, Brussels) via the CyberMACS consortium', 'S42': 'Czech Government (Ministry of Education, Prague)', 'S43': 'Chinese Government (CSC, Beijing) via the Chinese university', 'S44': 'Taiwan Ministry of Education or the university (Taipei)', 'S45': 'Government of Brunei Darussalam', 'S46': 'Thai Government (TICA, Bangkok)', 'S47': 'Japanese Government (MEXT, Tokyo) via the embassy', 'S48': 'Mastercard Foundation (Toronto, Canada) via the University of Rwanda', 'S49': 'Government of Mauritius', 'S50': 'European Union (EACEA, Brussels) via African university consortia', 'S51': 'The Canadian university (department)', 'S52': 'Australian Government (DFAT, Canberra)', 'S04': 'European Union (Erasmus+, EACEA, Brussels) via the SE4GD consortium', 'S03': 'European Union (Erasmus+, EACEA, Brussels) via the CYBERSURE consortium', 'S36': 'European Union (Erasmus+, EACEA, Brussels) via the SECCLO consortium', 'S06': 'European Union (Erasmus+, EACEA, Brussels) via the CYBERUS consortium', 'S07': 'European Union (Erasmus+, EACEA, Brussels) via the DEAI consortium', 'S12': 'Turkish Government (YTB, Ankara)', 'S33': 'Polish Government (NAWA, Warsaw)', 'S34': 'Japanese Government (JICA, Tokyo)', 'S22': 'German Government (BMZ) funds via DAAD (Bonn)', 'S26': 'KAUST (the university, Saudi Arabia)', 'S27': 'MBZUAI (the university, Abu Dhabi)', 'S28': 'African Union Commission (Addis Ababa)', 'S29': 'AIMS (African Institute for Mathematical Sciences) and its sponsors', 'S17': 'Mastercard Foundation (Toronto, Canada) via UBC', 'S62': 'Mastercard Foundation (Toronto, Canada) via McGill', 'S20': 'Mastercard Foundation (Canada) via Edinburgh; University of Manchester (Equity & Merit)', 'S23': 'None (self-funded)', 'S24': 'Stanford University (Knight-Hennessy endowment, USA)', 'S25': 'UK Government (FCDO) via the Commonwealth Scholarship Commission', 'S53': 'Irish Government (Department of Foreign Affairs / Irish Aid, Dublin)', 'S54': 'KFUPM (the university, Saudi Arabia)', 'S55': 'The Canadian university (department)', 'S56': 'The Canadian university (department)', 'S57': 'New Zealand Government (MFAT, Wellington)', 'S58': 'Japanese Government (MEXT) via the university', 'S59': 'Chinese Government (CSC) via the university', 'S60': 'Chinese Government (CSC) via the university', 'S61': 'Mastercard Foundation (Toronto, Canada) via Arizona State University'}
+
 # ============================ Master Scholarship Database ============================
 db = wb.create_sheet("Master Scholarship Database", 0)
 title(db, "Master Scholarship Database (v3, official-source verification 7 Nov 2026)",
       "Evidence: E0 own doc | E1 verified directly on official source | E2 official search result | E3 secondary | E4 your confirmation | E5 unsupported. Blue = editable.")
-cols = ["ID", "Priority", "Cycle", "Country", "University / host", "Programme", "Scholarship", "Funding class", "Coverage (verified)", "GPA / academic rule",
+cols = ["ID", "Priority", "Cycle", "Country of study", "University / host", "Programme", "Scholarship", "Funder (and where it is based)", "Funding class", "Coverage (verified)", "GPA / academic rule",
         "GPA eligibility at 2.62", "English requirement", "English status", "Work / other requirement", "Opening date", "Deadline", "Deadline detail / timezone",
         "Deadline status", "Days to deadline", "Urgency", "Official URL", "Evidence level", "Blocked by open discrepancies?", "Funding completeness",
         "Readiness /100", "Category", "Risk", "Key note", "YOUR next action", "CLAUDE next action", "Verified on", "Cat seq"]
-W_ = [6, 7, 9, 16, 26, 30, 26, 15, 36, 28, 18, 26, 12, 28, 11, 11, 24, 15, 9, 11, 34, 16, 13, 11, 10, 15, 8, 32, 38, 34, 11, 7]
+W_ = [6, 7, 9, 16, 26, 30, 26, 30, 15, 36, 28, 18, 26, 12, 28, 11, 11, 24, 15, 9, 11, 34, 16, 13, 11, 10, 15, 8, 32, 38, 34, 11, 7]
 header(db, 4, cols, W_)
 R0 = 5; RL = R0 + N - 1
 ci = {c_: i + 1 for i, c_ in enumerate(cols)}; L = {c_: CL(i) for c_, i in ci.items()}
 for i, o in enumerate(O):
     r = R0 + i
-    vals = {"ID": o["id"], "Priority": o["pri"], "Cycle": o["cyc"], "Country": o["country"], "University / host": o["host"], "Programme": o["prog"], "Scholarship": o["sch"],
+    vals = {"ID": o["id"], "Priority": o["pri"], "Cycle": o["cyc"], "Country of study": o["country"], "University / host": o["host"], "Programme": o["prog"], "Scholarship": o["sch"],
+            "Funder (and where it is based)": FUNDER.get(o["id"], "See 'Scholarship'"),
             "Funding class": o["fund"], "Coverage (verified)": o["cover"], "GPA / academic rule": o["gpa_rule"], "GPA eligibility at 2.62": o["gpa"],
             "English requirement": o["eng_req"], "English status": o["eng"], "Work / other requirement": o["work"], "Opening date": o["opens"] or "TBC",
             "Deadline": o["deadline"] or "TBC", "Deadline detail / timezone": o["tz"], "Deadline status": o["status"], "Official URL": o["url"],
             "Evidence level": o["ev"], "Blocked by open discrepancies?": o["disc"], "Risk": o["risk"], "Key note": o["note"], "YOUR next action": o["my"],
-            "CLAUDE next action": o["cl"], "Verified on": VERIFIED}
+            "CLAUDE next action": o["cl"], "Verified on": o.get("ver", VERIFIED)}
     for k, v in vals.items():
         x = db.cell(row=r, column=ci[k], value=v)
         if isinstance(v, date): x.number_format = "dd-mmm-yyyy"

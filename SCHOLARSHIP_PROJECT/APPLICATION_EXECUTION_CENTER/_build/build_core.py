@@ -187,7 +187,9 @@ DL = [
  (date(2027, 4, 22), "SI scholarship results", "Sweden SI", "Official", "E1", "08_SWEDEN_SI"),
  (date(2027, 5, 9), "SMACCs scholarship results", "SMACCs", "Official", "E2", "10_SMACCs"),
  (date(2027, 4, 20), "Italy IYT 2027/28 call expected (2026 call ran 20 Apr - 11 May)", "Italy IYT", "Expected", "E2", "12_OTHER_SCHOLARSHIPS"),
- (date(2027, 8, 4), "Chevening 2028/29 window expected to open (2026 pattern: 4 Aug - 6 Oct)", "UK Chevening", "Expected", "E1 pattern", "12_OTHER_SCHOLARSHIPS"),
+ (date(2027, 6, 1), "ASU Mastercard Foundation (Phase III, MS IT): watch for the 2028/29 call (2026 deadline was 27 Sep)", "USA ASU (Mastercard Foundation)", "Expected", "E2 pattern", "12_OTHER_SCHOLARSHIPS"),
+ (date(2027, 8, 1), "DAAD EPOS course deadlines for 2028 entry start (only if the DTU rank letter shows the upper third)", "Germany DAAD EPOS", "Expected", "E2/E3", "12_OTHER_SCHOLARSHIPS"),
+ (date(2027, 8, 4), "Chevening 2028/29 window expected to open (2026 pattern: 4 Aug - 6 Oct); needs 2,800 h after graduation (E1)", "UK Chevening", "Expected", "E1 pattern", "12_OTHER_SCHOLARSHIPS"),
 ]
 for i, (dt, what, opp, typ, ev, folder) in enumerate(DL, 4):
     c = ws.cell(row=i, column=1, value=dt); c.number_format = "dd-mmm-yyyy"; c.font = BB; c.border = BD

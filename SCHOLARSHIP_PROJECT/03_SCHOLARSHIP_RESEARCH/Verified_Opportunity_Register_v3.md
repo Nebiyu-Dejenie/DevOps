@@ -5,6 +5,16 @@ subtitle: "Official-source verification pass, 7 November 2026"
 
 > **Correction notice (7 Nov 2026, Phase 5):** the AISS, EDISS, CMU-Africa, Sweden SI and Türkiye entries are corrected in `P1_Research_Corrections_v1.md`. Where the two differ, the corrections file applies. The AISS line "GPA is not a scored criterion" was wrong: your transcript is part of the documents assessed.
 
+> **Phase 8 corrections (8 Nov 2026).** Where this register differs, these take precedence:
+>
+> - **Chevening (UK):** future-cycle target (2028/29 window expected Aug–Oct 2027). Needs ≥ 2,800 hours after the bachelor's, over ≥ 2 years (E1 chevening.org).
+> - **Mastercard Foundation at ASU (USA):** closed for 2027/28 (deadline 27 Sep 2026, E2). The current phase is "Innovation and Technology" and includes an MS in IT (E2). Monitor the next cycle.
+> - **Mastercard Foundation at UBC and McGill (Canada):** closed for 2027. Neither has a computer-science route:
+>   - UBC is limited to forestry, agriculture, and water and land management;
+>   - McGill covers nutrition, public health, public policy and sustainable agriculture (E1 Foundation pages).
+> - **DAAD EPOS (Germany):** conditional on a DTU class-rank letter showing the upper third. Only the Aug–Oct 2027 deadlines are realistic.
+> - **Country of study ≠ funder:** see the "Funder" column in `DASHBOARD/Scholarship_Command_Center.xlsx` and `APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS/Germany_USA_Canada_UK_Assessment`.
+
 # How to read this register
 
 **Evidence scale:**

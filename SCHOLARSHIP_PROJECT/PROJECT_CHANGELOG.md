@@ -100,3 +100,9 @@
 - Official name 'Artificial Intelligence for Sustainable Societies (SITeS-JM)' in pack title, dashboards, Command Center, deadlines, portfolio
 - 00_DASHBOARD: evidence-first table (HR letters, experience proof, DTU Registrar, referees) + Phase 8 completed list
 - SI audit checklist points to Experience_Calculation.xlsx; Word line-break filter (_tools/br.lua) |
+| 2026-11-08 17:52 UTC | 570aeef | 570aeef | PUSHED + VERIFIED (5 files) | Phase 8.5: session close - status, conversation log, START_HERE; sync.sh pushes its own record
+
+- PROJECT_STATUS rewritten (applications with funder vs country of study, next-cycle targets, evidence, next 5 actions)
+- PROJECT_CONVERSATION_LOG: Session 7 (Phase 8) completed, sanitised
+- START_HERE: experience calculator, referees, verification register, 57-entry database
+- _sync/sync.sh step 9: record row committed, scanned, pushed and verified |

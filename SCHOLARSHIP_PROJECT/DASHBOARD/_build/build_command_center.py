@@ -204,7 +204,7 @@ def pri_cf(ws, rng):
 
 # ============================ Discrepancy Log ============================
 DISC = [
-    ("DR-01", "CGPA 2.62 vs reported 2.67", "CRITICAL", "Resolved", "E0 transcript", "2.62 / 4.00", "-"),
+    ("DR-01", "CGPA: transcript 2.62 is final (earlier self-reported figure withdrawn)", "CRITICAL", "Resolved", "E0 transcript + your confirmation 8 Nov 2026", "2.62 / 4.00", "-"),
     ("DR-02", "Study start date / calendar", "MODERATE", "Partly resolved", "E0 transcript", "AcYear 2017/18-2021/22 (Gregorian); graduated 14 Jul 2022", "You: first-semester month"),
     ("DR-03", "EQF level / Extension mode", "LOW", "Resolved", "E0", "EQF 6; 'Extension programme, 5 academic years'", "-"),
     ("DR-04", "Faculty naming", "LOW", "Resolved", "E0", "As on transcript", "-"),
@@ -446,7 +446,7 @@ header(rdoc, 4, ["#", "Document", "Needed for", "Status", "How to get it (kit fi
 DOCS = [("SantimPay HR employment certificate", "ALL (blocking)", "Not started", "SantimPay_HR_Request.docx", "Titles, dates, FT/hours, duties, stamp"),
         ("Kifiya HR employment certificate", "ALL (blocking)", "Not started", "Kifiya_HR_Request.docx", "Dates, type, weekly hours"),
         ("Personal Information Confirmation Form (completed)", "ALL", "Not started", "Personal_Information_Confirmation_Form.docx", "E4 answers"),
-        ("Employment Evidence Collection Form (completed)", "S02 + CV", "Not started", "Employment_Evidence_Collection_Form_v2.xlsx", "SI 3,000-hour check"),
+        ("Experience calculation (HR-letter data entered)", "S02 + CV", "Not started", "15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx", "SI 3,000 h / Chevening 2,800 h / EPOS 24 months"),
         ("Transcript sent by DTU to UHR Sweden (e-mail or post)", "S02", "Not started", "University_Registrar_Request.docx", "Deadline 1 Feb 2027"),
         ("Sealed official transcripts (x3)", "S31, S09, others", "Not started", "University_Registrar_Request.docx", "University stamp across the flap"),
         ("Registrar letter: CGPA, grading scale, calendar, Extension, English medium", "S31, S09, S02", "Not started", "University_Registrar_Request.docx", ""),

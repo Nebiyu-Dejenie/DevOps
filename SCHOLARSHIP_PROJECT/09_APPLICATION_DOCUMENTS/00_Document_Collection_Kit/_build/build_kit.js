@@ -444,7 +444,7 @@ const personal = [
   FORM([
     ["Month/year your first semester started", ""],
     ["Have you collected the printed (permanent) diploma? Where is it?", ""],
-    ["Does ANY official document show CGPA 2.67? (Yes/No – which?)", ""],
+    ["Cumulative GPA used in every application: 2.62/4.00 (official transcript; confirmed 8 Nov 2026). Does any official document print a different CGPA? (Yes/No – which?)", ""],
     ["Final-year project title", ""], ["Project: technology, team size, your part", ""], ["Project supervisor (name, title)", ""],
   ]),
   H1("3. Employment (facts only; HR letters will be compared)"),
@@ -493,8 +493,12 @@ const personal = [
 ];
 
 (async () => {
-  await save("SantimPay_HR_Request.docx", "SantimPay HR Request", santim);
-  await save("Kifiya_HR_Request.docx", "Kifiya HR Request", kifiya);
+  // The two HR requests were superseded in Phase 6 (now in APPLICATION_EXECUTION_CENTER/15_EMPLOYMENT_EVIDENCE;
+  // old copies in 14_ARCHIVE/phase6_superseded). Set BUILD_SUPERSEDED=1 only to regenerate those archived copies.
+  if (process.env.BUILD_SUPERSEDED === "1") {
+    await save("SantimPay_HR_Request.docx", "SantimPay HR Request", santim);
+    await save("Kifiya_HR_Request.docx", "Kifiya HR Request", kifiya);
+  }
   await save("University_Registrar_Request.docx", "University Registrar Request", registrar);
   await save("Lecturer_Recommendation_Request.docx", "Lecturer Recommendation Request", lecturer);
   await save("Manager_Recommendation_Request.docx", "Manager Recommendation Request", manager);

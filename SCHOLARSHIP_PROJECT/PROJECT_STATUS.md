@@ -1,6 +1,6 @@
 # Project Status
 
-**Updated:** 8 Nov 2026 (Phase 8). **Nothing has been submitted, e-mailed, signed or paid.**
+**Updated:** 8 Nov 2026 (Phase 8). **Nothing has been submitted, e-mailed, signed or paid.** GPA used everywhere: **2.62/4.00** (transcript, final).
 
 ## Applications
 
@@ -23,6 +23,7 @@
 | Kifiya experience letter | Request ready: **hand in** |
 | DTU Registrar (sealed transcripts, GPA/grading/English-medium letter, transcript to Sweden, class rank) | Request ready (`09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit`): **hand in** |
 | 2 academic + 2 professional referees | Drafts ready (`APPLICATION_EXECUTION_CENTER/16_RECOMMENDATIONS`): **ask** |
+| Experience proof (SI 3,000 h; Chevening 2,800 h after graduation; EPOS 24 months) | Calculator ready (`15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx`). **Documented today: 0 h (no HR letter yet).** Your statement of 3 years 6 months would give about 6,720 h, but that is not evidence |
 | Final-year project title and report | **Needed from you** |
 | Leadership examples (1–2, real) | **Needed from you** |
 

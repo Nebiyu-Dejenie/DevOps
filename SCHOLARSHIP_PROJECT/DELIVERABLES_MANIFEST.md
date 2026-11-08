@@ -29,9 +29,14 @@ Every Phase 1–5 deliverable: where it is, what it is for, and its status.
 | Italy_IYT_SUBMISSION_PACK | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | Italy IYT: rules incl. age, video draft, documents, audit | – | md docx pdf | Conditional (private age check) | Yes | No | No |
 | Germany_USA_Canada_UK_Assessment | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | Fully funded options in DE/US/CA/UK for 2027 and next cycle | – | md docx pdf | Complete | Yes | No | No |
 | Privacy_Audit_Git_History | DASHBOARD | Full Git history privacy audit (masked findings) + protections | – | md | Complete | Yes | No | No |
+| CMU-Africa_Application_Draft | 14_ARCHIVE/phase6_superseded | Complete CMU-Africa draft: essays, need, leadership, video, test, interview | – | md docx pdf | Draft ready for your review | Yes | No | No |
+| SI_Application_Package | 14_ARCHIVE/phase6_superseded | SI + universityadmissions.se package with the 13 Nov procedure | – | md docx | Draft: templates due 13 Nov | Yes | No | No |
 | SI_Programme_Shortlist | APPLICATION_EXECUTION_CENTER/08_SWEDEN_SI | 100 open programmes (E1) + 5 checked candidates | – | xlsx | Provisional until the 13 Nov list | Yes | No | No |
+| AISS_Application_Package | 14_ARCHIVE/phase6_superseded | AISS video, research interests, social impact, interview, self-funding | – | md docx | Draft ready for your review | Yes | No | No |
 | AISS_Portfolio_Summaries | APPLICATION_EXECUTION_CENTER/09_AISS | The AISS portfolio document (5 executed projects) | – | md docx | Draft: needs your facts + demo repos | Yes | No | No |
+| SMACCs_Application_Strategy | 14_ARCHIVE/phase6_superseded | SMACCs facts, fit, motivation letter, interview strategy | – | md docx pdf | Draft ready for your review (facts E2) | Yes | No | No |
 | China_Application_Operation | APPLICATION_EXECUTION_CENTER/11_CHINA | DUT/CSU/NUIST/UESTC/HUST/NPU + Type A comparison | – | xlsx | Complete (E2) | Yes | No | No |
+| China_Study_Plan_and_Emails | 14_ARCHIVE/phase6_superseded | DUT study plan, e-mails, step-by-step | – | md docx | Draft ready for your review | Yes | No | No |
 | Backups_and_Financial_Gap | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | Backups and real funding gaps | – | md docx | Complete | Yes | No | No |
 | EDISS_Application_Package | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | EDISS (optional, label C) | – | md docx | Draft | Yes | No | No |
 | Stipendium_Hungaricum_Package | APPLICATION_EXECUTION_CENTER/12_OTHER_SCHOLARSHIPS | Hungary package | – | md docx | Draft: call pending | Yes | No | No |
@@ -63,7 +68,8 @@ Every Phase 1–5 deliverable: where it is, what it is for, and its status.
 | Lecturer_Recommendation_Request | 09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit | Academic referee request | – | docx | Ready to use | Yes | No | No |
 | Manager_Recommendation_Request | 09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit | Work referee request | – | docx | Ready to use | Yes | No | No |
 | Personal_Information_Confirmation_Form | 09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit | Your answers in one place (no passport number) | – | docx | Waiting for your answers | Yes | No | No |
-| Employment_Evidence_Collection_Form_v2 | 09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit | Job history + SI hours (no double counting) | v2 | xlsx | Ready to use (tested) | Yes | No | No |
+| Experience_Calculation | APPLICATION_EXECUTION_CENTER/15_EMPLOYMENT_EVIDENCE | Employer-by-employer experience: SI 3,000 h, Chevening 2,800 h, EPOS 24 months (no double counting) + scenario | – | md docx pdf xlsx | Ready to use (tested); 0 documented hours until HR letters | Yes | No | No |
+| README | 14_ARCHIVE | What the archive holds and which files replaced it | – | md | Complete | Yes | No | No |
 | Recommender_Briefing_Pack_v1 | 10_RECOMMENDATIONS | Facts for referees (they write their own letters) | v1 | md | Ready to use | Yes | No | No |
 | English_Test_and_Interview_Plan_v1 | 11_INTERVIEW_PREPARATION | Earlier question bank and 5-week plan | v1 | md docx pdf | Reference | Yes | No | No |
 | Official evidence (46 snapshots + 3 data files) | 03_SCHOLARSHIP_RESEARCH/Official_Evidence_2026-11-07 | Saved copies of official pages (proof) | 7 Nov 2026 | txt json | Complete | n/a | n/a | n/a |

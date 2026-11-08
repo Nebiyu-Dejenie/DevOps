@@ -55,17 +55,18 @@ subtitle: "The facts every application uses. Source of truth: 00_MASTER_PROFILE/
 - **0–2 years after the degree:** infrastructure or security engineer for an Ethiopian fintech or bank.
 - **3–5 years:** lead reliability and security engineering for payment platforms in Ethiopia.
 
-# GPA: 2.62 or 2.67? (please check once)
+# GPA: 2.62 / 4.00 (final)
 
-- You wrote **2.67**. The official DTU transcript, read on 7 Nov 2026, shows a cumulative GPA of **2.62/4.00** (627.75 grade points over 240 credits).
-- **Every application must use the figure printed on the official document you upload.** Admissions staff compare the number you type with the transcript, and a mismatch can be treated as misrepresentation.
-- **If you hold an official document that shows 2.67** (for example the degree certificate or a corrected transcript), send it and every file will be updated through the master profile.
-- **Effect on decisions:** none of the verified rules used in this project falls between 2.62 and 2.67. The cut-offs checked were 3.0/4, 75%, 80%, upper third and 70%; with either figure, every eligibility decision stays the same.
+- **Cumulative GPA: 2.62/4.00**, as printed on the official DTU transcript (627.75 grade points over 240 credits; read 7 Nov 2026; confirmed by you on 8 Nov 2026).
+- **Every application uses 2.62.** Type it exactly as printed: never round it and never convert it yourself. Admissions staff compare the number you type with the transcript you upload.
+- Files in `14_ARCHIVE` are kept as history and may still show an earlier, unsupported figure. Do not copy GPA values from archived files.
 
-# Experience: about 3 years 6 months (your statement, to be proven)
+# Experience: 3 years 6 months (your statement, to be proven by HR letters)
 
-- Treated as **E4 (your confirmation)** until the HR letters arrive.
-- If the letters confirm full-time work since 2022–23, you meet:
-  - Sweden SI's 3,000 hours (about 6,700 hours at 40 h × 48 weeks)
-  - Chevening's 2 years
-  - DAAD EPOS's 2 years
+- Treated as **E4 (your confirmation)** until the HR letters arrive. Each employer's titles, dates and weekly hours are still unproven (DR-06, DR-07).
+- **Calculation:** `15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx` runs three separate tests, each on documented periods only:
+  - Sweden SI: ≥ 3,000 hours before 8 Feb 2027
+  - Chevening: ≥ 2,800 hours after graduation (14 Jul 2022)
+  - DAAD EPOS: ≥ 2 years of related work after graduation
+- **Today's documented result: 0 hours**, because no HR letter has been received yet.
+- An illustrative scenario with stated assumptions is in `15_EMPLOYMENT_EVIDENCE/Experience_Calculation.md`. It is **not evidence**.

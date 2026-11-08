@@ -3,7 +3,7 @@
 set -e
 cd "$(dirname "$0")/.."
 REF=../00_MASTER_PROFILE/generator/reference_compact.docx
-TOOLS=/tmp/claude-0/-home-user-DevOps/76fe69da-fa2f-51c3-baf0-e814e33d9b97/scratchpad/tools
+TOOLS="$(cd ../_tools && pwd)"
 for f in 07_CMU_AFRICA/CMU-Africa_SUBMISSION_PACK.md 08_SWEDEN_SI/Sweden_SI_SUBMISSION_PACK.md 09_AISS/AISS_SUBMISSION_PACK.md \
          10_SMACCs/SMACCs_SUBMISSION_PACK.md 11_CHINA/China_DUT_SUBMISSION_PACK.md 12_OTHER_SCHOLARSHIPS/Italy_IYT_SUBMISSION_PACK.md \
          12_OTHER_SCHOLARSHIPS/Germany_USA_Canada_UK_Assessment.md 13_INTERVIEW_PREPARATION/Interview_Bank.md 14_SUBMISSION_CHECKLIST.md; do

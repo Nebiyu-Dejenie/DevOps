@@ -17,7 +17,7 @@ Times are UTC, taken from commit times where available.
 
 ## Session 1: 5 Nov 2026 (Phases 1–2)
 
-- **Your instructions:** find fully funded master's scholarships for the 2027 intake. Never invent facts. Never create accounts, pay, sign or submit without approval. You stated a GPA of 2.67.
+- **Your instructions:** find fully funded master's scholarships for the 2027 intake. Never invent facts. Never create accounts, pay, sign or submit without approval. You gave a self-reported GPA figure that the transcript later corrected (see Session 2).
 - **Work done:** Phase 1–2 Scholarship Intelligence Report; 12-sheet tracker; master profile.
 - **Files:** Phase 1–2 report, tracker v1, Master Applicant Profile v1.
 - **Git:** commit 277ef6c, **pushed 5 Nov 06:28**. It is the only commit that was on GitHub before Phase 8.
@@ -27,7 +27,7 @@ Times are UTC, taken from commit times where available.
 
 - **Your instructions:** verify every fact and resolve discrepancies (GPA, dates, employers, recommendation letter). Protect personal information. **No pushes without approval.**
 - **Work done:** discrepancy resolution report; eligibility v2; tracker v2; CV and essay drafts.
-- **Key finding:** the official transcript gives a cumulative GPA of **2.62/4.00** (E0). 2.67 is not supported by any document.
+- **Key finding:** the official transcript gives a cumulative GPA of **2.62/4.00** (E0). The earlier self-reported figure is not supported by any document. In Phase 8 you confirmed 2.62 as final.
 - **Git:** commit d3255fb (local only).
 
 ## Session 3: 7 Nov 2026 (Phase 4)

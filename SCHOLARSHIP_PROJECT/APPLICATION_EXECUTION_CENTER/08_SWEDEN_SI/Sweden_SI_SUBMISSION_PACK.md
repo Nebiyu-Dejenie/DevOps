@@ -26,7 +26,7 @@ subtitle: "University application by 15 Jan 2027 · SI scholarship 8–24 Feb 20
 - **What counts:** full-time or part-time employment, freelancing or entrepreneurship. **Internships do not count.**
 - **Formula:** hours/week × weeks/year × years.
 - **Your case:** you report about **3 years 6 months** of work since 2022. At 40 h × 48 weeks that is roughly **6,700 hours**, comfortably above 3,000, **but only if the HR letters prove the dates and weekly hours**.
-  - The sheet "SI hours - no double count" in `09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit/Employment_Evidence_Collection_Form_v2.xlsx` counts overlapping jobs only once.
+  - `15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx` (Phase 8) counts overlapping jobs only once and runs the SI test separately from the Chevening and EPOS tests. Today: **0 documented hours, not yet proven** (no HR letter yet).
   - Until the letters arrive, eligibility is **pending, not assumed**.
 - **Leadership:** required, from employment, entrepreneurship or civil society. No minimum hours; "priority will be given to … strong and relevant leadership experience from employment".
 - **Not eligible if you:**
@@ -202,6 +202,6 @@ Use up to **two** examples (one leadership form each). Fill only with real event
    - career value
 4. **Check** each chosen programme's page for extra documents. For example, Stockholm asks for new supporting documentation for autumn 2027.
 5. **Then pay SEK 900** on universityadmissions.se (fee deadline 1 Feb; review starts only after payment).
-6. **Hours:** enter the HR-letter data in `Employment_Evidence_Collection_Form_v2.xlsx`. The sheet "SI hours - no double count" must show "MEETS".
+6. **Hours:** enter the HR-letter data on "Employment periods" in `15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx`. The SI row on "Results" must show "MEETS (documented)".
 7. **Forms:** fill the SI work forms (one per employer, unless the template says otherwise) and up to 2 leadership forms. Have them signed and stamped.
 8. **CV:** paste `06_FINAL_CV/CV_content_for_SI_template` into the official template (at most 3 pages).

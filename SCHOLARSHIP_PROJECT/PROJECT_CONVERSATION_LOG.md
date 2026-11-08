@@ -87,7 +87,7 @@ Times are UTC, taken from commit times where available.
 - **Privacy:** the history audit found birth-date text **only in local commit a5c7983**. A local push guard was added, and a clean branch created.
 - **Git:** commits 59ca281 and ed79693 (local). Clean branch `claude/amazing-pasteur-3yuhhm-clean` = e290619 (local).
 
-## Session 7: 8 Nov 2026 (Phase 8, in progress)
+## Session 7: 8 Nov 2026 (Phase 8)
 
 - **Your instructions:**
   - **mandatory continuous GitHub sync** after every meaningful update, through the clean branch (never the original branch while it contains a5c7983)
@@ -101,9 +101,37 @@ Times are UTC, taken from commit times where available.
   - finish the CMU-Africa, SI, SMACCs and AISS applications
   - no fabricated achievements
   - no submissions, e-mails, signatures or payments without authorisation
-- **Findings so far:**
-  - the repository is **public** (GitHub API, 8 Nov)
-  - third-party names (a former lecturer; another person's CV filename) were present in archived files
-  - a5c7983 is not an ancestor of the clean branch
-- **Corrections:** third-party names replaced with neutral placeholders in every archived format; archived PDFs regenerated.
-- **Outstanding, and next actions:** see `PROJECT_STATUS.md`. This entry is completed at the end of the session.
+- **Findings:**
+  - The repository is **public** (GitHub API, 8 Nov).
+  - Third-party names (a former lecturer; another person's CV filename) were present in archived files.
+  - a5c7983 is not an ancestor of the clean branch.
+  - **Chevening:** ≥ 2,800 h after the undergraduate degree, over ≥ 2 years; internships and voluntary work count (**E1**, chevening.org).
+  - **Mastercard Foundation (E1 pages + E2 dates):**
+    - ASU: Phase III "Innovation and Technology" includes an MS in IT; 2027/28 closed (27 Sep 2026)
+    - UBC: forestry/agriculture/water only; closed 6 Sep 2026
+    - McGill: nutrition/public health/policy/agriculture only; closed for Fall 2027
+  - **DAAD EPOS (E2/E3):**
+    - "far above average (upper third)", and a university ranking letter is required
+    - indicative German grade for 2.62 = 3.07
+    - degree turns 6 on 14 Jul 2028, so only the Aug–Oct 2027 deadlines are realistic
+    - no ICT course confirmed
+  - **Experience:** 0 hours documented; your 42-month statement would give about 6,720 h under stated assumptions (not evidence).
+- **Corrections made:**
+  - third-party names replaced in every archived format
+  - the outdated GPA figure removed from active files
+  - the v2 employment form superseded by the experience calculator (archived)
+  - stale paths to archived Phase 6 files repointed
+  - render tools moved into the repository
+- **Files produced:**
+  - `15_EMPLOYMENT_EVIDENCE/Experience_Calculation` (.xlsx/.md/.docx/.pdf)
+  - `12_OTHER_SCHOLARSHIPS/DAAD_EPOS_Upper_Third_Evidence`
+  - rewritten `Germany_USA_Canada_UK_Assessment`
+  - Command Center with a funder column (57 entries)
+  - verification register (42 facts)
+  - readiness blocks in four packs
+  - evidence-first dashboard
+  - `14_ARCHIVE/README.md`
+  - `_sync/`, `_tools/`
+  - Official_Evidence_2026-11-08 (4 snapshots)
+- **Git:** every update was pushed to the clean branch and verified (local SHA = remote SHA). The commits are in the changelog's synchronisation log.
+- **Outstanding, and next actions:** see `PROJECT_STATUS.md` ("Your next 5 actions").

@@ -54,6 +54,26 @@ remote_sha=$(git ls-remote origin "refs/heads/$SYNC_BRANCH" | cut -f1)
 echo "local : $local_sha"; echo "remote: ${remote_sha:-<none>}"
 if [ "$ok" = 1 ] && [ "$remote_sha" = "$local_sha" ]; then
   record "${local_sha:0:7}" "${remote_sha:0:7}" "PUSHED + VERIFIED ($nfiles files)" "$MSG"; echo "SYNC RESULT: PUSHED AND VERIFIED"
+  # 9. Push the record itself in a small follow-up commit, so the log on GitHub is complete and nothing stays
+  #    unsynchronised. The follow-up commit is scanned and verified the same way, but not listed (that would never end).
+  echo "== 9. record commit"
+  git add "$LOG"
+  if python3 -I SCHOLARSHIP_PROJECT/_sync/sensitive_scan.py --staged >/dev/null; then
+    git commit -q -m "Record verified sync of ${local_sha:0:7} in PROJECT_CHANGELOG
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_011wY2tVFvWKD2S8fVsN7Aih" || exit 0
+    rec_sha=$(git rev-parse HEAD); rec_ok=0
+    for wait in 0 2 4 8 16; do
+      [ "$wait" -gt 0 ] && sleep "$wait"
+      git push -q origin "$SYNC_BRANCH" 2>/dev/null
+      if [ "$(git ls-remote origin "refs/heads/$SYNC_BRANCH" | cut -f1)" = "$rec_sha" ]; then rec_ok=1; break; fi
+    done
+    if [ "$rec_ok" = 1 ]; then echo "RECORD COMMIT ${rec_sha:0:7}: PUSHED AND VERIFIED"
+    else echo "RECORD COMMIT ${rec_sha:0:7}: committed locally only; it will go out with the next sync"; fi
+  else
+    git reset -q; echo "RECORD COMMIT: scan failed; the record row stays uncommitted"
+  fi
 else
   record "${local_sha:0:7}" "${remote_sha:0:7}" "PUSH NOT VERIFIED: committed locally only" "$MSG"; echo "SYNC RESULT: NOT VERIFIED (work kept locally)"; exit 2
 fi

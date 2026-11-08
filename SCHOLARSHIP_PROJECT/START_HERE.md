@@ -21,10 +21,13 @@
 | Work on an application | `APPLICATION_EXECUTION_CENTER/07_CMU_AFRICA`, `08_SWEDEN_SI`, `09_AISS`, `10_SMACCs`, `11_CHINA`, `12_OTHER_SCHOLARSHIPS` |
 | Check deadlines | `APPLICATION_EXECUTION_CENTER/03_APPLICATION_DEADLINES.xlsx` |
 | Compare opportunities, readiness and funding gaps | `APPLICATION_EXECUTION_CENTER/02_TOP_SCHOLARSHIPS.xlsx` |
-| Collect documents | `APPLICATION_EXECUTION_CENTER/04_MY_MISSING_DOCUMENTS` (the request letters are in `09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit/`) |
+| Collect documents | `APPLICATION_EXECUTION_CENTER/04_MY_MISSING_DOCUMENTS`. The HR requests are in `APPLICATION_EXECUTION_CENTER/15_EMPLOYMENT_EVIDENCE/`; the Registrar and referee requests in `09_APPLICATION_DOCUMENTS/00_Document_Collection_Kit/` |
+| Prove your work experience (SI 3,000 h, Chevening 2,800 h, DAAD EPOS 24 months) | `APPLICATION_EXECUTION_CENTER/15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx` (enter the HR-letter data) |
+| Give referees their drafts | `APPLICATION_EXECUTION_CENTER/16_RECOMMENDATIONS/` |
+| Check whether a fact is verified (E1) or search-indexed (E2) | `APPLICATION_EXECUTION_CENTER/00_VERIFICATION_REGISTER.xlsx` |
 | Send e-mails | `APPLICATION_EXECUTION_CENTER/05_READY_TO_SEND_EMAILS.docx` (approve each one first) |
 | See what is really finished | `APPLICATION_EXECUTION_CENTER/00_PHASE5_COMPLETION_AUDIT.xlsx` |
-| See the full database (55 opportunities, 14 sheets) | `DASHBOARD/Scholarship_Command_Center.xlsx` |
+| See the full database (57 opportunities; country of study and funder shown separately) | `DASHBOARD/Scholarship_Command_Center.xlsx` |
 | Update a fact once, everywhere | `00_MASTER_PROFILE/profile/master_profile.yaml`, then `00_MASTER_PROFILE/generator/README.md` |
 | Read the research behind the choices | `03_SCHOLARSHIP_RESEARCH/` (corrections, new opportunities, China deep-dive, official evidence) |
 | List every deliverable | `DELIVERABLES_MANIFEST.md` |
@@ -34,4 +37,5 @@
 - Only verified facts go into applications. Your GPA is **2.62/4.00** everywhere.
 - Unverified titles, dates and results stay as `[⏳ …]` until the official letters arrive.
 - Nothing is created, paid, signed, sent or submitted for you.
-- Older versions are kept in `14_ARCHIVE/`.
+- Older versions are kept in `14_ARCHIVE/` (see its README: archived files may show outdated figures).
+- Documents are rebuilt by the scripts in each `_build/` folder, using the helpers in `_tools/`.

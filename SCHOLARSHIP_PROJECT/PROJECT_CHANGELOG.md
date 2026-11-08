@@ -7,7 +7,12 @@
 | `claude/amazing-pasteur-3yuhhm` | Original working history, including private commit a5c7983 | **Only up to 277ef6c.** Later commits stay local and are **never pushed** |
 | `claude/amazing-pasteur-3yuhhm-clean` | Same project files, history without a5c7983 | **Synchronisation branch from Phase 8 onward** |
 
-**Convention:** the sync script records each push in the table at the bottom of this file **after** the push. Each record is therefore committed with the next update. The final push of a session is reported in that session's summary, and appears here at the start of the next session.
+**Convention:**
+
+- After each verified push, `_sync/sync.sh` adds a row to the table at the bottom of this file.
+- It then pushes that row in a small follow-up commit ("Record verified sync of …"), which is scanned and verified the same way.
+- Follow-up commits are not listed themselves; that would never end.
+- **Before this change** (rows up to commit c220eae), each record was committed with the next update instead.
 
 ## History
 
@@ -60,6 +65,11 @@
 - **AISS official name:** "Artificial Intelligence for Sustainable Societies (SITeS-JM)" in the pack title, the dashboards, the Command Center, the deadlines and the portfolio.
 - **Dashboard:** new "Evidence first" table (HR letters, experience proof, DTU Registrar, referees).
 - **Word copies:** the `_tools/br.lua` filter keeps line breaks inside table cells.
+- **Session close:**
+  - PROJECT_STATUS rewritten: applications; next-cycle targets; evidence; your next 5 actions.
+  - Conversation log: Session 7 completed.
+  - START_HERE updated.
+  - `sync.sh` now pushes its own record row (step 9), so no local change is left after a sync.
 
 ## Synchronisation log (written by `_sync/sync.sh`)
 
@@ -84,3 +94,9 @@
 - DAAD_EPOS_Upper_Third_Evidence (rule, indicative German grade 3.07, DTU rank-letter paragraph, decision rule)
 - Germany/USA/Canada/UK assessment rewritten; verification register +6 facts; deadlines (ASU Jun 2027, EPOS Aug 2027)
 - E1 snapshots: Mastercard Foundation ASU/UBC/McGill pages |
+| 2026-11-08 17:50 UTC | c220eae | c220eae | PUSHED + VERIFIED (26 files) | Phase 8.4: submission readiness blocks (CMU-Africa, SI, SMACCs, AISS); official AISS name; evidence-first dashboard
+
+- Section 0 in each priority pack: submittable today?, complete/drafted, you must provide, verify, exact portal link, deadline + days left, final checks
+- Official name 'Artificial Intelligence for Sustainable Societies (SITeS-JM)' in pack title, dashboards, Command Center, deadlines, portfolio
+- 00_DASHBOARD: evidence-first table (HR letters, experience proof, DTU Registrar, referees) + Phase 8 completed list
+- SI audit checklist points to Experience_Calculation.xlsx; Word line-break filter (_tools/br.lua) |

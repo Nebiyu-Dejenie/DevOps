@@ -53,6 +53,13 @@
   - The rule (E2/E3); the indicative German grade 3.07; what DTU can issue.
   - A rank-letter paragraph (not sent); the decision rule; the IT-course search.
 - **Evidence:** Mastercard Foundation pages for ASU, UBC and McGill saved (E1) in `03_SCHOLARSHIP_RESEARCH/Official_Evidence_2026-11-08`.
+- **Submission readiness (Phase 8.4):** a section 0 at the top of the CMU-Africa, SI, SMACCs and AISS packs. It shows:
+  - can it be submitted today; what's complete or drafted
+  - what you must provide; what to verify
+  - the exact portal link; the deadline with days left; the final checks
+- **AISS official name:** "Artificial Intelligence for Sustainable Societies (SITeS-JM)" in the pack title, the dashboards, the Command Center, the deadlines and the portfolio.
+- **Dashboard:** new "Evidence first" table (HR letters, experience proof, DTU Registrar, referees).
+- **Word copies:** the `_tools/br.lua` filter keeps line breaks inside table cells.
 
 ## Synchronisation log (written by `_sync/sync.sh`)
 
@@ -71,3 +78,9 @@
 - Chevening work-experience rule saved as E1 evidence (chevening.org, 8 Nov 2026)
 - Archive the v2 employment form (superseded); 14_ARCHIVE/README.md
 - Render tools moved into SCHOLARSHIP_PROJECT/_tools; stale archived paths repointed |
+| 2026-11-08 17:46 UTC | 06cb151 | 06cb151 | PUSHED + VERIFIED (25 files) | Phase 8.3: register corrections (ASU/UBC/McGill Mastercard Foundation, Chevening, EPOS) + country of study vs funder
+
+- Command Center: Country of study + Funder column (57 entries); S61 ASU (closed 2027/28, monitor), S17 UBC, S62 McGill (closed, no CS route), S13 Chevening future target, S22 EPOS conditional
+- DAAD_EPOS_Upper_Third_Evidence (rule, indicative German grade 3.07, DTU rank-letter paragraph, decision rule)
+- Germany/USA/Canada/UK assessment rewritten; verification register +6 facts; deadlines (ASU Jun 2027, EPOS Aug 2027)
+- E1 snapshots: Mastercard Foundation ASU/UBC/McGill pages |

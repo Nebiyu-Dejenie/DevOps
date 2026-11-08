@@ -12,7 +12,7 @@ DOCX_LIST="05_READY_TO_SEND_EMAILS.md 09_AISS/AISS_Portfolio_Summaries.md 12_OTH
  12_OTHER_SCHOLARSHIPS/Research_MSc_Canada/Supervisor_Contact_System.md 13_INTERVIEW_PREPARATION/Interview_Bank.md \
  13_INTERVIEW_PREPARATION/English_Test_Plan.md 06_FINAL_CV/Technical_Project_Portfolio.md 14_SUBMISSION_GUIDES.md 01_MY_PROFILE.md 15_EMPLOYMENT_EVIDENCE/Experience_Calculation.md"
 for f in $DOCX_LIST; do
-  pandoc "$f" -o "${f%.md}.docx" --reference-doc "$REF"
+  pandoc "$f" -o "${f%.md}.docx" --reference-doc "$REF" --lua-filter "$TOOLS/br.lua"
   zip -q -d "${f%.md}.docx" '*/' >/dev/null 2>&1 || true
   echo "docx ${f%.md}.docx"
 done

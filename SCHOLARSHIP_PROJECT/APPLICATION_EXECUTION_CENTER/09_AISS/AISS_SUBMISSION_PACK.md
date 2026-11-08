@@ -1,7 +1,21 @@
 ---
-title: "AISS (Erasmus Mundus): Submission Pack"
-subtitle: "Official project name SITeS-JM, Sustainable Information Technologies for Societies Joint Masters. Degree programme branded 'AISS: Artificial Intelligence for Sustainable Societies'. Window 2 Dec 2026 – 2 Feb 2027"
+title: "Artificial Intelligence for Sustainable Societies (SITeS-JM): Submission Pack"
+subtitle: "Erasmus Mundus Joint Master (EU catalogue: SITeS-JM, Sustainable Information Technologies for Societies Joint Masters; degree branded AISS). Window 2 Dec 2026 – 2 Feb 2027"
 ---
+
+# 0. Submission readiness (Phase 8, 8 Nov 2026)
+
+| Question | Answer |
+|--|--------|
+| **Official name** | **Artificial Intelligence for Sustainable Societies (SITeS-JM)**, an Erasmus Mundus Joint Master. The EU catalogue lists the project as "Sustainable Information Technologies for Societies Joint Masters"; the degree is branded AISS. "AISS" below is the short form |
+| **Can it be submitted today?** | **No.** The window opens **2 Dec 2026**, and an English test result is required (an Ethiopian degree is not exempt) |
+| **Drafted: rewrite in your own words** | Motivation-video script (3a, ≤ 1:30); research interests (3b); social impact statement (3c); portfolio summaries (`AISS_Portfolio_Summaries`); self-funding plan template (3e); interview preparation (section 7) |
+| **You must provide** | 1. **English test** (IELTS 6.5 with no part below 5.5, or equivalent). Booking costs ETB 32,800 and needs your approval.<br>2. Demo repositories 3 and 4 (no employer code).<br>3. Final-year project title.<br>4. HR facts for the CV and portfolio.<br>5. The recorded video (you on screen at least half the time; your own voice).<br>6. Real self-funding figures.<br>7. Transcript, degree and passport scans |
+| **Verify** | The rules are E1 (aissprogram.eu, re-read 8 Nov 2026). On 2 Dec, open the "Apply" link (Tallinn University DreamApply) and check that nothing has changed |
+| **Exact portal link** | https://aissprogram.eu/application-procedure/, then "Apply" (DreamApply, from 2 Dec; E1) |
+| **Deadline** | **2 Feb 2027** (86 days; the window opens in 24 days); your target **30 Jan 2027** |
+| **Final checks** | The 7 checks in section 8 |
+
 
 **Nothing is submitted, signed, sent or paid for you.**
 

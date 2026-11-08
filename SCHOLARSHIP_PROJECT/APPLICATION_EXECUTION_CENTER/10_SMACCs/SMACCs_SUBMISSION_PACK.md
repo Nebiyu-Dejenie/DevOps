@@ -3,6 +3,20 @@ title: "SMACCs (Erasmus Mundus, Smart Cities and Communities): Submission Pack"
 subtitle: "Scholarship deadline 1 Feb 2027 (E2). Submit by 25 Jan. ICT specialisation (International Hellenic University)"
 ---
 
+# 0. Submission readiness (Phase 8, 8 Nov 2026)
+
+| Question | Answer |
+|--|--------|
+| **Can it be submitted today?** | **No.** Every SMACCs fact is E2 (smaccs.eu cannot be opened from this session), and the references and HR facts are missing |
+| **Drafted: rewrite in your own words** | Motivation letter for the ICT path at International Hellenic University (section 4); path strategy (section 3); interview strategy (section 8); `06_FINAL_CV/CV_Europe_Academic` (needs HR facts) |
+| **Official requirements used** | From smaccs.eu (E2):<br>- **Admission:** bachelor's in engineering or science; English by test or prior English-medium instruction; global merit score (degree content, study success, motivation letter, 2 references with at least 1 academic, **work experience**, R&D, English).<br>- **Scholarship:** €1,400/month for up to 24 months plus tuition waiver; at most 10% per nationality; Ethiopia is covered by the regular EMJM and NDICI (Heading 6) categories (inference: confirm) |
+| **You must provide** | 1. HR letters (for the CV and the work-experience score).<br>2. **2 signed references, at least 1 academic** (final-project supervisor, plus the SantimPay manager).<br>3. **DTU letter confirming English as the medium of instruction** (registrar request).<br>4. Transcript and degree scans; passport.<br>5. Your path choice plus 2 alternatives |
+| **Verify in your browser (E2)** | The Application, Instructions, Deadlines and Scholarships pages: the deadline, the document formats, whether prior English-medium instruction is accepted from Ethiopia, and the scholarship categories |
+| **Exact portal link** | https://www.smaccs.eu/practical/application/ (E2) |
+| **Deadline** | **1 Feb 2027** for scholarship applicants (85 days); your target **25 Jan 2027** (E2). Interviews 7–18 Apr; results by 9 May |
+| **Final checks** | The 8 checks in section 9 |
+
+
 **Nothing is submitted, signed, sent or paid for you.**
 
 **Evidence:**

@@ -3,6 +3,20 @@ title: "Sweden: SI Scholarship for Global Professionals: Submission Pack"
 subtitle: "University application by 15 Jan 2027 · SI scholarship 8–24 Feb 2027 (portal closes 14:59 CET)"
 ---
 
+# 0. Submission readiness (Phase 8, 8 Nov 2026)
+
+| Question | Answer |
+|--|--------|
+| **Can it be submitted today?** | **No.** Eligibility (≥ 3,000 hours) is unproven until the HR letters arrive (`15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx` shows 0 documented hours). SI's templates appear on **13 Nov** |
+| **Drafted: rewrite in your own words** | SI motivation (section 4a, about 520 words); video-presentation notes (4b); Stockholm University motivation letter (4c); CV content for SI's template (`06_FINAL_CV/CV_content_for_SI_template`); employer documentation pack (section 9); leadership statement builder (section 10) |
+| **Complete: ready to use** | Programme shortlist: LTU Information Security, SU Information Security, KAU Cybersecurity, and KAU Intelligent Communication Systems or LTU Cyber Security (section 3). Document formats (section 5). Submission guide (section 7) |
+| **You must provide** | 1. HR letters, then **SI work forms signed and stamped** (at most 3 employers).<br>2. One or two real leadership examples with a signatory.<br>3. **2 references on SI's template** (at least 1 work-based).<br>4. **DTU sends your transcript directly to UHR.**<br>5. Degree certificate and passport scans.<br>6. Your decision to pay **SEK 900** (after 13 Nov).<br>7. Your final order of the 4 programmes |
+| **Verify** | **On 13 Nov:** SI's 2027/28 programme list, templates and any rule change (E1 page).<br>Each university's entry requirements (E2: LTU, SU, KAU).<br>Experience calculation: the SI row must say **"MEETS (documented)"** |
+| **Exact portal links** | University application: https://www.universityadmissions.se<br>SI application: the portal link on https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/ (E1) |
+| **Deadlines** | universityadmissions.se: **15 Jan 2027** (68 days).<br>Fee and documents: **1 Feb 2027**.<br>SI portal: **8–24 Feb 2027, closes 14:59 CET** (E1) |
+| **Final checks** | The 8 checks in section 8 |
+
+
 **Evidence:**
 
 - SI and University Admissions facts are **verified on the official sites (E1)**, re-read on 8 Nov 2026.
@@ -127,7 +141,7 @@ Practise once on camera.
 # 8. Final audit checklist
 
 - ☐ Every programme is on SI's 2027/28 list
-- ☐ The "SI hours - no double count" sheet shows **MEETS** with E0/E1 evidence only
+- ☐ `15_EMPLOYMENT_EVIDENCE/Experience_Calculation.xlsx`: the SI row on "Results" shows **MEETS (documented)**, with E0/E1 evidence only
 - ☐ CV in the SI template, ≤ 3 pages; dates identical to the HR letters and forms
 - ☐ Work + leadership forms signed **and stamped**; one PDF ≤ 5 pages; work forms first, newest first
 - ☐ References on the SI template, signed and stamped; referees available until 22 Apr

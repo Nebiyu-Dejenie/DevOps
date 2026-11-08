@@ -1,6 +1,6 @@
 ---
 title: "Portfolio of Executed Projects"
-subtitle: "[Passport name]. Application to AISS (Erasmus Mundus), September 2027"
+subtitle: "[Passport name]. Application to Artificial Intelligence for Sustainable Societies (SITeS-JM), Erasmus Mundus, September 2027"
 ---
 
 *AISS assesses whether "the portfolio has a summary of the projects and is not just a collection of articles or links, and the items are explained clearly and understandably without a need to go through extra links and files" (criterion 1a). Each item must be an "actual project that has been executed", with "a clear summary and connection to the program, explaining the skill set needed to select and execute these" (2b). Originality is assessed (2c).*

@@ -3,6 +3,21 @@ title: "CMU-Africa MSIT + Mastercard Foundation Scholars: Submission Pack"
 subtitle: "Kigali, Rwanda (African opportunity). Early deadline 15 Dec 2026: submit by 12 Dec"
 ---
 
+# 0. Submission readiness (Phase 8, 8 Nov 2026)
+
+| Question | Answer |
+|--|--------|
+| **Can it be submitted today?** | **No.** Every piece of writing is drafted, but facts that only you or HR can supply are missing |
+| **Complete: ready to copy-paste** | Programme (MS Information Technology, Fall 2027, Kigali). Education (Debre Tabor University, BSc Computer Science, Extension programme, 2017/18–2021/22, awarded 14 Jul 2022). **GPA 2.62 on a 4.00 scale, exactly as printed.** English test: leave blank before 15 Dec. Mastercard Foundation interest: yes |
+| **Drafted: rewrite in your own words** | Essays A–D (section 4, each ≤ 300 words); video-essay practice (section 5); financial-need template (section 6); technical-test plan (section 7); interview preparation (section 11) |
+| **You must provide** | 1. The **real essay questions** from the portal (you create the account yourself).<br>2. **SantimPay and Kifiya HR letters** (titles, dates).<br>3. One real incident story and one leadership story.<br>4. **Three recommenders' agreement**: final-project supervisor, A− course lecturer, SantimPay manager (name, title, e-mail).<br>5. Transcript scan and grading key in **one PDF**.<br>6. Dereja dates and numbers, and your giving-back commitment.<br>7. Passport details, typed by you (private).<br>8. Financial figures (after submitting) |
+| **Verify in your browser (E2)** | The deadlines (15 Dec early, 15 Jan final); the number of essays and the 300-word limit; the video-essay format; Duolingo fee coverage for early applicants; tuition US$16,000; the transcript rules |
+| **Exact portal link** | Step 1, online application: https://www.africa.engineering.cmu.edu/admissions/how-to-apply/step-1.html (E2) |
+| **Deadline** | **Early deadline 15 Dec 2026, so submit by 12 Dec** (34 days from 8 Nov). Final deadline 15 Jan 2027 (E2) |
+| **Final checks** | The 9 checks in section 10, plus: no `[…]` left anywhere, and the CV and essays use exactly the HR-letter titles and dates |
+| **Blocking items, in order** | Essay questions (15 Nov) → HR letters (25 Nov) → recommenders and transcript PDF (1 Dec) → video practice (10 Dec) |
+
+
 **Evidence status:**
 
 - africa.engineering.cmu.edu cannot be opened from this session, so every CMU-Africa fact below is **search-indexed (E2)**. Confirm each in your browser before submitting.
